@@ -1,0 +1,1001 @@
+id,timestamp,sender,body,true_type,true_amount,true_merchant,true_category
+1,2026-05-01T20:47:27,ICICIB,"ICICI Bank Acct XX2489 debited for Rs 1,228.37 on 01-May-26; Metro Recharge credited. Bal: Rs 1,031,326.49",debit,1228.37,Metro Recharge,Transport
+2,2026-05-02T10:20:03,SBIINB,"Dear Customer, Rs 454.90 spent on your SBI Card XX7564 at BIGBASKET on 02/05/26. Avl limit Rs 1,247,444.57",debit,454.9,BigBasket,Groceries
+3,2026-05-02T22:18:29,AXISBK,"Rs.844.33 debited from A/c XX6415 on 02-05-26 to VPA zomato@upi (Zomato). Avl Bal Rs.1,002,942.49",debit,844.33,Zomato,Food
+4,2026-05-02T23:14:57,VK-PROMO,Your credit card statement is ready. Pay by 15th to avoid late fee.,noise,,,
+5,2026-05-03T09:08:20,SBIINB,"INR 1,483.16 debited from Axis Bank A/c XX7044 on 03-05-2026 Info: UPI/ACT Fibernet. Bal INR 676,705.45",debit,1483.16,ACT Fibernet,Bills
+6,2026-05-03T21:54:50,ICICIB,"Txn alert: Tata Power charged you Rs 1280 via card ending 4304. Remaining balance is 934,983.33 rupees.",debit,1280.0,Tata Power,Bills
+7,2026-05-04T02:16:08,AXISBK,"ICICI Bank Acct XX3571 debited for Rs 713.57 on 04-May-26; Netflix credited. Bal: Rs 913,256.15",debit,713.57,Netflix,Entertainment
+8,2026-05-04T04:53:32,AXISBK,"INR 1,117.89 debited from Axis Bank A/c XX8514 on 04-05-2026 Info: UPI/Uber. Bal INR 974,274.17",debit,1117.89,Uber,Transport
+9,2026-05-04T05:36:09,SBIINB,"Rs.3,306.96 debited from A/c XX9598 on 04-05-26 to VPA myntra@upi (Myntra). Avl Bal Rs.915,202.18",debit,3306.96,Myntra,Shopping
+10,2026-05-04T06:57:47,AXISBK,Money sent! 1302 bucks left acct 7882 -> 1mg. You have 292513 remaining.,debit,1302.0,1mg,Health
+11,2026-05-04T12:00:06,HDFCBK,"Dear Customer, Rs 423.68 spent on your SBI Card XX6624 at IRCTC on 04/05/26. Avl limit Rs 1,014,001.14",debit,423.68,IRCTC,Transport
+12,2026-05-04T12:16:55,VK-PROMO,OTP for your transaction is 483920. Do not share it with anyone.,noise,,,
+13,2026-05-04T13:46:48,AXISBK,"Dear Customer, Rs 301.47 spent on your SBI Card XX9615 at 1MG on 04/05/26. Avl limit Rs 1,242,032.88",debit,301.47,1mg,Health
+14,2026-05-04T22:14:23,ICICIB,"Your payment of 1,919.00 rupees to Zepto went through today. Account XX8860 now has 1,241,646.75 left.",debit,1919.0,Zepto,Groceries
+15,2026-05-04T23:52:35,SBIINB,"Dear Customer, Rs 277.81 spent on your SBI Card XX3035 at STARBUCKS on 04/05/26. Avl limit Rs 596,449.44",debit,277.81,Starbucks,Food
+16,2026-05-05T00:30:53,ICICIB,"INR 1,810.00 credited to Axis Bank A/c XX1606 on 05-05-2026 Info: REFUND/Dominos. Bal INR 1,211,035.63",credit,1810.0,Dominos,Refund
+17,2026-05-05T01:11:14,AXISBK,"Rs.3,064.87 debited from A/c XX4315 on 05-05-26 to VPA flipkart@upi (Flipkart). Avl Bal Rs.954,097.85",debit,3064.87,Flipkart,Shopping
+18,2026-05-05T12:54:41,AXISBK,Money sent! 2279 bucks left acct 5792 -> BigBasket. You have 1007285 remaining.,debit,2279.0,BigBasket,Groceries
+19,2026-05-05T13:07:39,SBIINB,"Dear Customer, Rs 137.09 spent on your SBI Card XX4742 at BARBEQUE NATION on 05/05/26. Avl limit Rs 824,769.57",debit,137.09,Barbeque Nation,Food
+20,2026-05-05T20:58:02,ICICIB,"Dear Customer, Rs 463.86 spent on your SBI Card XX3643 at INDIAN OIL on 05/05/26. Avl limit Rs 1,311,908.24",debit,463.86,Indian Oil,Transport
+21,2026-05-06T02:41:53,ICICIB,"INR 1,318.14 debited from Axis Bank A/c XX4806 on 06-05-2026 Info: UPI/Reliance Fresh. Bal INR 1,232,099.05",debit,1318.14,Reliance Fresh,Groceries
+22,2026-05-06T04:36:22,HDFCBK,"Your payment of 1,155.00 rupees to Ola went through today. Account XX4992 now has 964,576.79 left.",debit,1155.0,Ola,Transport
+23,2026-05-06T04:45:56,SBIINB,"INR 535.18 debited from Axis Bank A/c XX6114 on 06-05-2026 Info: UPI/Dominos. Bal INR 1,054,650.41",debit,535.18,Dominos,Food
+24,2026-05-06T11:25:47,ICICIB,"Rs.5,725.55 debited from A/c XX4817 on 06-05-26 to VPA amazon@upi (Amazon). Avl Bal Rs.670,657.91",debit,5725.55,Amazon,Shopping
+25,2026-05-06T16:37:23,SBIINB,"ICICI Bank Acct XX6374 debited for Rs 5,492.57 on 06-May-26; Ajio credited. Bal: Rs 285,334.70",debit,5492.57,Ajio,Shopping
+26,2026-05-06T22:23:21,ICICIB,"Rs.1,562.87 debited from A/c XX2468 on 06-05-26 to VPA irctc@upi (IRCTC). Avl Bal Rs.585,147.78",debit,1562.87,IRCTC,Transport
+27,2026-05-07T10:55:53,ICICIB,"Dear Customer, Rs 1,007.35 spent on your SBI Card XX3955 at RELIANCE FRESH on 07/05/26. Avl limit Rs 379,725.65",debit,1007.35,Reliance Fresh,Groceries
+28,2026-05-07T12:21:26,SBIINB,"Dear Customer, Rs 698.75 spent on your SBI Card XX2487 at MEDPLUS on 07/05/26. Avl limit Rs 1,311,320.05",debit,698.75,MedPlus,Health
+29,2026-05-07T14:31:17,HDFCBK,"INR 1,751.41 debited from Axis Bank A/c XX2631 on 07-05-2026 Info: UPI/Uber. Bal INR 1,290,582.88",debit,1751.41,Uber,Transport
+30,2026-05-07T21:07:32,VK-PROMO,OTP for your transaction is 483920. Do not share it with anyone.,noise,,,
+31,2026-05-07T23:07:45,VK-PROMO,Get 20% cashback on your next recharge! T&C apply. Visit bit.ly/offr,noise,,,
+32,2026-05-07T23:53:42,AXISBK,Money sent! 883 bucks left acct 5703 -> Barbeque Nation. You have 571171 remaining.,debit,883.0,Barbeque Nation,Food
+33,2026-05-08T02:08:36,HDFCBK,"Rs.146.19 debited from A/c XX7868 on 08-05-26 to VPA kfc@upi (KFC). Avl Bal Rs.568,647.94",debit,146.19,KFC,Food
+34,2026-05-08T07:56:37,AXISBK,"Rs.870.16 debited from A/c XX1620 on 08-05-26 to VPA starbucks@upi (Starbucks). Avl Bal Rs.1,142,773.37",debit,870.16,Starbucks,Food
+35,2026-05-09T02:11:32,AXISBK,"INR 134.68 debited from Axis Bank A/c XX8551 on 09-05-2026 Info: UPI/MedPlus. Bal INR 1,281,868.77",debit,134.68,MedPlus,Health
+36,2026-05-09T03:15:44,ICICIB,"Rs.882.35 debited from A/c XX1932 on 09-05-26 to VPA chaipoint@upi (Chai Point). Avl Bal Rs.362,648.66",debit,882.35,Chai Point,Food
+37,2026-05-09T13:15:34,ICICIB,"ICICI Bank Acct XX5053 debited for Rs 242.26 on 09-May-26; DMart credited. Bal: Rs 1,006,006.91",debit,242.26,DMart,Groceries
+38,2026-05-10T02:53:02,HDFCBK,"ICICI Bank Acct XX7936 debited for Rs 2,118.45 on 10-May-26; DMart credited. Bal: Rs 801,437.96",debit,2118.45,DMart,Groceries
+39,2026-05-10T07:24:40,AXISBK,"Dear Customer, Rs 2,177.99 spent on your SBI Card XX6213 at TNEB on 10/05/26. Avl limit Rs 312,513.86",debit,2177.99,TNEB,Bills
+40,2026-05-10T09:13:53,SBIINB,"Rs.52,000.00 credited to A/c XX1201 on 10-05-26 by ACME CORP SALARY. Avl Bal Rs.679,959.89",credit,52000.0,ACME CORP SALARY,Income
+41,2026-05-10T15:39:36,AXISBK,"Dear Customer, Rs 355.11 spent on your SBI Card XX4612 at ZOMATO on 10/05/26. Avl limit Rs 371,976.22",debit,355.11,Zomato,Food
+42,2026-05-10T17:02:57,VK-PROMO,Your credit card statement is ready. Pay by 15th to avoid late fee.,noise,,,
+43,2026-05-11T11:18:07,HDFCBK,Money sent! 218 bucks left acct 9764 -> Dominos. You have 939598 remaining.,debit,218.0,Dominos,Food
+44,2026-05-11T15:59:19,AXISBK,"INR 1,080.28 debited from Axis Bank A/c XX3752 on 11-05-2026 Info: UPI/BigBasket. Bal INR 774,835.45",debit,1080.28,BigBasket,Groceries
+45,2026-05-11T17:18:52,HDFCBK,Money sent! 885 bucks left acct 6469 -> PVR Cinemas. You have 1315371 remaining.,debit,885.0,PVR Cinemas,Entertainment
+46,2026-05-12T00:46:33,AXISBK,"INR 737.42 debited from Axis Bank A/c XX3745 on 12-05-2026 Info: UPI/Zepto. Bal INR 1,179,532.89",debit,737.42,Zepto,Groceries
+47,2026-05-12T03:23:42,HDFCBK,"INR 591.00 credited to Axis Bank A/c XX8617 on 12-05-2026 Info: REFUND/Airtel. Bal INR 1,009,564.17",credit,591.0,Airtel,Refund
+48,2026-05-12T05:35:16,ICICIB,"Hi! We've deducted 552.00 INR from your wallet for Barbeque Nation (12 May). Balance after: 750,925.30",debit,552.0,Barbeque Nation,Food
+49,2026-05-12T09:48:07,ICICIB,"INR 1,503.43 debited from Axis Bank A/c XX2038 on 12-05-2026 Info: UPI/Rapido. Bal INR 1,235,510.43",debit,1503.43,Rapido,Transport
+50,2026-05-12T12:36:59,HDFCBK,"Hi! We've deducted 774.00 INR from your wallet for KFC (12 May). Balance after: 971,774.82",debit,774.0,KFC,Food
+51,2026-05-12T22:24:34,AXISBK,"Rs.192.66 debited from A/c XX1821 on 12-05-26 to VPA spotify@upi (Spotify). Avl Bal Rs.288,747.96",debit,192.66,Spotify,Entertainment
+52,2026-05-13T11:47:23,ICICIB,"ICICI Bank Acct XX4530 debited for Rs 4,569.72 on 13-May-26; Ajio credited. Bal: Rs 911,943.69",debit,4569.72,Ajio,Shopping
+53,2026-05-14T02:06:51,AXISBK,"Dear Customer, Rs 393.18 spent on your SBI Card XX4320 at PVR CINEMAS on 14/05/26. Avl limit Rs 1,208,156.73",debit,393.18,PVR Cinemas,Entertainment
+54,2026-05-14T13:47:50,AXISBK,"Txn alert: Hotstar charged you Rs 172 via card ending 6097. Remaining balance is 794,432.45 rupees.",debit,172.0,Hotstar,Entertainment
+55,2026-05-14T14:06:05,ICICIB,"ICICI Bank Acct XX3067 debited for Rs 625.82 on 14-May-26; Metro Recharge credited. Bal: Rs 326,331.34",debit,625.82,Metro Recharge,Transport
+56,2026-05-14T20:51:50,HDFCBK,"Rs.60,000.00 credited to A/c XX2494 on 14-05-26 by ACME CORP SALARY. Avl Bal Rs.385,119.66",credit,60000.0,ACME CORP SALARY,Income
+57,2026-05-15T00:45:12,HDFCBK,Money sent! 1621 bucks left acct 3474 -> BigBasket. You have 546051 remaining.,debit,1621.0,BigBasket,Groceries
+58,2026-05-16T00:27:49,HDFCBK,"INR 1,601.00 credited to Axis Bank A/c XX2561 on 16-05-2026 Info: REFUND/Spotify. Bal INR 1,235,795.80",credit,1601.0,Spotify,Refund
+59,2026-05-16T02:40:23,AXISBK,"Rs.52,000.00 credited to A/c XX8716 on 16-05-26 by ACME CORP SALARY. Avl Bal Rs.1,250,976.46",credit,52000.0,ACME CORP SALARY,Income
+60,2026-05-16T04:13:17,ICICIB,"INR 1,787.72 debited from Axis Bank A/c XX8237 on 16-05-2026 Info: UPI/Blinkit. Bal INR 303,249.29",debit,1787.72,Blinkit,Groceries
+61,2026-05-16T05:47:56,SBIINB,"Rs.546.70 debited from A/c XX6600 on 16-05-26 to VPA swiggy@upi (Swiggy). Avl Bal Rs.756,859.92",debit,546.7,Swiggy,Food
+62,2026-05-16T08:44:07,AXISBK,"ICICI Bank Acct XX2020 debited for Rs 323.57 on 16-May-26; Dominos credited. Bal: Rs 729,030.11",debit,323.57,Dominos,Food
+63,2026-05-16T10:39:42,HDFCBK,"Rs.807.83 debited from A/c XX3442 on 16-05-26 to VPA ola@upi (Ola). Avl Bal Rs.277,742.22",debit,807.83,Ola,Transport
+64,2026-05-16T22:16:21,AXISBK,"Rs.145.58 debited from A/c XX1308 on 16-05-26 to VPA swiggy@upi (Swiggy). Avl Bal Rs.1,260,282.93",debit,145.58,Swiggy,Food
+65,2026-05-16T23:12:18,HDFCBK,"Txn alert: Starbucks charged you Rs 268 via card ending 4537. Remaining balance is 976,409.76 rupees.",debit,268.0,Starbucks,Food
+66,2026-05-16T23:13:14,SBIINB,"Rs.1,799.87 debited from A/c XX3174 on 16-05-26 to VPA bigbasket@upi (BigBasket). Avl Bal Rs.595,916.63",debit,1799.87,BigBasket,Groceries
+67,2026-05-17T15:49:36,ICICIB,"Rs.1,122.13 debited from A/c XX3317 on 17-05-26 to VPA ajio@upi (Ajio). Avl Bal Rs.412,978.51",debit,1122.13,Ajio,Shopping
+68,2026-05-17T20:06:27,SBIINB,"INR 1,908.00 credited to Axis Bank A/c XX7092 on 17-05-2026 Info: REFUND/IRCTC. Bal INR 597,716.50",credit,1908.0,IRCTC,Refund
+69,2026-05-17T20:08:29,SBIINB,"Dear Customer, Rs 2,318.13 spent on your SBI Card XX9791 at ZEPTO on 17/05/26. Avl limit Rs 578,524.33",debit,2318.13,Zepto,Groceries
+70,2026-05-17T20:41:17,HDFCBK,"Dear Customer, Rs 511.42 spent on your SBI Card XX8796 at STARBUCKS on 17/05/26. Avl limit Rs 1,019,137.32",debit,511.42,Starbucks,Food
+71,2026-05-17T23:14:04,AXISBK,"Rs.306.47 debited from A/c XX1203 on 17-05-26 to VPA dominos@upi (Dominos). Avl Bal Rs.1,243,565.75",debit,306.47,Dominos,Food
+72,2026-05-18T04:46:39,ICICIB,"ICICI Bank Acct XX1605 debited for Rs 3,314.63 on 18-May-26; Flipkart credited. Bal: Rs 1,290,810.52",debit,3314.63,Flipkart,Shopping
+73,2026-05-18T04:55:08,ICICIB,"Txn alert: Ajio charged you Rs 3908 via card ending 7387. Remaining balance is 954,093.80 rupees.",debit,3908.0,Ajio,Shopping
+74,2026-05-18T06:33:36,AXISBK,"Dear Customer, Rs 847.73 spent on your SBI Card XX3248 at HOTSTAR on 18/05/26. Avl limit Rs 1,144,692.75",debit,847.73,Hotstar,Entertainment
+75,2026-05-18T11:21:48,SBIINB,"Dear Customer, Rs 416.40 spent on your SBI Card XX5839 at ZOMATO on 18/05/26. Avl limit Rs 588,556.54",debit,416.4,Zomato,Food
+76,2026-05-18T11:25:30,AXISBK,"INR 166.11 debited from Axis Bank A/c XX6632 on 18-05-2026 Info: UPI/Rapido. Bal INR 808,440.79",debit,166.11,Rapido,Transport
+77,2026-05-18T16:13:38,HDFCBK,"Your payment of 850.00 rupees to Dominos went through today. Account XX7567 now has 425,058.92 left.",debit,850.0,Dominos,Food
+78,2026-05-18T18:53:17,AXISBK,"ICICI Bank Acct XX2313 debited for Rs 451.54 on 18-May-26; BigBasket credited. Bal: Rs 1,234,425.68",debit,451.54,BigBasket,Groceries
+79,2026-05-18T21:08:04,ICICIB,"Dear Customer, Rs 1,610.92 spent on your SBI Card XX6236 at IRCTC on 18/05/26. Avl limit Rs 422,696.73",debit,1610.92,IRCTC,Transport
+80,2026-05-18T22:45:55,ICICIB,Money sent! 685 bucks left acct 2049 -> Swiggy. You have 937437 remaining.,debit,685.0,Swiggy,Food
+81,2026-05-19T05:47:23,AXISBK,Money sent! 883 bucks left acct 6198 -> Swiggy. You have 1227451 remaining.,debit,883.0,Swiggy,Food
+82,2026-05-19T08:03:07,ICICIB,"ICICI Bank Acct XX5835 debited for Rs 733.48 on 19-May-26; Zomato credited. Bal: Rs 294,021.23",debit,733.48,Zomato,Food
+83,2026-05-19T08:27:59,ICICIB,"ICICI Bank Acct XX7922 debited for Rs 413.78 on 19-May-26; Blinkit credited. Bal: Rs 1,211,091.37",debit,413.78,Blinkit,Groceries
+84,2026-05-19T12:43:43,AXISBK,"Your payment of 290.00 rupees to BookMyShow went through today. Account XX9914 now has 808,803.13 left.",debit,290.0,BookMyShow,Entertainment
+85,2026-05-19T12:58:55,AXISBK,"Dear Customer, Rs 419.59 spent on your SBI Card XX2870 at BARBEQUE NATION on 19/05/26. Avl limit Rs 977,784.84",debit,419.59,Barbeque Nation,Food
+86,2026-05-19T15:13:44,HDFCBK,"Rs.52,000.00 credited to A/c XX4475 on 19-05-26 by ACME CORP SALARY. Avl Bal Rs.332,048.57",credit,52000.0,ACME CORP SALARY,Income
+87,2026-05-19T16:29:50,SBIINB,"Dear Customer, Rs 2,420.47 spent on your SBI Card XX6724 at MYNTRA on 19/05/26. Avl limit Rs 998,007.54",debit,2420.47,Myntra,Shopping
+88,2026-05-19T19:19:08,ICICIB,"Txn alert: 1mg charged you Rs 252 via card ending 7534. Remaining balance is 1,217,719.95 rupees.",debit,252.0,1mg,Health
+89,2026-05-19T22:38:09,SBIINB,"Dear Customer, Rs 1,630.25 spent on your SBI Card XX4872 at INDIAN OIL on 19/05/26. Avl limit Rs 290,325.59",debit,1630.25,Indian Oil,Transport
+90,2026-05-20T03:24:35,AXISBK,"Dear Customer, Rs 813.91 spent on your SBI Card XX1618 at DOMINOS on 20/05/26. Avl limit Rs 969,309.86",debit,813.91,Dominos,Food
+91,2026-05-20T06:43:29,HDFCBK,"INR 2,240.50 debited from Axis Bank A/c XX1751 on 20-05-2026 Info: UPI/Flipkart. Bal INR 867,416.76",debit,2240.5,Flipkart,Shopping
+92,2026-05-20T10:36:57,ICICIB,"INR 339.51 debited from Axis Bank A/c XX9755 on 20-05-2026 Info: UPI/KFC. Bal INR 1,263,473.17",debit,339.51,KFC,Food
+93,2026-05-20T11:11:21,HDFCBK,"INR 723.39 debited from Axis Bank A/c XX3742 on 20-05-2026 Info: UPI/Barbeque Nation. Bal INR 993,575.70",debit,723.39,Barbeque Nation,Food
+94,2026-05-20T16:56:51,SBIINB,"Dear Customer, Rs 1,163.99 spent on your SBI Card XX4846 at ZEPTO on 20/05/26. Avl limit Rs 282,377.71",debit,1163.99,Zepto,Groceries
+95,2026-05-21T04:41:24,VK-PROMO,OTP for your transaction is 483920. Do not share it with anyone.,noise,,,
+96,2026-05-21T06:17:52,ICICIB,"ICICI Bank Acct XX4373 debited for Rs 945.12 on 21-May-26; ACT Fibernet credited. Bal: Rs 1,280,498.88",debit,945.12,ACT Fibernet,Bills
+97,2026-05-21T07:19:56,AXISBK,"Rs.1,624.41 debited from A/c XX4513 on 21-05-26 to VPA tatapower@upi (Tata Power). Avl Bal Rs.938,966.84",debit,1624.41,Tata Power,Bills
+98,2026-05-21T08:29:08,ICICIB,"Txn alert: Swiggy charged you Rs 672 via card ending 4180. Remaining balance is 282,433.57 rupees.",debit,672.0,Swiggy,Food
+99,2026-05-21T08:34:23,HDFCBK,"INR 791.74 debited from Axis Bank A/c XX3252 on 21-05-2026 Info: UPI/Practo. Bal INR 435,440.61",debit,791.74,Practo,Health
+100,2026-05-21T16:25:58,HDFCBK,"Your payment of 1,379.00 rupees to Zepto went through today. Account XX3170 now has 586,710.65 left.",debit,1379.0,Zepto,Groceries
+101,2026-05-21T18:05:35,ICICIB,"ICICI Bank Acct XX1200 debited for Rs 2,420.64 on 21-May-26; DMart credited. Bal: Rs 276,040.86",debit,2420.64,DMart,Groceries
+102,2026-05-21T18:08:27,ICICIB,"Dear Customer, Rs 1,850.62 spent on your SBI Card XX2311 at ZEPTO on 21/05/26. Avl limit Rs 437,986.70",debit,1850.62,Zepto,Groceries
+103,2026-05-21T18:21:09,VK-PROMO,Your credit card statement is ready. Pay by 15th to avoid late fee.,noise,,,
+104,2026-05-21T20:57:14,ICICIB,"Dear Customer, Rs 754.43 spent on your SBI Card XX6133 at CHAI POINT on 21/05/26. Avl limit Rs 594,472.20",debit,754.43,Chai Point,Food
+105,2026-05-21T21:03:48,ICICIB,"INR 564.72 debited from Axis Bank A/c XX9542 on 21-05-2026 Info: UPI/KFC. Bal INR 968,431.01",debit,564.72,KFC,Food
+106,2026-05-22T14:28:36,SBIINB,"Txn alert: 1mg charged you Rs 466 via card ending 5166. Remaining balance is 1,030,324.51 rupees.",debit,466.0,1mg,Health
+107,2026-05-23T01:23:07,HDFCBK,"ICICI Bank Acct XX9666 debited for Rs 2,791.50 on 23-May-26; Myntra credited. Bal: Rs 1,021,946.95",debit,2791.5,Myntra,Shopping
+108,2026-05-23T03:13:52,HDFCBK,Money sent! 3901 bucks left acct 5623 -> Ajio. You have 1148803 remaining.,debit,3901.0,Ajio,Shopping
+109,2026-05-23T04:17:38,VK-PROMO,OTP for your transaction is 483920. Do not share it with anyone.,noise,,,
+110,2026-05-23T06:48:00,HDFCBK,"INR 278.00 credited to Axis Bank A/c XX2577 on 23-05-2026 Info: REFUND/Zepto. Bal INR 982,140.70",credit,278.0,Zepto,Refund
+111,2026-05-23T11:52:14,AXISBK,"Hi! We've deducted 803.00 INR from your wallet for Barbeque Nation (23 May). Balance after: 177,546.94",debit,803.0,Barbeque Nation,Food
+112,2026-05-23T13:33:00,SBIINB,"Dear Customer, Rs 233.22 spent on your SBI Card XX1260 at BARBEQUE NATION on 23/05/26. Avl limit Rs 1,315,399.10",debit,233.22,Barbeque Nation,Food
+113,2026-05-23T14:04:20,AXISBK,Money sent! 138 bucks left acct 3424 -> Barbeque Nation. You have 1234287 remaining.,debit,138.0,Barbeque Nation,Food
+114,2026-05-23T17:07:21,AXISBK,"ICICI Bank Acct XX3444 debited for Rs 162.14 on 23-May-26; Swiggy credited. Bal: Rs 1,201,631.16",debit,162.14,Swiggy,Food
+115,2026-05-23T18:19:36,AXISBK,"Rs.55,000.00 credited to A/c XX7738 on 23-05-26 by ACME CORP SALARY. Avl Bal Rs.918,509.14",credit,55000.0,ACME CORP SALARY,Income
+116,2026-05-24T04:20:10,ICICIB,"Dear Customer, Rs 5,607.57 spent on your SBI Card XX1370 at FLIPKART on 24/05/26. Avl limit Rs 620,712.75",debit,5607.57,Flipkart,Shopping
+117,2026-05-24T05:31:53,SBIINB,"INR 284.28 debited from Axis Bank A/c XX5279 on 24-05-2026 Info: UPI/Apollo Pharmacy. Bal INR 270,979.15",debit,284.28,Apollo Pharmacy,Health
+118,2026-05-24T08:32:11,HDFCBK,"Rs.633.73 debited from A/c XX8428 on 24-05-26 to VPA actfibernet@upi (ACT Fibernet). Avl Bal Rs.631,296.59",debit,633.73,ACT Fibernet,Bills
+119,2026-05-24T09:43:03,AXISBK,"Rs.52,000.00 credited to A/c XX4365 on 24-05-26 by ACME CORP SALARY. Avl Bal Rs.574,159.09",credit,52000.0,ACME CORP SALARY,Income
+120,2026-05-24T15:50:28,VK-PROMO,Get 20% cashback on your next recharge! T&C apply. Visit bit.ly/offr,noise,,,
+121,2026-05-24T18:47:30,AXISBK,"Dear Customer, Rs 261.72 spent on your SBI Card XX4468 at HOTSTAR on 24/05/26. Avl limit Rs 1,210,773.91",debit,261.72,Hotstar,Entertainment
+122,2026-05-25T04:33:14,SBIINB,"Dear Customer, Rs 750.60 spent on your SBI Card XX8357 at ZOMATO on 25/05/26. Avl limit Rs 803,556.41",debit,750.6,Zomato,Food
+123,2026-05-25T07:55:13,SBIINB,"Rs.60,000.00 credited to A/c XX5061 on 25-05-26 by ACME CORP SALARY. Avl Bal Rs.231,370.81",credit,60000.0,ACME CORP SALARY,Income
+124,2026-05-25T10:00:47,HDFCBK,"INR 436.83 debited from Axis Bank A/c XX1195 on 25-05-2026 Info: UPI/Practo. Bal INR 776,431.88",debit,436.83,Practo,Health
+125,2026-05-25T12:40:10,ICICIB,"Rs.423.75 debited from A/c XX5496 on 25-05-26 to VPA metrorecharge@upi (Metro Recharge). Avl Bal Rs.1,024,738.45",debit,423.75,Metro Recharge,Transport
+126,2026-05-25T17:58:35,HDFCBK,"Rs.3,889.55 debited from A/c XX7006 on 25-05-26 to VPA decathlon@upi (Decathlon). Avl Bal Rs.820,880.02",debit,3889.55,Decathlon,Shopping
+127,2026-05-26T17:26:46,ICICIB,"Rs.653.79 debited from A/c XX7003 on 26-05-26 to VPA metrorecharge@upi (Metro Recharge). Avl Bal Rs.1,282,451.97",debit,653.79,Metro Recharge,Transport
+128,2026-05-26T18:04:57,SBIINB,"Dear Customer, Rs 1,513.36 spent on your SBI Card XX3981 at APOLLO PHARMACY on 26/05/26. Avl limit Rs 414,984.84",debit,1513.36,Apollo Pharmacy,Health
+129,2026-05-26T19:36:53,AXISBK,"Dear Customer, Rs 1,383.44 spent on your SBI Card XX2584 at MEDPLUS on 26/05/26. Avl limit Rs 456,266.46",debit,1383.44,MedPlus,Health
+130,2026-05-26T22:02:56,SBIINB,"Rs.204.06 debited from A/c XX7229 on 26-05-26 to VPA bookmyshow@upi (BookMyShow). Avl Bal Rs.371,069.49",debit,204.06,BookMyShow,Entertainment
+131,2026-05-26T23:04:31,AXISBK,"Dear Customer, Rs 107.94 spent on your SBI Card XX8105 at 1MG on 26/05/26. Avl limit Rs 827,923.54",debit,107.94,1mg,Health
+132,2026-05-27T12:16:29,SBIINB,"Dear Customer, Rs 1,587.54 spent on your SBI Card XX1673 at IRCTC on 27/05/26. Avl limit Rs 1,228,334.13",debit,1587.54,IRCTC,Transport
+133,2026-05-27T16:46:47,AXISBK,"ICICI Bank Acct XX6296 debited for Rs 4,522.18 on 27-May-26; Ajio credited. Bal: Rs 1,234,194.80",debit,4522.18,Ajio,Shopping
+134,2026-05-27T17:44:01,ICICIB,"INR 1,877.73 debited from Axis Bank A/c XX1726 on 27-05-2026 Info: UPI/Jio. Bal INR 446,137.74",debit,1877.73,Jio,Bills
+135,2026-05-27T19:56:25,AXISBK,"INR 581.55 debited from Axis Bank A/c XX5170 on 27-05-2026 Info: UPI/Apollo Pharmacy. Bal INR 951,821.08",debit,581.55,Apollo Pharmacy,Health
+136,2026-05-27T20:53:20,AXISBK,"Dear Customer, Rs 1,330.32 spent on your SBI Card XX9230 at BLINKIT on 27/05/26. Avl limit Rs 996,529.15",debit,1330.32,Blinkit,Groceries
+137,2026-05-28T03:53:24,HDFCBK,"Dear Customer, Rs 676.07 spent on your SBI Card XX7743 at SPOTIFY on 28/05/26. Avl limit Rs 603,063.84",debit,676.07,Spotify,Entertainment
+138,2026-05-28T04:24:19,SBIINB,"Rs.52,000.00 credited to A/c XX8564 on 28-05-26 by ACME CORP SALARY. Avl Bal Rs.298,303.06",credit,52000.0,ACME CORP SALARY,Income
+139,2026-05-28T12:10:06,ICICIB,"Dear Customer, Rs 309.21 spent on your SBI Card XX4281 at INDIAN OIL on 28/05/26. Avl limit Rs 829,453.71",debit,309.21,Indian Oil,Transport
+140,2026-05-28T15:57:55,ICICIB,"Dear Customer, Rs 1,298.66 spent on your SBI Card XX7762 at IRCTC on 28/05/26. Avl limit Rs 1,018,510.45",debit,1298.66,IRCTC,Transport
+141,2026-05-28T16:40:21,AXISBK,"Rs.52,000.00 credited to A/c XX9348 on 28-05-26 by ACME CORP SALARY. Avl Bal Rs.182,238.38",credit,52000.0,ACME CORP SALARY,Income
+142,2026-05-28T16:52:11,SBIINB,"INR 170.10 debited from Axis Bank A/c XX3471 on 28-05-2026 Info: UPI/Zomato. Bal INR 254,127.37",debit,170.1,Zomato,Food
+143,2026-05-28T22:25:57,SBIINB,"Your payment of 1,777.00 rupees to Rapido went through today. Account XX2410 now has 1,270,975.41 left.",debit,1777.0,Rapido,Transport
+144,2026-05-29T10:10:32,ICICIB,"INR 188.99 debited from Axis Bank A/c XX9624 on 29-05-2026 Info: UPI/KFC. Bal INR 1,142,584.38",debit,188.99,KFC,Food
+145,2026-05-29T11:30:30,HDFCBK,"Rs.60,000.00 credited to A/c XX5584 on 29-05-26 by ACME CORP SALARY. Avl Bal Rs.729,867.91",credit,60000.0,ACME CORP SALARY,Income
+146,2026-05-29T14:50:15,AXISBK,"INR 1,113.66 debited from Axis Bank A/c XX5439 on 29-05-2026 Info: UPI/Apollo Pharmacy. Bal INR 1,204,010.97",debit,1113.66,Apollo Pharmacy,Health
+147,2026-05-30T00:04:34,AXISBK,"INR 747.28 debited from Axis Bank A/c XX3525 on 30-05-2026 Info: UPI/Blinkit. Bal INR 1,180,902.01",debit,747.28,Blinkit,Groceries
+148,2026-05-30T04:06:20,SBIINB,"ICICI Bank Acct XX2036 debited for Rs 2,000.13 on 30-May-26; Blinkit credited. Bal: Rs 577,323.61",debit,2000.13,Blinkit,Groceries
+149,2026-05-30T05:02:54,AXISBK,"ICICI Bank Acct XX6237 debited for Rs 161.25 on 30-May-26; Zomato credited. Bal: Rs 1,265,120.40",debit,161.25,Zomato,Food
+150,2026-05-30T10:43:09,HDFCBK,"Dear Customer, Rs 852.42 spent on your SBI Card XX1400 at UBER on 30/05/26. Avl limit Rs 258,635.73",debit,852.42,Uber,Transport
+151,2026-05-30T10:48:47,HDFCBK,"Txn alert: Ola charged you Rs 1153 via card ending 8448. Remaining balance is 1,292,334.29 rupees.",debit,1153.0,Ola,Transport
+152,2026-05-30T13:28:12,AXISBK,"Rs.214.76 debited from A/c XX7109 on 30-05-26 to VPA dominos@upi (Dominos). Avl Bal Rs.1,279,661.84",debit,214.76,Dominos,Food
+153,2026-05-31T07:05:56,ICICIB,"Rs.60,000.00 credited to A/c XX3444 on 31-05-26 by ACME CORP SALARY. Avl Bal Rs.334,513.71",credit,60000.0,ACME CORP SALARY,Income
+154,2026-05-31T12:17:31,AXISBK,"ICICI Bank Acct XX3621 debited for Rs 2,491.08 on 31-May-26; Zepto credited. Bal: Rs 179,747.30",debit,2491.08,Zepto,Groceries
+155,2026-05-31T15:46:51,VK-PROMO,OTP for your transaction is 483920. Do not share it with anyone.,noise,,,
+156,2026-05-31T17:48:13,ICICIB,"ICICI Bank Acct XX5303 debited for Rs 243.13 on 31-May-26; PVR Cinemas credited. Bal: Rs 1,267,846.10",debit,243.13,PVR Cinemas,Entertainment
+157,2026-05-31T21:05:41,SBIINB,"ICICI Bank Acct XX8900 debited for Rs 1,045.39 on 31-May-26; Zepto credited. Bal: Rs 381,868.29",debit,1045.39,Zepto,Groceries
+158,2026-05-31T21:24:19,ICICIB,"Hi! We've deducted 543.00 INR from your wallet for Barbeque Nation (31 May). Balance after: 288,940.62",debit,543.0,Barbeque Nation,Food
+159,2026-06-01T02:58:18,HDFCBK,"ICICI Bank Acct XX2405 debited for Rs 842.85 on 01-Jun-26; KFC credited. Bal: Rs 1,014,424.82",debit,842.85,KFC,Food
+160,2026-06-01T07:56:20,SBIINB,"INR 471.39 debited from Axis Bank A/c XX4929 on 01-06-2026 Info: UPI/Starbucks. Bal INR 332,831.99",debit,471.39,Starbucks,Food
+161,2026-06-01T20:20:03,ICICIB,"Dear Customer, Rs 2,458.25 spent on your SBI Card XX7642 at MYNTRA on 01/06/26. Avl limit Rs 477,245.15",debit,2458.25,Myntra,Shopping
+162,2026-06-02T01:05:36,HDFCBK,"INR 844.40 debited from Axis Bank A/c XX7375 on 02-06-2026 Info: UPI/PVR Cinemas. Bal INR 938,122.44",debit,844.4,PVR Cinemas,Entertainment
+163,2026-06-02T03:30:05,HDFCBK,"Rs.52,000.00 credited to A/c XX4897 on 02-06-26 by ACME CORP SALARY. Avl Bal Rs.1,281,094.60",credit,52000.0,ACME CORP SALARY,Income
+164,2026-06-02T09:18:51,ICICIB,"ICICI Bank Acct XX7438 debited for Rs 986.27 on 02-Jun-26; Rapido credited. Bal: Rs 452,923.01",debit,986.27,Rapido,Transport
+165,2026-06-02T10:02:03,HDFCBK,"Rs.368.60 debited from A/c XX8393 on 02-06-26 to VPA swiggy@upi (Swiggy). Avl Bal Rs.757,406.62",debit,368.6,Swiggy,Food
+166,2026-06-02T11:21:31,AXISBK,"ICICI Bank Acct XX7365 debited for Rs 592.86 on 02-Jun-26; ACT Fibernet credited. Bal: Rs 1,217,127.09",debit,592.86,ACT Fibernet,Bills
+167,2026-06-02T14:13:16,AXISBK,"Hi! We've deducted 181.00 INR from your wallet for PVR Cinemas (02 Jun). Balance after: 1,223,555.94",debit,181.0,PVR Cinemas,Entertainment
+168,2026-06-02T15:17:59,VK-PROMO,OTP for your transaction is 483920. Do not share it with anyone.,noise,,,
+169,2026-06-03T01:31:49,SBIINB,"ICICI Bank Acct XX3281 debited for Rs 966.55 on 03-Jun-26; Tata Power credited. Bal: Rs 607,347.23",debit,966.55,Tata Power,Bills
+170,2026-06-03T03:18:57,HDFCBK,"INR 1,618.00 credited to Axis Bank A/c XX5906 on 03-06-2026 Info: REFUND/Amazon. Bal INR 307,729.41",credit,1618.0,Amazon,Refund
+171,2026-06-03T06:22:13,HDFCBK,"ICICI Bank Acct XX2069 debited for Rs 1,571.65 on 03-Jun-26; Zepto credited. Bal: Rs 825,253.56",debit,1571.65,Zepto,Groceries
+172,2026-06-03T09:38:23,AXISBK,"Rs.420.66 debited from A/c XX6614 on 03-06-26 to VPA starbucks@upi (Starbucks). Avl Bal Rs.957,162.72",debit,420.66,Starbucks,Food
+173,2026-06-03T11:10:25,SBIINB,"INR 326.73 debited from Axis Bank A/c XX7060 on 03-06-2026 Info: UPI/Apollo Pharmacy. Bal INR 1,207,000.05",debit,326.73,Apollo Pharmacy,Health
+174,2026-06-04T02:11:57,ICICIB,"Rs.316.67 debited from A/c XX2167 on 04-06-26 to VPA blinkit@upi (Blinkit). Avl Bal Rs.1,052,719.62",debit,316.67,Blinkit,Groceries
+175,2026-06-04T06:32:36,HDFCBK,"Dear Customer, Rs 788.32 spent on your SBI Card XX5991 at ZOMATO on 04/06/26. Avl limit Rs 1,260,879.51",debit,788.32,Zomato,Food
+176,2026-06-04T09:20:23,SBIINB,"Rs.809.07 debited from A/c XX6799 on 04-06-26 to VPA starbucks@upi (Starbucks). Avl Bal Rs.774,026.38",debit,809.07,Starbucks,Food
+177,2026-06-04T11:05:18,ICICIB,"Dear Customer, Rs 3,816.43 spent on your SBI Card XX8531 at MYNTRA on 04/06/26. Avl limit Rs 442,595.73",debit,3816.43,Myntra,Shopping
+178,2026-06-04T11:35:42,SBIINB,"INR 855.58 debited from Axis Bank A/c XX4268 on 04-06-2026 Info: UPI/Starbucks. Bal INR 1,306,910.43",debit,855.58,Starbucks,Food
+179,2026-06-04T20:48:19,SBIINB,Money sent! 461 bucks left acct 2097 -> Zepto. You have 1237674 remaining.,debit,461.0,Zepto,Groceries
+180,2026-06-05T00:41:13,ICICIB,"ICICI Bank Acct XX4875 debited for Rs 557.96 on 05-Jun-26; Decathlon credited. Bal: Rs 770,300.87",debit,557.96,Decathlon,Shopping
+181,2026-06-05T00:51:27,ICICIB,"ICICI Bank Acct XX9548 debited for Rs 890.29 on 05-Jun-26; 1mg credited. Bal: Rs 291,622.80",debit,890.29,1mg,Health
+182,2026-06-05T01:01:49,AXISBK,"Rs.60,000.00 credited to A/c XX6046 on 05-06-26 by ACME CORP SALARY. Avl Bal Rs.1,159,023.95",credit,60000.0,ACME CORP SALARY,Income
+183,2026-06-05T05:14:39,AXISBK,"Rs.470.67 debited from A/c XX8197 on 05-06-26 to VPA spotify@upi (Spotify). Avl Bal Rs.991,414.48",debit,470.67,Spotify,Entertainment
+184,2026-06-05T13:34:46,AXISBK,"Dear Customer, Rs 2,017.17 spent on your SBI Card XX1840 at AJIO on 05/06/26. Avl limit Rs 975,392.06",debit,2017.17,Ajio,Shopping
+185,2026-06-05T14:01:06,AXISBK,"Your payment of 370.00 rupees to Barbeque Nation went through today. Account XX1579 now has 679,589.89 left.",debit,370.0,Barbeque Nation,Food
+186,2026-06-05T15:51:09,HDFCBK,"Rs.1,488.37 debited from A/c XX6152 on 05-06-26 to VPA metrorecharge@upi (Metro Recharge). Avl Bal Rs.538,182.74",debit,1488.37,Metro Recharge,Transport
+187,2026-06-05T17:47:43,SBIINB,"Dear Customer, Rs 611.42 spent on your SBI Card XX9952 at BIGBASKET on 05/06/26. Avl limit Rs 982,627.33",debit,611.42,BigBasket,Groceries
+188,2026-06-06T01:11:22,AXISBK,"Rs.172.54 debited from A/c XX1891 on 06-06-26 to VPA barbequenation@upi (Barbeque Nation). Avl Bal Rs.981,344.80",debit,172.54,Barbeque Nation,Food
+189,2026-06-06T04:33:44,SBIINB,"Rs.229.70 debited from A/c XX6213 on 06-06-26 to VPA starbucks@upi (Starbucks). Avl Bal Rs.766,466.92",debit,229.7,Starbucks,Food
+190,2026-06-07T03:02:36,ICICIB,"ICICI Bank Acct XX3578 debited for Rs 737.66 on 07-Jun-26; ACT Fibernet credited. Bal: Rs 966,072.36",debit,737.66,ACT Fibernet,Bills
+191,2026-06-07T16:41:27,AXISBK,"Rs.925.42 debited from A/c XX3610 on 07-06-26 to VPA irctc@upi (IRCTC). Avl Bal Rs.460,393.84",debit,925.42,IRCTC,Transport
+192,2026-06-07T16:46:00,AXISBK,"INR 1,261.10 debited from Axis Bank A/c XX5770 on 07-06-2026 Info: UPI/Reliance Fresh. Bal INR 987,685.57",debit,1261.1,Reliance Fresh,Groceries
+193,2026-06-07T16:51:20,AXISBK,"ICICI Bank Acct XX9586 debited for Rs 371.63 on 07-Jun-26; Dominos credited. Bal: Rs 981,862.70",debit,371.63,Dominos,Food
+194,2026-06-07T20:00:00,ICICIB,"Dear Customer, Rs 2,169.58 spent on your SBI Card XX5361 at BLINKIT on 07/06/26. Avl limit Rs 1,239,863.30",debit,2169.58,Blinkit,Groceries
+195,2026-06-08T02:23:36,SBIINB,"INR 1,487.60 debited from Axis Bank A/c XX1453 on 08-06-2026 Info: UPI/Blinkit. Bal INR 1,270,709.97",debit,1487.6,Blinkit,Groceries
+196,2026-06-08T02:48:33,SBIINB,"Your payment of 1,368.00 rupees to BigBasket went through today. Account XX4711 now has 410,300.62 left.",debit,1368.0,BigBasket,Groceries
+197,2026-06-08T19:52:21,ICICIB,"INR 878.65 debited from Axis Bank A/c XX4369 on 08-06-2026 Info: UPI/ACT Fibernet. Bal INR 1,155,429.71",debit,878.65,ACT Fibernet,Bills
+198,2026-06-09T02:25:57,HDFCBK,"ICICI Bank Acct XX8496 debited for Rs 874.44 on 09-Jun-26; Hotstar credited. Bal: Rs 616,553.83",debit,874.44,Hotstar,Entertainment
+199,2026-06-09T04:01:57,ICICIB,"Rs.960.25 debited from A/c XX8982 on 09-06-26 to VPA flipkart@upi (Flipkart). Avl Bal Rs.980,384.55",debit,960.25,Flipkart,Shopping
+200,2026-06-09T12:36:27,AXISBK,"ICICI Bank Acct XX4047 debited for Rs 1,512.18 on 09-Jun-26; IRCTC credited. Bal: Rs 1,268,089.23",debit,1512.18,IRCTC,Transport
+201,2026-06-09T19:11:09,SBIINB,"Dear Customer, Rs 719.59 spent on your SBI Card XX7432 at KFC on 09/06/26. Avl limit Rs 1,217,002.34",debit,719.59,KFC,Food
+202,2026-06-09T20:12:39,ICICIB,"Dear Customer, Rs 1,768.27 spent on your SBI Card XX4435 at PRACTO on 09/06/26. Avl limit Rs 1,016,742.18",debit,1768.27,Practo,Health
+203,2026-06-10T01:45:23,AXISBK,Money sent! 772 bucks left acct 2753 -> Barbeque Nation. You have 981368 remaining.,debit,772.0,Barbeque Nation,Food
+204,2026-06-10T09:28:04,SBIINB,"Dear Customer, Rs 1,370.17 spent on your SBI Card XX5654 at BESCOM on 10/06/26. Avl limit Rs 1,221,943.03",debit,1370.17,BESCOM,Bills
+205,2026-06-10T09:46:59,ICICIB,"Rs.4,292.40 debited from A/c XX9952 on 10-06-26 to VPA flipkart@upi (Flipkart). Avl Bal Rs.1,009,708.74",debit,4292.4,Flipkart,Shopping
+206,2026-06-10T11:55:00,SBIINB,"ICICI Bank Acct XX6147 debited for Rs 354.00 on 10-Jun-26; Barbeque Nation credited. Bal: Rs 285,122.34",debit,354.0,Barbeque Nation,Food
+207,2026-06-10T16:14:28,AXISBK,"Rs.153.08 debited from A/c XX1598 on 10-06-26 to VPA netflix@upi (Netflix). Avl Bal Rs.1,055,903.21",debit,153.08,Netflix,Entertainment
+208,2026-06-10T19:01:30,HDFCBK,"ICICI Bank Acct XX5560 debited for Rs 655.22 on 10-Jun-26; Tata Power credited. Bal: Rs 617,428.27",debit,655.22,Tata Power,Bills
+209,2026-06-10T22:43:13,ICICIB,"Dear Customer, Rs 747.12 spent on your SBI Card XX9888 at BARBEQUE NATION on 10/06/26. Avl limit Rs 1,053,036.29",debit,747.12,Barbeque Nation,Food
+210,2026-06-10T23:33:31,SBIINB,"INR 2,291.99 debited from Axis Bank A/c XX3270 on 10-06-2026 Info: UPI/Zepto. Bal INR 999,793.79",debit,2291.99,Zepto,Groceries
+211,2026-06-11T06:27:36,AXISBK,"Rs.598.10 debited from A/c XX8063 on 11-06-26 to VPA dmart@upi (DMart). Avl Bal Rs.1,099,253.87",debit,598.1,DMart,Groceries
+212,2026-06-11T06:34:24,ICICIB,"Rs.52,000.00 credited to A/c XX6434 on 11-06-26 by ACME CORP SALARY. Avl Bal Rs.1,059,543.87",credit,52000.0,ACME CORP SALARY,Income
+213,2026-06-11T09:29:37,ICICIB,"Rs.870.42 debited from A/c XX6455 on 11-06-26 to VPA zomato@upi (Zomato). Avl Bal Rs.562,942.31",debit,870.42,Zomato,Food
+214,2026-06-11T12:22:24,HDFCBK,"INR 310.95 debited from Axis Bank A/c XX5374 on 11-06-2026 Info: UPI/Barbeque Nation. Bal INR 134,365.69",debit,310.95,Barbeque Nation,Food
+215,2026-06-11T19:38:59,HDFCBK,"Rs.2,829.27 debited from A/c XX4032 on 11-06-26 to VPA amazon@upi (Amazon). Avl Bal Rs.1,264,247.08",debit,2829.27,Amazon,Shopping
+216,2026-06-11T23:03:04,SBIINB,"INR 1,207.63 debited from Axis Bank A/c XX9835 on 11-06-2026 Info: UPI/Reliance Fresh. Bal INR 171,370.81",debit,1207.63,Reliance Fresh,Groceries
+217,2026-06-12T02:54:41,AXISBK,"Dear Customer, Rs 1,883.33 spent on your SBI Card XX9179 at FLIPKART on 12/06/26. Avl limit Rs 131,357.00",debit,1883.33,Flipkart,Shopping
+218,2026-06-12T08:04:30,ICICIB,"ICICI Bank Acct XX2520 debited for Rs 344.50 on 12-Jun-26; Jio credited. Bal: Rs 1,290,466.02",debit,344.5,Jio,Bills
+219,2026-06-12T09:15:02,ICICIB,"Dear Customer, Rs 1,011.67 spent on your SBI Card XX4310 at FLIPKART on 12/06/26. Avl limit Rs 436,609.98",debit,1011.67,Flipkart,Shopping
+220,2026-06-12T13:08:48,HDFCBK,"Dear Customer, Rs 1,662.49 spent on your SBI Card XX6159 at MEDPLUS on 12/06/26. Avl limit Rs 970,123.77",debit,1662.49,MedPlus,Health
+221,2026-06-12T15:26:05,HDFCBK,"Rs.55,000.00 credited to A/c XX6514 on 12-06-26 by ACME CORP SALARY. Avl Bal Rs.136,170.84",credit,55000.0,ACME CORP SALARY,Income
+222,2026-06-12T19:17:05,ICICIB,"Your payment of 1,989.00 rupees to BigBasket went through today. Account XX9603 now has 1,056,676.29 left.",debit,1989.0,BigBasket,Groceries
+223,2026-06-13T00:33:00,AXISBK,"ICICI Bank Acct XX8264 debited for Rs 885.70 on 13-Jun-26; Netflix credited. Bal: Rs 280,908.80",debit,885.7,Netflix,Entertainment
+224,2026-06-13T03:09:39,SBIINB,"Dear Customer, Rs 976.84 spent on your SBI Card XX8039 at RELIANCE FRESH on 13/06/26. Avl limit Rs 597,216.44",debit,976.84,Reliance Fresh,Groceries
+225,2026-06-13T09:12:47,AXISBK,Money sent! 1010 bucks left acct 3188 -> Tata Power. You have 476235 remaining.,debit,1010.0,Tata Power,Bills
+226,2026-06-13T10:18:34,SBIINB,"ICICI Bank Acct XX7730 debited for Rs 617.41 on 13-Jun-26; Spotify credited. Bal: Rs 957,583.38",debit,617.41,Spotify,Entertainment
+227,2026-06-13T10:34:44,AXISBK,"INR 1,865.62 debited from Axis Bank A/c XX5471 on 13-06-2026 Info: UPI/Blinkit. Bal INR 246,410.22",debit,1865.62,Blinkit,Groceries
+228,2026-06-14T16:38:47,ICICIB,"INR 2,257.94 debited from Axis Bank A/c XX7672 on 14-06-2026 Info: UPI/BigBasket. Bal INR 1,300,356.04",debit,2257.94,BigBasket,Groceries
+229,2026-06-14T18:36:48,AXISBK,"Rs.364.56 debited from A/c XX4187 on 14-06-26 to VPA irctc@upi (IRCTC). Avl Bal Rs.931,675.95",debit,364.56,IRCTC,Transport
+230,2026-06-15T06:51:54,ICICIB,"INR 1,193.95 debited from Axis Bank A/c XX1339 on 15-06-2026 Info: UPI/Jio. Bal INR 327,282.39",debit,1193.95,Jio,Bills
+231,2026-06-15T12:24:44,HDFCBK,"INR 426.00 credited to Axis Bank A/c XX4608 on 15-06-2026 Info: REFUND/IRCTC. Bal INR 231,796.81",credit,426.0,IRCTC,Refund
+232,2026-06-15T20:45:33,HDFCBK,"INR 816.05 debited from Axis Bank A/c XX1994 on 15-06-2026 Info: UPI/BigBasket. Bal INR 1,313,234.25",debit,816.05,BigBasket,Groceries
+233,2026-06-16T00:16:42,HDFCBK,"INR 2,749.31 debited from Axis Bank A/c XX9279 on 16-06-2026 Info: UPI/Decathlon. Bal INR 81,556.24",debit,2749.31,Decathlon,Shopping
+234,2026-06-16T01:49:53,ICICIB,"Rs.52,000.00 credited to A/c XX5198 on 16-06-26 by ACME CORP SALARY. Avl Bal Rs.1,021,309.86",credit,52000.0,ACME CORP SALARY,Income
+235,2026-06-16T07:16:18,ICICIB,"Hi! We've deducted 316.00 INR from your wallet for Hotstar (16 Jun). Balance after: 568,028.10",debit,316.0,Hotstar,Entertainment
+236,2026-06-16T13:26:33,SBIINB,"INR 880.14 debited from Axis Bank A/c XX8388 on 16-06-2026 Info: UPI/Ajio. Bal INR 1,238,716.98",debit,880.14,Ajio,Shopping
+237,2026-06-16T15:49:05,ICICIB,"INR 326.98 debited from Axis Bank A/c XX7001 on 16-06-2026 Info: UPI/Rapido. Bal INR 431,774.03",debit,326.98,Rapido,Transport
+238,2026-06-16T23:16:30,ICICIB,"ICICI Bank Acct XX9370 debited for Rs 422.29 on 16-Jun-26; Starbucks credited. Bal: Rs 1,006,186.67",debit,422.29,Starbucks,Food
+239,2026-06-17T00:35:36,AXISBK,"Dear Customer, Rs 1,580.23 spent on your SBI Card XX4553 at ZEPTO on 17/06/26. Avl limit Rs 972,693.94",debit,1580.23,Zepto,Groceries
+240,2026-06-17T01:08:29,ICICIB,"Hi! We've deducted 766.00 INR from your wallet for Netflix (17 Jun). Balance after: 765,700.92",debit,766.0,Netflix,Entertainment
+241,2026-06-17T07:55:43,SBIINB,"Rs.1,344.24 debited from A/c XX1949 on 17-06-26 to VPA apollopharmacy@upi (Apollo Pharmacy). Avl Bal Rs.172,925.44",debit,1344.24,Apollo Pharmacy,Health
+242,2026-06-17T14:38:14,ICICIB,"Rs.60,000.00 credited to A/c XX6421 on 17-06-26 by ACME CORP SALARY. Avl Bal Rs.973,256.15",credit,60000.0,ACME CORP SALARY,Income
+243,2026-06-17T14:59:35,ICICIB,"INR 833.50 debited from Axis Bank A/c XX4692 on 17-06-2026 Info: UPI/Starbucks. Bal INR 565,820.91",debit,833.5,Starbucks,Food
+244,2026-06-17T16:43:29,AXISBK,"ICICI Bank Acct XX5979 debited for Rs 776.44 on 17-Jun-26; Swiggy credited. Bal: Rs 1,289,689.58",debit,776.44,Swiggy,Food
+245,2026-06-17T21:16:12,ICICIB,"INR 406.07 debited from Axis Bank A/c XX2173 on 17-06-2026 Info: UPI/Zepto. Bal INR 1,017,677.13",debit,406.07,Zepto,Groceries
+246,2026-06-17T21:56:10,SBIINB,"INR 377.63 debited from Axis Bank A/c XX1831 on 17-06-2026 Info: UPI/Starbucks. Bal INR 436,232.35",debit,377.63,Starbucks,Food
+247,2026-06-17T22:58:57,HDFCBK,"Your payment of 760.00 rupees to Dominos went through today. Account XX3138 now has 1,209,133.99 left.",debit,760.0,Dominos,Food
+248,2026-06-18T08:32:37,AXISBK,"ICICI Bank Acct XX1724 debited for Rs 303.84 on 18-Jun-26; Uber credited. Bal: Rs 568,344.10",debit,303.84,Uber,Transport
+249,2026-06-18T11:15:20,ICICIB,"INR 410.50 debited from Axis Bank A/c XX8760 on 18-06-2026 Info: UPI/Dominos. Bal INR 1,297,763.47",debit,410.5,Dominos,Food
+250,2026-06-18T16:51:44,ICICIB,"Txn alert: MedPlus charged you Rs 1411 via card ending 5571. Remaining balance is 441,184.73 rupees.",debit,1411.0,MedPlus,Health
+251,2026-06-19T00:57:51,HDFCBK,"Dear Customer, Rs 444.45 spent on your SBI Card XX5706 at BESCOM on 19/06/26. Avl limit Rs 927,402.30",debit,444.45,BESCOM,Bills
+252,2026-06-19T07:34:49,ICICIB,"Dear Customer, Rs 1,046.13 spent on your SBI Card XX3396 at ACT FIBERNET on 19/06/26. Avl limit Rs 602,017.71",debit,1046.13,ACT Fibernet,Bills
+253,2026-06-19T17:00:20,AXISBK,"Rs.225.68 debited from A/c XX5040 on 19-06-26 to VPA swiggy@upi (Swiggy). Avl Bal Rs.577,097.93",debit,225.68,Swiggy,Food
+254,2026-06-20T02:05:45,ICICIB,"ICICI Bank Acct XX1266 debited for Rs 1,974.45 on 20-Jun-26; BigBasket credited. Bal: Rs 448,015.47",debit,1974.45,BigBasket,Groceries
+255,2026-06-20T07:05:34,VK-PROMO,Your credit card statement is ready. Pay by 15th to avoid late fee.,noise,,,
+256,2026-06-20T12:53:54,SBIINB,"INR 443.17 debited from Axis Bank A/c XX4232 on 20-06-2026 Info: UPI/ACT Fibernet. Bal INR 367,307.62",debit,443.17,ACT Fibernet,Bills
+257,2026-06-20T21:27:29,HDFCBK,"Rs.1,292.83 debited from A/c XX4096 on 20-06-26 to VPA tatapower@upi (Tata Power). Avl Bal Rs.950,528.25",debit,1292.83,Tata Power,Bills
+258,2026-06-21T05:00:50,AXISBK,"Dear Customer, Rs 895.91 spent on your SBI Card XX7857 at BARBEQUE NATION on 21/06/26. Avl limit Rs 779,976.87",debit,895.91,Barbeque Nation,Food
+259,2026-06-21T06:06:12,ICICIB,"INR 3,310.35 debited from Axis Bank A/c XX9608 on 21-06-2026 Info: UPI/Ajio. Bal INR 1,018,636.60",debit,3310.35,Ajio,Shopping
+260,2026-06-21T06:47:18,VK-PROMO,Your credit card statement is ready. Pay by 15th to avoid late fee.,noise,,,
+261,2026-06-21T10:51:22,ICICIB,"INR 406.73 debited from Axis Bank A/c XX3842 on 21-06-2026 Info: UPI/Starbucks. Bal INR 1,244,828.78",debit,406.73,Starbucks,Food
+262,2026-06-21T11:20:50,SBIINB,"Rs.355.52 debited from A/c XX7284 on 21-06-26 to VPA dominos@upi (Dominos). Avl Bal Rs.424,703.40",debit,355.52,Dominos,Food
+263,2026-06-21T13:31:31,AXISBK,"Your payment of 657.00 rupees to Uber went through today. Account XX4869 now has 1,181,649.29 left.",debit,657.0,Uber,Transport
+264,2026-06-21T13:45:35,AXISBK,"INR 4,627.84 debited from Axis Bank A/c XX9783 on 21-06-2026 Info: UPI/Ajio. Bal INR 945,272.18",debit,4627.84,Ajio,Shopping
+265,2026-06-21T14:55:33,SBIINB,"Rs.55,000.00 credited to A/c XX6890 on 21-06-26 by ACME CORP SALARY. Avl Bal Rs.479,703.40",credit,55000.0,ACME CORP SALARY,Income
+266,2026-06-21T21:26:03,AXISBK,"Dear Customer, Rs 2,176.53 spent on your SBI Card XX2262 at BLINKIT on 21/06/26. Avl limit Rs 628,281.19",debit,2176.53,Blinkit,Groceries
+267,2026-06-21T21:34:36,AXISBK,"ICICI Bank Acct XX2297 debited for Rs 1,465.18 on 21-Jun-26; Rapido credited. Bal: Rs 942,264.30",debit,1465.18,Rapido,Transport
+268,2026-06-21T23:02:53,AXISBK,"Rs.196.23 debited from A/c XX8204 on 21-06-26 to VPA hotstar@upi (Hotstar). Avl Bal Rs.808,606.90",debit,196.23,Hotstar,Entertainment
+269,2026-06-22T14:06:21,HDFCBK,"Dear Customer, Rs 703.17 spent on your SBI Card XX9743 at 1MG on 22/06/26. Avl limit Rs 770,858.83",debit,703.17,1mg,Health
+270,2026-06-22T15:24:17,HDFCBK,"INR 293.50 debited from Axis Bank A/c XX3608 on 22-06-2026 Info: UPI/Starbucks. Bal INR 274,463.07",debit,293.5,Starbucks,Food
+271,2026-06-22T16:00:22,SBIINB,"Dear Customer, Rs 1,735.51 spent on your SBI Card XX5702 at AJIO on 22/06/26. Avl limit Rs 1,272,197.57",debit,1735.51,Ajio,Shopping
+272,2026-06-23T04:52:03,ICICIB,"Your payment of 1,971.00 rupees to Amazon went through today. Account XX4313 now has 1,248,734.02 left.",debit,1971.0,Amazon,Shopping
+273,2026-06-23T08:19:17,HDFCBK,"Rs.727.26 debited from A/c XX3946 on 23-06-26 to VPA chaipoint@upi (Chai Point). Avl Bal Rs.771,832.23",debit,727.26,Chai Point,Food
+274,2026-06-23T11:23:40,HDFCBK,"Rs.1,496.07 debited from A/c XX1762 on 23-06-26 to VPA zepto@upi (Zepto). Avl Bal Rs.539,671.11",debit,1496.07,Zepto,Groceries
+275,2026-06-23T14:50:02,AXISBK,"Rs.1,033.12 debited from A/c XX7319 on 23-06-26 to VPA flipkart@upi (Flipkart). Avl Bal Rs.865,261.85",debit,1033.12,Flipkart,Shopping
+276,2026-06-24T02:23:00,HDFCBK,"INR 3,972.07 debited from Axis Bank A/c XX1745 on 24-06-2026 Info: UPI/Flipkart. Bal INR 278,461.50",debit,3972.07,Flipkart,Shopping
+277,2026-06-24T03:31:14,HDFCBK,"Dear Customer, Rs 2,042.52 spent on your SBI Card XX1939 at ZEPTO on 24/06/26. Avl limit Rs 432,101.01",debit,2042.52,Zepto,Groceries
+278,2026-06-24T03:43:00,HDFCBK,"Rs.369.37 debited from A/c XX8206 on 24-06-26 to VPA dominos@upi (Dominos). Avl Bal Rs.254,297.47",debit,369.37,Dominos,Food
+279,2026-06-24T06:18:36,SBIINB,"ICICI Bank Acct XX1998 debited for Rs 307.83 on 24-Jun-26; Blinkit credited. Bal: Rs 567,720.27",debit,307.83,Blinkit,Groceries
+280,2026-06-25T03:10:05,SBIINB,"ICICI Bank Acct XX8384 debited for Rs 1,484.12 on 25-Jun-26; Practo credited. Bal: Rs 918,442.26",debit,1484.12,Practo,Health
+281,2026-06-25T13:32:52,HDFCBK,"INR 837.97 debited from Axis Bank A/c XX3814 on 25-06-2026 Info: UPI/Zomato. Bal INR 1,309,769.78",debit,837.97,Zomato,Food
+282,2026-06-26T02:34:00,ICICIB,"INR 401.48 debited from Axis Bank A/c XX6651 on 26-06-2026 Info: UPI/Zepto. Bal INR 1,274,436.76",debit,401.48,Zepto,Groceries
+283,2026-06-26T02:41:25,ICICIB,"Rs.252.47 debited from A/c XX9715 on 26-06-26 to VPA spotify@upi (Spotify). Avl Bal Rs.942,011.83",debit,252.47,Spotify,Entertainment
+284,2026-06-26T04:29:49,AXISBK,"Rs.642.58 debited from A/c XX4433 on 26-06-26 to VPA ajio@upi (Ajio). Avl Bal Rs.1,200,988.58",debit,642.58,Ajio,Shopping
+285,2026-06-26T13:06:53,AXISBK,"INR 3,003.93 debited from Axis Bank A/c XX4443 on 26-06-2026 Info: UPI/Myntra. Bal INR 261,598.00",debit,3003.93,Myntra,Shopping
+286,2026-06-26T15:10:26,HDFCBK,"Rs.1,146.76 debited from A/c XX5344 on 26-06-26 to VPA ola@upi (Ola). Avl Bal Rs.1,278,571.83",debit,1146.76,Ola,Transport
+287,2026-06-26T18:51:32,SBIINB,"Dear Customer, Rs 1,622.85 spent on your SBI Card XX1775 at DMART on 26/06/26. Avl limit Rs 1,229,754.60",debit,1622.85,DMart,Groceries
+288,2026-06-26T19:11:32,HDFCBK,"INR 466.62 debited from Axis Bank A/c XX7561 on 26-06-2026 Info: UPI/Reliance Fresh. Bal INR 324,009.69",debit,466.62,Reliance Fresh,Groceries
+289,2026-06-27T05:36:26,ICICIB,"INR 631.66 debited from Axis Bank A/c XX1689 on 27-06-2026 Info: UPI/Starbucks. Bal INR 437,621.65",debit,631.66,Starbucks,Food
+290,2026-06-27T09:22:00,SBIINB,"Dear Customer, Rs 363.71 spent on your SBI Card XX1534 at BLINKIT on 27/06/26. Avl limit Rs 332,468.28",debit,363.71,Blinkit,Groceries
+291,2026-06-27T11:56:23,AXISBK,"ICICI Bank Acct XX2342 debited for Rs 1,283.17 on 27-Jun-26; Blinkit credited. Bal: Rs 809,093.13",debit,1283.17,Blinkit,Groceries
+292,2026-06-27T12:06:26,AXISBK,"Dear Customer, Rs 5,469.16 spent on your SBI Card XX7779 at DECATHLON on 27/06/26. Avl limit Rs 579,678.62",debit,5469.16,Decathlon,Shopping
+293,2026-06-27T19:32:29,HDFCBK,"INR 850.03 debited from Axis Bank A/c XX4302 on 27-06-2026 Info: UPI/BookMyShow. Bal INR 444,431.70",debit,850.03,BookMyShow,Entertainment
+294,2026-06-27T22:58:03,SBIINB,"Rs.693.36 debited from A/c XX8353 on 27-06-26 to VPA zomato@upi (Zomato). Avl Bal Rs.1,004,362.33",debit,693.36,Zomato,Food
+295,2026-06-28T00:05:43,SBIINB,"Rs.4,446.82 debited from A/c XX1893 on 28-06-26 to VPA amazon@upi (Amazon). Avl Bal Rs.983,238.75",debit,4446.82,Amazon,Shopping
+296,2026-06-28T00:41:59,SBIINB,"Rs.60,000.00 credited to A/c XX8869 on 28-06-26 by ACME CORP SALARY. Avl Bal Rs.810,376.30",credit,60000.0,ACME CORP SALARY,Income
+297,2026-06-28T15:08:16,AXISBK,"Dear Customer, Rs 985.07 spent on your SBI Card XX6143 at RELIANCE FRESH on 28/06/26. Avl limit Rs 1,267,076.35",debit,985.07,Reliance Fresh,Groceries
+298,2026-06-28T15:25:27,AXISBK,"Rs.479.30 debited from A/c XX1528 on 28-06-26 to VPA netflix@upi (Netflix). Avl Bal Rs.609,872.00",debit,479.3,Netflix,Entertainment
+299,2026-06-28T17:02:38,HDFCBK,"INR 132.69 debited from Axis Bank A/c XX7113 on 28-06-2026 Info: UPI/Uber. Bal INR 982,787.66",debit,132.69,Uber,Transport
+300,2026-06-28T18:36:30,ICICIB,"Dear Customer, Rs 1,611.74 spent on your SBI Card XX2758 at 1MG on 28/06/26. Avl limit Rs 427,287.66",debit,1611.74,1mg,Health
+301,2026-06-28T19:38:08,AXISBK,"INR 5,427.74 debited from Axis Bank A/c XX7389 on 28-06-2026 Info: UPI/Decathlon. Bal INR 248,275.84",debit,5427.74,Decathlon,Shopping
+302,2026-06-28T22:43:53,SBIINB,"Dear Customer, Rs 398.80 spent on your SBI Card XX3661 at HOTSTAR on 28/06/26. Avl limit Rs 537,783.94",debit,398.8,Hotstar,Entertainment
+303,2026-06-29T00:17:10,AXISBK,"Dear Customer, Rs 1,013.89 spent on your SBI Card XX1149 at UBER on 29/06/26. Avl limit Rs 948,768.67",debit,1013.89,Uber,Transport
+304,2026-06-29T03:25:29,ICICIB,"Rs.386.26 debited from A/c XX9301 on 29-06-26 to VPA dominos@upi (Dominos). Avl Bal Rs.1,012,946.96",debit,386.26,Dominos,Food
+305,2026-06-29T04:07:47,SBIINB,"ICICI Bank Acct XX6253 debited for Rs 875.61 on 29-Jun-26; Starbucks credited. Bal: Rs 575,031.90",debit,875.61,Starbucks,Food
+306,2026-06-29T06:14:25,SBIINB,"ICICI Bank Acct XX2478 debited for Rs 836.92 on 29-Jun-26; Spotify credited. Bal: Rs 1,254,789.96",debit,836.92,Spotify,Entertainment
+307,2026-06-29T07:18:15,HDFCBK,"INR 666.57 debited from Axis Bank A/c XX7895 on 29-06-2026 Info: UPI/KFC. Bal INR 874,558.57",debit,666.57,KFC,Food
+308,2026-06-29T12:05:53,AXISBK,"ICICI Bank Acct XX9530 debited for Rs 873.86 on 29-Jun-26; Barbeque Nation credited. Bal: Rs 787,142.98",debit,873.86,Barbeque Nation,Food
+309,2026-06-29T19:07:13,SBIINB,"ICICI Bank Acct XX4845 debited for Rs 1,597.54 on 29-Jun-26; MedPlus credited. Bal: Rs 1,305,312.89",debit,1597.54,MedPlus,Health
+310,2026-06-29T21:19:23,SBIINB,"ICICI Bank Acct XX3697 debited for Rs 5,705.91 on 29-Jun-26; Myntra credited. Bal: Rs 409,278.93",debit,5705.91,Myntra,Shopping
+311,2026-06-30T03:10:30,HDFCBK,"Rs.326.42 debited from A/c XX1986 on 30-06-26 to VPA zomato@upi (Zomato). Avl Bal Rs.333,303.38",debit,326.42,Zomato,Food
+312,2026-06-30T16:35:16,HDFCBK,"ICICI Bank Acct XX6974 debited for Rs 640.21 on 30-Jun-26; Zomato credited. Bal: Rs 277,102.01",debit,640.21,Zomato,Food
+313,2026-06-30T22:45:22,ICICIB,"INR 923.34 debited from Axis Bank A/c XX7171 on 30-06-2026 Info: UPI/Decathlon. Bal INR 412,055.17",debit,923.34,Decathlon,Shopping
+314,2026-07-01T01:29:40,SBIINB,"Rs.55,000.00 credited to A/c XX8167 on 01-07-26 by ACME CORP SALARY. Avl Bal Rs.631,930.32",credit,55000.0,ACME CORP SALARY,Income
+315,2026-07-01T05:07:43,AXISBK,"INR 1,152.56 debited from Axis Bank A/c XX5593 on 01-07-2026 Info: UPI/Flipkart. Bal INR 796,593.34",debit,1152.56,Flipkart,Shopping
+316,2026-07-01T12:34:51,ICICIB,"INR 1,779.69 debited from Axis Bank A/c XX7992 on 01-07-2026 Info: UPI/DMart. Bal INR 325,119.66",debit,1779.69,DMart,Groceries
+317,2026-07-01T18:54:08,HDFCBK,"Rs.1,744.85 debited from A/c XX5882 on 01-07-26 to VPA reliancefresh@upi (Reliance Fresh). Avl Bal Rs.1,268,072.85",debit,1744.85,Reliance Fresh,Groceries
+318,2026-07-01T21:41:35,SBIINB,"ICICI Bank Acct XX3290 debited for Rs 588.78 on 01-Jul-26; KFC credited. Bal: Rs 587,747.95",debit,588.78,KFC,Food
+319,2026-07-02T02:33:36,SBIINB,"Hi! We've deducted 4,458.00 INR from your wallet for Myntra (02 Jul). Balance after: 283,105.57",debit,4458.0,Myntra,Shopping
+320,2026-07-02T08:45:34,ICICIB,"ICICI Bank Acct XX5773 debited for Rs 1,996.24 on 02-Jul-26; Blinkit credited. Bal: Rs 958,807.17",debit,1996.24,Blinkit,Groceries
+321,2026-07-02T17:10:44,ICICIB,"INR 835.57 debited from Axis Bank A/c XX2623 on 02-07-2026 Info: UPI/Dominos. Bal INR 396,107.63",debit,835.57,Dominos,Food
+322,2026-07-02T22:08:26,HDFCBK,"INR 2,170.24 debited from Axis Bank A/c XX2097 on 02-07-2026 Info: UPI/Reliance Fresh. Bal INR 799,267.72",debit,2170.24,Reliance Fresh,Groceries
+323,2026-07-03T06:43:02,HDFCBK,"INR 829.95 debited from Axis Bank A/c XX4493 on 03-07-2026 Info: UPI/BigBasket. Bal INR 1,207,326.78",debit,829.95,BigBasket,Groceries
+324,2026-07-03T10:02:53,HDFCBK,"INR 1,510.65 debited from Axis Bank A/c XX5022 on 03-07-2026 Info: UPI/Blinkit. Bal INR 290,112.15",debit,1510.65,Blinkit,Groceries
+325,2026-07-03T16:27:43,ICICIB,"Dear Customer, Rs 339.00 spent on your SBI Card XX8674 at RAPIDO on 03/07/26. Avl limit Rs 983,475.54",debit,339.0,Rapido,Transport
+326,2026-07-04T00:38:33,ICICIB,"Hi! We've deducted 488.00 INR from your wallet for Dominos (04 Jul). Balance after: 920,966.06",debit,488.0,Dominos,Food
+327,2026-07-04T03:53:10,HDFCBK,"Txn alert: DMart charged you Rs 1064 via card ending 4731. Remaining balance is 1,198,976.46 rupees.",debit,1064.0,DMart,Groceries
+328,2026-07-04T13:07:43,HDFCBK,"INR 1,780.21 debited from Axis Bank A/c XX9088 on 04-07-2026 Info: UPI/Reliance Fresh. Bal INR 1,302,613.98",debit,1780.21,Reliance Fresh,Groceries
+329,2026-07-04T15:11:54,HDFCBK,"Dear Customer, Rs 1,018.37 spent on your SBI Card XX3417 at PRACTO on 04/07/26. Avl limit Rs 330,594.44",debit,1018.37,Practo,Health
+330,2026-07-04T23:04:12,SBIINB,"INR 2,374.00 credited to Axis Bank A/c XX2314 on 04-07-2026 Info: REFUND/KFC. Bal INR 993,105.42",credit,2374.0,KFC,Refund
+331,2026-07-05T02:01:08,AXISBK,"Rs.423.79 debited from A/c XX9890 on 05-07-26 to VPA starbucks@upi (Starbucks). Avl Bal Rs.253,703.58",debit,423.79,Starbucks,Food
+332,2026-07-05T03:05:22,HDFCBK,"Txn alert: Practo charged you Rs 1243 via card ending 2436. Remaining balance is 970,531.82 rupees.",debit,1243.0,Practo,Health
+333,2026-07-05T19:23:02,HDFCBK,"Rs.1,969.20 debited from A/c XX3257 on 05-07-26 to VPA blinkit@upi (Blinkit). Avl Bal Rs.1,298,173.97",debit,1969.2,Blinkit,Groceries
+334,2026-07-06T03:43:18,AXISBK,"ICICI Bank Acct XX1470 debited for Rs 396.76 on 06-Jul-26; Zomato credited. Bal: Rs 289,715.39",debit,396.76,Zomato,Food
+335,2026-07-06T10:57:49,HDFCBK,"Dear Customer, Rs 5,382.62 spent on your SBI Card XX8909 at DECATHLON on 06/07/26. Avl limit Rs 751,477.30",debit,5382.62,Decathlon,Shopping
+336,2026-07-06T14:23:01,AXISBK,"Rs.211.16 debited from A/c XX2840 on 06-07-26 to VPA kfc@upi (KFC). Avl Bal Rs.1,277,884.10",debit,211.16,KFC,Food
+337,2026-07-06T16:01:30,AXISBK,"Rs.813.46 debited from A/c XX4060 on 06-07-26 to VPA zepto@upi (Zepto). Avl Bal Rs.440,864.63",debit,813.46,Zepto,Groceries
+338,2026-07-06T16:33:53,SBIINB,"ICICI Bank Acct XX7147 debited for Rs 468.74 on 06-Jul-26; Zepto credited. Bal: Rs 1,059,075.13",debit,468.74,Zepto,Groceries
+339,2026-07-06T22:05:38,ICICIB,"INR 208.97 debited from Axis Bank A/c XX5581 on 06-07-2026 Info: UPI/Ola. Bal INR 289,506.42",debit,208.97,Ola,Transport
+340,2026-07-06T23:16:38,VK-PROMO,Get 20% cashback on your next recharge! T&C apply. Visit bit.ly/offr,noise,,,
+341,2026-07-07T05:25:45,ICICIB,"Rs.866.81 debited from A/c XX7885 on 07-07-26 to VPA irctc@upi (IRCTC). Avl Bal Rs.990,731.42",debit,866.81,IRCTC,Transport
+342,2026-07-07T11:16:27,AXISBK,"Dear Customer, Rs 2,081.09 spent on your SBI Card XX4643 at DECATHLON on 07/07/26. Avl limit Rs 777,895.78",debit,2081.09,Decathlon,Shopping
+343,2026-07-07T19:39:52,AXISBK,"Txn alert: BigBasket charged you Rs 467 via card ending 1402. Remaining balance is 566,711.99 rupees.",debit,467.0,BigBasket,Groceries
+344,2026-07-07T20:37:19,HDFCBK,"ICICI Bank Acct XX8043 debited for Rs 3,350.83 on 07-Jul-26; Ajio credited. Bal: Rs 372,331.33",debit,3350.83,Ajio,Shopping
+345,2026-07-07T23:01:07,AXISBK,"Dear Customer, Rs 1,625.14 spent on your SBI Card XX6139 at INDIAN OIL on 07/07/26. Avl limit Rs 269,354.01",debit,1625.14,Indian Oil,Transport
+346,2026-07-08T06:36:43,ICICIB,"INR 920.71 debited from Axis Bank A/c XX2256 on 08-07-2026 Info: UPI/Zepto. Bal INR 1,276,764.15",debit,920.71,Zepto,Groceries
+347,2026-07-08T09:28:20,AXISBK,"Rs.296.84 debited from A/c XX8115 on 08-07-26 to VPA chaipoint@upi (Chai Point). Avl Bal Rs.1,018,774.37",debit,296.84,Chai Point,Food
+348,2026-07-08T09:36:57,ICICIB,"INR 377.25 debited from Axis Bank A/c XX7690 on 08-07-2026 Info: UPI/Zomato. Bal INR 324,476.31",debit,377.25,Zomato,Food
+349,2026-07-08T11:19:45,ICICIB,"Rs.391.67 debited from A/c XX6110 on 08-07-26 to VPA starbucks@upi (Starbucks). Avl Bal Rs.566,320.32",debit,391.67,Starbucks,Food
+350,2026-07-08T17:31:34,SBIINB,"Your payment of 2,238.00 rupees to Ajio went through today. Account XX6000 now has 272,225.07 left.",debit,2238.0,Ajio,Shopping
+351,2026-07-08T17:47:47,SBIINB,"ICICI Bank Acct XX8245 debited for Rs 439.46 on 08-Jul-26; Practo credited. Bal: Rs 1,015,267.67",debit,439.46,Practo,Health
+352,2026-07-09T11:53:11,HDFCBK,"Dear Customer, Rs 980.16 spent on your SBI Card XX7929 at MYNTRA on 09/07/26. Avl limit Rs 382,913.68",debit,980.16,Myntra,Shopping
+353,2026-07-09T19:04:03,ICICIB,"INR 504.09 debited from Axis Bank A/c XX5783 on 09-07-2026 Info: UPI/Zomato. Bal INR 1,030,790.51",debit,504.09,Zomato,Food
+354,2026-07-09T20:10:55,SBIINB,"ICICI Bank Acct XX5953 debited for Rs 1,480.22 on 09-Jul-26; MedPlus credited. Bal: Rs 1,004,526.69",debit,1480.22,MedPlus,Health
+355,2026-07-09T20:33:09,HDFCBK,"Dear Customer, Rs 636.03 spent on your SBI Card XX5175 at BARBEQUE NATION on 09/07/26. Avl limit Rs 1,208,061.42",debit,636.03,Barbeque Nation,Food
+356,2026-07-10T11:34:52,HDFCBK,"INR 5,243.11 debited from Axis Bank A/c XX8415 on 10-07-2026 Info: UPI/Decathlon. Bal INR 1,006,608.96",debit,5243.11,Decathlon,Shopping
+357,2026-07-10T12:06:30,SBIINB,"Rs.408.16 debited from A/c XX1662 on 10-07-26 to VPA dominos@upi (Dominos). Avl Bal Rs.969,163.57",debit,408.16,Dominos,Food
+358,2026-07-10T17:45:41,AXISBK,"Rs.886.71 debited from A/c XX8412 on 10-07-26 to VPA swiggy@upi (Swiggy). Avl Bal Rs.971,786.26",debit,886.71,Swiggy,Food
+359,2026-07-10T20:43:12,SBIINB,"INR 300.11 debited from Axis Bank A/c XX5021 on 10-07-2026 Info: UPI/Ola. Bal INR 1,297,463.36",debit,300.11,Ola,Transport
+360,2026-07-10T22:12:17,ICICIB,"Dear Customer, Rs 2,194.95 spent on your SBI Card XX6903 at RELIANCE FRESH on 10/07/26. Avl limit Rs 909,748.74",debit,2194.95,Reliance Fresh,Groceries
+361,2026-07-11T09:15:38,SBIINB,"Dear Customer, Rs 780.29 spent on your SBI Card XX8143 at NETFLIX on 11/07/26. Avl limit Rs 1,279,718.59",debit,780.29,Netflix,Entertainment
+362,2026-07-11T09:17:55,SBIINB,"ICICI Bank Acct XX1889 debited for Rs 1,579.89 on 11-Jul-26; Zepto credited. Bal: Rs 1,029,746.60",debit,1579.89,Zepto,Groceries
+363,2026-07-11T18:56:43,SBIINB,"Rs.128.37 debited from A/c XX9951 on 11-07-26 to VPA apollopharmacy@upi (Apollo Pharmacy). Avl Bal Rs.581,639.48",debit,128.37,Apollo Pharmacy,Health
+364,2026-07-11T20:50:18,SBIINB,"Rs.292.95 debited from A/c XX7430 on 11-07-26 to VPA irctc@upi (IRCTC). Avl Bal Rs.971,575.35",debit,292.95,IRCTC,Transport
+365,2026-07-11T21:19:48,AXISBK,"INR 1,039.68 debited from Axis Bank A/c XX4013 on 11-07-2026 Info: UPI/Reliance Fresh. Bal INR 919,926.38",debit,1039.68,Reliance Fresh,Groceries
+366,2026-07-11T23:50:29,AXISBK,"INR 396.76 debited from Axis Bank A/c XX4033 on 11-07-2026 Info: UPI/Chai Point. Bal INR 1,309,373.02",debit,396.76,Chai Point,Food
+367,2026-07-12T05:32:57,ICICIB,"Rs.321.30 debited from A/c XX3577 on 12-07-26 to VPA netflix@upi (Netflix). Avl Bal Rs.627,959.89",debit,321.3,Netflix,Entertainment
+368,2026-07-12T06:15:47,AXISBK,"Dear Customer, Rs 1,302.17 spent on your SBI Card XX8218 at TATA POWER on 12/07/26. Avl limit Rs 400,121.16",debit,1302.17,Tata Power,Bills
+369,2026-07-12T08:16:46,SBIINB,"INR 321.99 debited from Axis Bank A/c XX9083 on 12-07-2026 Info: UPI/Ola. Bal INR 676,383.46",debit,321.99,Ola,Transport
+370,2026-07-12T08:38:39,AXISBK,"INR 308.71 debited from Axis Bank A/c XX8605 on 12-07-2026 Info: UPI/Swiggy. Bal INR 792,303.08",debit,308.71,Swiggy,Food
+371,2026-07-12T20:49:11,AXISBK,"ICICI Bank Acct XX7095 debited for Rs 698.49 on 12-Jul-26; Rapido credited. Bal: Rs 431,075.54",debit,698.49,Rapido,Transport
+372,2026-07-13T02:45:46,ICICIB,"INR 274.25 debited from Axis Bank A/c XX2376 on 13-07-2026 Info: UPI/Swiggy. Bal INR 776,157.63",debit,274.25,Swiggy,Food
+373,2026-07-13T04:39:36,HDFCBK,"INR 1,225.82 debited from Axis Bank A/c XX3131 on 13-07-2026 Info: UPI/IRCTC. Bal INR 383,893.84",debit,1225.82,IRCTC,Transport
+374,2026-07-13T10:33:53,HDFCBK,"ICICI Bank Acct XX3646 debited for Rs 1,676.63 on 13-Jul-26; Uber credited. Bal: Rs 174,269.68",debit,1676.63,Uber,Transport
+375,2026-07-13T13:06:51,AXISBK,"Dear Customer, Rs 236.42 spent on your SBI Card XX7266 at 1MG on 13/07/26. Avl limit Rs 570,934.64",debit,236.42,1mg,Health
+376,2026-07-13T14:53:09,SBIINB,"Rs.590.96 debited from A/c XX8056 on 13-07-26 to VPA dmart@upi (DMart). Avl Bal Rs.307,138.45",debit,590.96,DMart,Groceries
+377,2026-07-13T15:45:57,ICICIB,"ICICI Bank Acct XX4365 debited for Rs 628.23 on 13-Jul-26; Starbucks credited. Bal: Rs 949,900.02",debit,628.23,Starbucks,Food
+378,2026-07-13T23:06:51,HDFCBK,"ICICI Bank Acct XX9631 debited for Rs 735.57 on 13-Jul-26; Zomato credited. Bal: Rs 1,008,973.17",debit,735.57,Zomato,Food
+379,2026-07-14T01:44:15,HDFCBK,"INR 3,199.21 debited from Axis Bank A/c XX8798 on 14-07-2026 Info: UPI/Amazon. Bal INR 541,626.59",debit,3199.21,Amazon,Shopping
+380,2026-07-14T01:52:16,AXISBK,"ICICI Bank Acct XX1665 debited for Rs 575.51 on 14-Jul-26; Zomato credited. Bal: Rs 1,003,786.82",debit,575.51,Zomato,Food
+381,2026-07-14T07:23:51,ICICIB,"Your payment of 2,593.00 rupees to Decathlon went through today. Account XX6026 now has 766,696.62 left.",debit,2593.0,Decathlon,Shopping
+382,2026-07-14T08:34:44,SBIINB,"Rs.60,000.00 credited to A/c XX7607 on 14-07-26 by ACME CORP SALARY. Avl Bal Rs.1,033,256.15",credit,60000.0,ACME CORP SALARY,Income
+383,2026-07-14T08:46:13,HDFCBK,"Dear Customer, Rs 375.61 spent on your SBI Card XX7235 at PRACTO on 14/07/26. Avl limit Rs 977,409.23",debit,375.61,Practo,Health
+384,2026-07-14T10:08:33,AXISBK,"INR 841.97 debited from Axis Bank A/c XX1035 on 14-07-2026 Info: UPI/TNEB. Bal INR 289,483.62",debit,841.97,TNEB,Bills
+385,2026-07-14T12:23:25,SBIINB,"Rs.321.79 debited from A/c XX5422 on 14-07-26 to VPA netflix@upi (Netflix). Avl Bal Rs.134,043.90",debit,321.79,Netflix,Entertainment
+386,2026-07-14T16:06:39,ICICIB,"Rs.654.88 debited from A/c XX3024 on 14-07-26 to VPA barbequenation@upi (Barbeque Nation). Avl Bal Rs.875,225.14",debit,654.88,Barbeque Nation,Food
+387,2026-07-14T18:59:03,HDFCBK,"ICICI Bank Acct XX3381 debited for Rs 732.72 on 14-Jul-26; Chai Point credited. Bal: Rs 1,013,394.48",debit,732.72,Chai Point,Food
+388,2026-07-15T00:16:05,HDFCBK,"Rs.55,000.00 credited to A/c XX6172 on 15-07-26 by ACME CORP SALARY. Avl Bal Rs.1,232,200.28",credit,55000.0,ACME CORP SALARY,Income
+389,2026-07-15T02:34:12,AXISBK,"INR 934.16 debited from Axis Bank A/c XX6883 on 15-07-2026 Info: UPI/Rapido. Bal INR 772,559.49",debit,934.16,Rapido,Transport
+390,2026-07-15T04:58:50,AXISBK,"Your payment of 337.00 rupees to Hotstar went through today. Account XX3248 now has 773,493.65 left.",debit,337.0,Hotstar,Entertainment
+391,2026-07-15T05:06:43,VK-PROMO,Get 20% cashback on your next recharge! T&C apply. Visit bit.ly/offr,noise,,,
+392,2026-07-15T07:50:41,ICICIB,"ICICI Bank Acct XX8374 debited for Rs 275.58 on 15-Jul-26; BigBasket credited. Bal: Rs 1,284,883.45",debit,275.58,BigBasket,Groceries
+393,2026-07-15T11:32:42,HDFCBK,"ICICI Bank Acct XX8898 debited for Rs 666.85 on 15-Jul-26; MedPlus credited. Bal: Rs 1,213,191.65",debit,666.85,MedPlus,Health
+394,2026-07-15T18:18:43,VK-PROMO,Your credit card statement is ready. Pay by 15th to avoid late fee.,noise,,,
+395,2026-07-15T21:31:11,ICICIB,"ICICI Bank Acct XX5655 debited for Rs 5,290.37 on 15-Jul-26; Decathlon credited. Bal: Rs 414,100.64",debit,5290.37,Decathlon,Shopping
+396,2026-07-16T06:57:45,HDFCBK,"INR 1,137.09 debited from Axis Bank A/c XX6450 on 16-07-2026 Info: UPI/Jio. Bal INR 1,217,721.93",debit,1137.09,Jio,Bills
+397,2026-07-17T04:38:29,AXISBK,"ICICI Bank Acct XX9281 debited for Rs 157.95 on 17-Jul-26; Dominos credited. Bal: Rs 460,235.89",debit,157.95,Dominos,Food
+398,2026-07-17T16:03:29,AXISBK,"Dear Customer, Rs 1,190.42 spent on your SBI Card XX6443 at RELIANCE FRESH on 17/07/26. Avl limit Rs 575,907.51",debit,1190.42,Reliance Fresh,Groceries
+399,2026-07-17T16:24:23,ICICIB,"Your payment of 1,270.00 rupees to Airtel went through today. Account XX6083 now has 368,494.21 left.",debit,1270.0,Airtel,Bills
+400,2026-07-17T16:35:18,HDFCBK,"INR 5,499.45 debited from Axis Bank A/c XX5497 on 17-07-2026 Info: UPI/Amazon. Bal INR 297,421.94",debit,5499.45,Amazon,Shopping
+401,2026-07-17T18:37:58,HDFCBK,"INR 144.24 debited from Axis Bank A/c XX9412 on 17-07-2026 Info: UPI/Zomato. Bal INR 724,868.71",debit,144.24,Zomato,Food
+402,2026-07-17T20:32:37,HDFCBK,"ICICI Bank Acct XX4249 debited for Rs 226.43 on 17-Jul-26; Spotify credited. Bal: Rs 294,173.69",debit,226.43,Spotify,Entertainment
+403,2026-07-17T21:09:10,HDFCBK,"Dear Customer, Rs 663.12 spent on your SBI Card XX6961 at HOTSTAR on 17/07/26. Avl limit Rs 970,912.23",debit,663.12,Hotstar,Entertainment
+404,2026-07-17T21:39:53,SBIINB,"Hi! We've deducted 3,323.00 INR from your wallet for Amazon (17 Jul). Balance after: 1,264,749.85",debit,3323.0,Amazon,Shopping
+405,2026-07-18T06:09:14,ICICIB,"ICICI Bank Acct XX3142 debited for Rs 483.85 on 18-Jul-26; Zomato credited. Bal: Rs 408,006.64",debit,483.85,Zomato,Food
+406,2026-07-18T15:00:01,HDFCBK,"INR 210.34 debited from Axis Bank A/c XX1904 on 18-07-2026 Info: UPI/BookMyShow. Bal INR 1,212,981.31",debit,210.34,BookMyShow,Entertainment
+407,2026-07-18T15:02:40,SBIINB,"INR 970.00 credited to Axis Bank A/c XX2666 on 18-07-2026 Info: REFUND/Ajio. Bal INR 1,300,258.42",credit,970.0,Ajio,Refund
+408,2026-07-18T16:26:42,AXISBK,"INR 921.87 debited from Axis Bank A/c XX2129 on 18-07-2026 Info: UPI/BESCOM. Bal INR 678,188.61",debit,921.87,BESCOM,Bills
+409,2026-07-18T16:57:29,ICICIB,"Your payment of 1,710.00 rupees to Practo went through today. Account XX8027 now has 1,242,334.35 left.",debit,1710.0,Practo,Health
+410,2026-07-18T19:43:51,AXISBK,"Dear Customer, Rs 1,675.02 spent on your SBI Card XX4610 at ZEPTO on 18/07/26. Avl limit Rs 1,276,209.08",debit,1675.02,Zepto,Groceries
+411,2026-07-18T19:49:43,AXISBK,"INR 386.00 credited to Axis Bank A/c XX3692 on 18-07-2026 Info: REFUND/Reliance Fresh. Bal INR 1,296,952.36",credit,386.0,Reliance Fresh,Refund
+412,2026-07-18T22:51:30,AXISBK,"Dear Customer, Rs 1,152.45 spent on your SBI Card XX5116 at UBER on 18/07/26. Avl limit Rs 1,275,611.70",debit,1152.45,Uber,Transport
+413,2026-07-19T01:25:14,ICICIB,"ICICI Bank Acct XX9447 debited for Rs 862.69 on 19-Jul-26; PVR Cinemas credited. Bal: Rs 600,348.52",debit,862.69,PVR Cinemas,Entertainment
+414,2026-07-19T01:59:41,VK-PROMO,Get 20% cashback on your next recharge! T&C apply. Visit bit.ly/offr,noise,,,
+415,2026-07-19T08:38:45,ICICIB,"INR 1,421.12 debited from Axis Bank A/c XX4986 on 19-07-2026 Info: UPI/Zepto. Bal INR 287,863.39",debit,1421.12,Zepto,Groceries
+416,2026-07-19T09:23:49,SBIINB,"ICICI Bank Acct XX9182 debited for Rs 107.30 on 19-Jul-26; Practo credited. Bal: Rs 1,279,554.54",debit,107.3,Practo,Health
+417,2026-07-19T16:14:57,AXISBK,"INR 1,178.79 debited from Axis Bank A/c XX7251 on 19-07-2026 Info: UPI/Ajio. Bal INR 1,147,624.94",debit,1178.79,Ajio,Shopping
+418,2026-07-20T03:10:04,HDFCBK,"INR 927.93 debited from Axis Bank A/c XX5166 on 20-07-2026 Info: UPI/BigBasket. Bal INR 1,262,019.28",debit,927.93,BigBasket,Groceries
+419,2026-07-20T06:42:15,AXISBK,"Rs.390.14 debited from A/c XX9056 on 20-07-26 to VPA dmart@upi (DMart). Avl Bal Rs.612,554.21",debit,390.14,DMart,Groceries
+420,2026-07-20T10:38:19,HDFCBK,"INR 1,159.54 debited from Axis Bank A/c XX3529 on 20-07-2026 Info: UPI/MedPlus. Bal INR 309,773.23",debit,1159.54,MedPlus,Health
+421,2026-07-20T15:52:31,HDFCBK,"ICICI Bank Acct XX8651 debited for Rs 203.04 on 20-Jul-26; Apollo Pharmacy credited. Bal: Rs 292,973.27",debit,203.04,Apollo Pharmacy,Health
+422,2026-07-20T16:58:35,HDFCBK,"INR 133.37 debited from Axis Bank A/c XX1194 on 20-07-2026 Info: UPI/Dominos. Bal INR 545,917.91",debit,133.37,Dominos,Food
+423,2026-07-20T18:49:41,AXISBK,"Dear Customer, Rs 5,039.19 spent on your SBI Card XX8161 at AJIO on 20/07/26. Avl limit Rs 943,729.48",debit,5039.19,Ajio,Shopping
+424,2026-07-20T20:02:00,SBIINB,"Your payment of 769.00 rupees to Zomato went through today. Account XX6575 now has 1,262,704.17 left.",debit,769.0,Zomato,Food
+425,2026-07-21T00:59:03,AXISBK,"INR 514.23 debited from Axis Bank A/c XX7102 on 21-07-2026 Info: UPI/Swiggy. Bal INR 729,353.68",debit,514.23,Swiggy,Food
+426,2026-07-21T02:37:39,AXISBK,"Rs.689.49 debited from A/c XX7706 on 21-07-26 to VPA metrorecharge@upi (Metro Recharge). Avl Bal Rs.1,296,773.87",debit,689.49,Metro Recharge,Transport
+427,2026-07-21T09:33:35,AXISBK,"Rs.412.43 debited from A/c XX1872 on 21-07-26 to VPA swiggy@upi (Swiggy). Avl Bal Rs.396,943.20",debit,412.43,Swiggy,Food
+428,2026-07-21T17:04:02,SBIINB,"INR 624.43 debited from Axis Bank A/c XX9683 on 21-07-2026 Info: UPI/Dominos. Bal INR 565,196.48",debit,624.43,Dominos,Food
+429,2026-07-21T20:05:29,AXISBK,"ICICI Bank Acct XX3938 debited for Rs 1,068.39 on 21-Jul-26; Amazon credited. Bal: Rs 1,266,777.71",debit,1068.39,Amazon,Shopping
+430,2026-07-21T20:54:51,SBIINB,"Dear Customer, Rs 957.35 spent on your SBI Card XX4938 at ZEPTO on 21/07/26. Avl limit Rs 1,002,085.78",debit,957.35,Zepto,Groceries
+431,2026-07-21T20:58:28,HDFCBK,"Hi! We've deducted 494.00 INR from your wallet for Swiggy (21 Jul). Balance after: 1,262,210.17",debit,494.0,Swiggy,Food
+432,2026-07-22T03:07:08,ICICIB,"Dear Customer, Rs 1,241.55 spent on your SBI Card XX5067 at RELIANCE FRESH on 22/07/26. Avl limit Rs 1,019,809.11",debit,1241.55,Reliance Fresh,Groceries
+433,2026-07-22T03:39:27,AXISBK,"Rs.2,317.20 debited from A/c XX3481 on 22-07-26 to VPA zepto@upi (Zepto). Avl Bal Rs.447,405.47",debit,2317.2,Zepto,Groceries
+434,2026-07-22T07:04:37,HDFCBK,"Dear Customer, Rs 954.13 spent on your SBI Card XX6832 at UBER on 22/07/26. Avl limit Rs 1,264,166.27",debit,954.13,Uber,Transport
+435,2026-07-22T08:31:43,HDFCBK,"Txn alert: Apollo Pharmacy charged you Rs 1174 via card ending 8489. Remaining balance is 394,318.81 rupees.",debit,1174.0,Apollo Pharmacy,Health
+436,2026-07-22T11:25:18,SBIINB,"ICICI Bank Acct XX7211 debited for Rs 2,117.57 on 22-Jul-26; Zepto credited. Bal: Rs 264,601.93",debit,2117.57,Zepto,Groceries
+437,2026-07-22T11:32:39,ICICIB,"Rs.1,282.23 debited from A/c XX6428 on 22-07-26 to VPA bigbasket@upi (BigBasket). Avl Bal Rs.830,913.07",debit,1282.23,BigBasket,Groceries
+438,2026-07-22T17:48:26,HDFCBK,"Rs.55,000.00 credited to A/c XX7631 on 22-07-26 by ACME CORP SALARY. Avl Bal Rs.960,803.41",credit,55000.0,ACME CORP SALARY,Income
+439,2026-07-22T18:05:58,HDFCBK,Money sent! 467 bucks left acct 1357 -> Barbeque Nation. You have 1317023 remaining.,debit,467.0,Barbeque Nation,Food
+440,2026-07-22T18:45:06,SBIINB,"Hi! We've deducted 736.00 INR from your wallet for Dominos (22 Jul). Balance after: 1,269,973.97",debit,736.0,Dominos,Food
+441,2026-07-23T01:50:32,ICICIB,"Txn alert: BigBasket charged you Rs 1970 via card ending 6984. Remaining balance is 1,015,707.13 rupees.",debit,1970.0,BigBasket,Groceries
+442,2026-07-23T02:34:22,HDFCBK,"INR 889.19 debited from Axis Bank A/c XX6644 on 23-07-2026 Info: UPI/Swiggy. Bal INR 572,054.06",debit,889.19,Swiggy,Food
+443,2026-07-23T04:24:40,SBIINB,"Rs.534.87 debited from A/c XX4510 on 23-07-26 to VPA bescom@upi (BESCOM). Avl Bal Rs.1,308,838.15",debit,534.87,BESCOM,Bills
+444,2026-07-23T14:34:44,AXISBK,"Dear Customer, Rs 940.86 spent on your SBI Card XX2768 at BIGBASKET on 23/07/26. Avl limit Rs 326,957.16",debit,940.86,BigBasket,Groceries
+445,2026-07-23T23:18:54,ICICIB,"ICICI Bank Acct XX6654 debited for Rs 313.14 on 23-Jul-26; Zomato credited. Bal: Rs 1,282,138.83",debit,313.14,Zomato,Food
+446,2026-07-24T08:16:16,SBIINB,"Rs.461.99 debited from A/c XX8398 on 24-07-26 to VPA pvrcinemas@upi (PVR Cinemas). Avl Bal Rs.326,899.35",debit,461.99,PVR Cinemas,Entertainment
+447,2026-07-24T10:50:12,SBIINB,"Hi! We've deducted 895.00 INR from your wallet for Dominos (24 Jul). Balance after: 1,303,662.78",debit,895.0,Dominos,Food
+448,2026-07-24T21:13:02,AXISBK,"Rs.1,232.46 debited from A/c XX5072 on 24-07-26 to VPA ajio@upi (Ajio). Avl Bal Rs.913,969.72",debit,1232.46,Ajio,Shopping
+449,2026-07-25T01:01:35,ICICIB,"INR 346.90 debited from Axis Bank A/c XX3192 on 25-07-2026 Info: UPI/Ola. Bal INR 824,906.66",debit,346.9,Ola,Transport
+450,2026-07-25T10:55:17,SBIINB,"INR 2,091.00 credited to Axis Bank A/c XX9824 on 25-07-2026 Info: REFUND/Reliance Fresh. Bal INR 1,317,490.10",credit,2091.0,Reliance Fresh,Refund
+451,2026-07-25T12:55:50,AXISBK,"INR 471.96 debited from Axis Bank A/c XX1307 on 25-07-2026 Info: UPI/Hotstar. Bal INR 370,597.53",debit,471.96,Hotstar,Entertainment
+452,2026-07-25T20:06:05,SBIINB,"ICICI Bank Acct XX8199 debited for Rs 794.91 on 25-Jul-26; 1mg credited. Bal: Rs 359,391.01",debit,794.91,1mg,Health
+453,2026-07-25T20:06:15,HDFCBK,"Rs.1,802.06 debited from A/c XX2317 on 25-07-26 to VPA decathlon@upi (Decathlon). Avl Bal Rs.328,476.34",debit,1802.06,Decathlon,Shopping
+454,2026-07-25T21:46:08,VK-PROMO,Your credit card statement is ready. Pay by 15th to avoid late fee.,noise,,,
+455,2026-07-25T22:00:04,ICICIB,"Rs.60,000.00 credited to A/c XX8412 on 25-07-26 by ACME CORP SALARY. Avl Bal Rs.626,320.32",credit,60000.0,ACME CORP SALARY,Income
+456,2026-07-25T22:05:17,ICICIB,"ICICI Bank Acct XX9900 debited for Rs 1,235.37 on 25-Jul-26; Apollo Pharmacy credited. Bal: Rs 283,235.28",debit,1235.37,Apollo Pharmacy,Health
+457,2026-07-25T23:20:53,HDFCBK,"Dear Customer, Rs 1,578.66 spent on your SBI Card XX5773 at TNEB on 25/07/26. Avl limit Rs 571,550.48",debit,1578.66,TNEB,Bills
+458,2026-07-26T02:36:12,AXISBK,"INR 3,202.64 debited from Axis Bank A/c XX3037 on 26-07-2026 Info: UPI/Myntra. Bal INR 330,278.40",debit,3202.64,Myntra,Shopping
+459,2026-07-26T10:41:23,ICICIB,"Hi! We've deducted 1,218.00 INR from your wallet for Uber (26 Jul). Balance after: 1,279,876.60",debit,1218.0,Uber,Transport
+460,2026-07-26T16:50:20,ICICIB,"INR 913.94 debited from Axis Bank A/c XX5961 on 26-07-2026 Info: UPI/BigBasket. Bal INR 363,531.01",debit,913.94,BigBasket,Groceries
+461,2026-07-26T18:33:58,HDFCBK,"ICICI Bank Acct XX3385 debited for Rs 207.51 on 26-Jul-26; Uber credited. Bal: Rs 1,296,566.36",debit,207.51,Uber,Transport
+462,2026-07-26T20:33:01,SBIINB,"ICICI Bank Acct XX5485 debited for Rs 140.43 on 26-Jul-26; Zomato credited. Bal: Rs 998,516.47",debit,140.43,Zomato,Food
+463,2026-07-26T21:03:22,AXISBK,"Rs.1,936.37 debited from A/c XX7947 on 26-07-26 to VPA dmart@upi (DMart). Avl Bal Rs.375,682.16",debit,1936.37,DMart,Groceries
+464,2026-07-27T00:08:13,HDFCBK,"INR 423.36 debited from Axis Bank A/c XX9290 on 27-07-2026 Info: UPI/Practo. Bal INR 1,056,252.93",debit,423.36,Practo,Health
+465,2026-07-27T08:57:35,SBIINB,"Rs.2,535.69 debited from A/c XX4937 on 27-07-26 to VPA myntra@upi (Myntra). Avl Bal Rs.995,235.81",debit,2535.69,Myntra,Shopping
+466,2026-07-27T11:32:16,SBIINB,"INR 1,340.50 debited from Axis Bank A/c XX3608 on 27-07-2026 Info: UPI/Ola. Bal INR 969,571.73",debit,1340.5,Ola,Transport
+467,2026-07-27T13:26:46,ICICIB,"Your payment of 1,837.00 rupees to Myntra went through today. Account XX1186 now has 763,863.92 left.",debit,1837.0,Myntra,Shopping
+468,2026-07-27T20:17:26,AXISBK,"Rs.701.29 debited from A/c XX2442 on 27-07-26 to VPA starbucks@upi (Starbucks). Avl Bal Rs.1,032,554.86",debit,701.29,Starbucks,Food
+469,2026-07-28T00:48:09,AXISBK,"ICICI Bank Acct XX8851 debited for Rs 1,024.20 on 28-Jul-26; 1mg credited. Bal: Rs 569,790.80",debit,1024.2,1mg,Health
+470,2026-07-28T02:16:55,ICICIB,"Dear Customer, Rs 1,071.80 spent on your SBI Card XX5844 at ZEPTO on 28/07/26. Avl limit Rs 982,403.74",debit,1071.8,Zepto,Groceries
+471,2026-07-28T03:10:17,VK-PROMO,OTP for your transaction is 483920. Do not share it with anyone.,noise,,,
+472,2026-07-28T03:16:09,SBIINB,"Rs.55,000.00 credited to A/c XX5061 on 28-07-26 by ACME CORP SALARY. Avl Bal Rs.463,006.64",credit,55000.0,ACME CORP SALARY,Income
+473,2026-07-28T05:28:37,SBIINB,"Dear Customer, Rs 526.61 spent on your SBI Card XX5246 at CHAI POINT on 28/07/26. Avl limit Rs 254,666.84",debit,526.61,Chai Point,Food
+474,2026-07-28T14:43:14,SBIINB,"Rs.243.58 debited from A/c XX5481 on 28-07-26 to VPA chaipoint@upi (Chai Point). Avl Bal Rs.828,031.48",debit,243.58,Chai Point,Food
+475,2026-07-28T19:49:07,SBIINB,"ICICI Bank Acct XX6553 debited for Rs 695.57 on 28-Jul-26; Practo credited. Bal: Rs 1,287,841.01",debit,695.57,Practo,Health
+476,2026-07-28T20:27:07,HDFCBK,"Rs.55,000.00 credited to A/c XX8987 on 28-07-26 by ACME CORP SALARY. Avl Bal Rs.1,104,359.87",credit,55000.0,ACME CORP SALARY,Income
+477,2026-07-28T21:08:51,AXISBK,"ICICI Bank Acct XX3161 debited for Rs 644.76 on 28-Jul-26; Starbucks credited. Bal: Rs 573,514.33",debit,644.76,Starbucks,Food
+478,2026-07-28T22:28:01,AXISBK,"INR 1,030.00 credited to Axis Bank A/c XX9282 on 28-07-2026 Info: REFUND/Practo. Bal INR 327,361.34",credit,1030.0,Practo,Refund
+479,2026-07-29T01:37:52,AXISBK,"INR 719.20 debited from Axis Bank A/c XX9346 on 29-07-2026 Info: UPI/Reliance Fresh. Bal INR 1,143,973.55",debit,719.2,Reliance Fresh,Groceries
+480,2026-07-29T03:03:08,ICICIB,"Rs.780.22 debited from A/c XX6355 on 29-07-26 to VPA blinkit@upi (Blinkit). Avl Bal Rs.297,522.84",debit,780.22,Blinkit,Groceries
+481,2026-07-29T03:42:42,SBIINB,"Rs.1,641.67 debited from A/c XX8598 on 29-07-26 to VPA reliancefresh@upi (Reliance Fresh). Avl Bal Rs.1,240,005.08",debit,1641.67,Reliance Fresh,Groceries
+482,2026-07-29T06:01:41,HDFCBK,"Rs.55,000.00 credited to A/c XX6901 on 29-07-26 by ACME CORP SALARY. Avl Bal Rs.1,025,531.82",credit,55000.0,ACME CORP SALARY,Income
+483,2026-07-29T06:03:34,SBIINB,"INR 302.18 debited from Axis Bank A/c XX6272 on 29-07-2026 Info: UPI/Starbucks. Bal INR 314,691.85",debit,302.18,Starbucks,Food
+484,2026-07-29T07:10:34,AXISBK,"ICICI Bank Acct XX6085 debited for Rs 1,563.86 on 29-Jul-26; Practo credited. Bal: Rs 1,050,800.87",debit,1563.86,Practo,Health
+485,2026-07-29T09:58:27,HDFCBK,"Dear Customer, Rs 584.08 spent on your SBI Card XX3796 at STARBUCKS on 29/07/26. Avl limit Rs 1,208,549.91",debit,584.08,Starbucks,Food
+486,2026-07-29T13:18:37,SBIINB,"Rs.1,482.71 debited from A/c XX1694 on 29-07-26 to VPA bigbasket@upi (BigBasket). Avl Bal Rs.988,946.67",debit,1482.71,BigBasket,Groceries
+487,2026-07-29T18:28:03,SBIINB,"ICICI Bank Acct XX5982 debited for Rs 721.60 on 29-Jul-26; Reliance Fresh credited. Bal: Rs 1,231,377.45",debit,721.6,Reliance Fresh,Groceries
+488,2026-07-30T01:45:13,HDFCBK,"Dear Customer, Rs 1,239.04 spent on your SBI Card XX5183 at IRCTC on 30/07/26. Avl limit Rs 305,037.01",debit,1239.04,IRCTC,Transport
+489,2026-07-30T07:37:07,ICICIB,"Your payment of 1,431.00 rupees to Ajio went through today. Account XX3756 now has 550,381.68 left.",debit,1431.0,Ajio,Shopping
+490,2026-07-30T08:55:18,SBIINB,"Rs.2,154.31 debited from A/c XX4961 on 30-07-26 to VPA flipkart@upi (Flipkart). Avl Bal Rs.1,229,726.80",debit,2154.31,Flipkart,Shopping
+491,2026-07-30T09:32:31,ICICIB,"INR 3,244.52 debited from Axis Bank A/c XX3798 on 30-07-2026 Info: UPI/Flipkart. Bal INR 1,101,115.35",debit,3244.52,Flipkart,Shopping
+492,2026-07-30T10:30:10,SBIINB,"INR 4,350.31 debited from Axis Bank A/c XX2924 on 30-07-2026 Info: UPI/Decathlon. Bal INR 319,090.17",debit,4350.31,Decathlon,Shopping
+493,2026-07-30T16:00:11,HDFCBK,"Rs.223.43 debited from A/c XX5092 on 30-07-26 to VPA hotstar@upi (Hotstar). Avl Bal Rs.291,955.84",debit,223.43,Hotstar,Entertainment
+494,2026-07-30T17:01:47,ICICIB,"Rs.365.84 debited from A/c XX8296 on 30-07-26 to VPA uber@upi (Uber). Avl Bal Rs.977,533.12",debit,365.84,Uber,Transport
+495,2026-07-30T20:10:56,SBIINB,"ICICI Bank Acct XX4673 debited for Rs 972.94 on 30-Jul-26; Metro Recharge credited. Bal: Rs 1,210,118.43",debit,972.94,Metro Recharge,Transport
+496,2026-07-30T22:10:40,ICICIB,"INR 2,862.67 debited from Axis Bank A/c XX8354 on 30-07-2026 Info: UPI/Flipkart. Bal INR 364,444.95",debit,2862.67,Flipkart,Shopping
+497,2026-07-31T07:44:10,AXISBK,"INR 1,052.62 debited from Axis Bank A/c XX2615 on 31-07-2026 Info: UPI/DMart. Bal INR 554,500.23",debit,1052.62,DMart,Groceries
+498,2026-07-31T18:03:34,HDFCBK,"ICICI Bank Acct XX8165 debited for Rs 1,772.48 on 31-Jul-26; Ola credited. Bal: Rs 1,208,345.95",debit,1772.48,Ola,Transport
+499,2026-07-31T22:04:55,ICICIB,"Rs.52,000.00 credited to A/c XX2948 on 31-07-26 by ACME CORP SALARY. Avl Bal Rs.1,312,282.93",credit,52000.0,ACME CORP SALARY,Income
+500,2026-08-01T03:02:34,SBIINB,"Rs.766.04 debited from A/c XX3975 on 01-08-26 to VPA starbucks@upi (Starbucks). Avl Bal Rs.992,339.38",debit,766.04,Starbucks,Food
+501,2026-08-01T03:47:19,HDFCBK,"Rs.1,996.84 debited from A/c XX1317 on 01-08-26 to VPA bigbasket@upi (BigBasket). Avl Bal Rs.295,526.00",debit,1996.84,BigBasket,Groceries
+502,2026-08-01T05:24:00,HDFCBK,"Dear Customer, Rs 1,240.62 spent on your SBI Card XX9261 at BIGBASKET on 01/08/26. Avl limit Rs 1,243,872.22",debit,1240.62,BigBasket,Groceries
+503,2026-08-01T05:47:12,HDFCBK,"INR 259.61 debited from Axis Bank A/c XX1826 on 01-08-2026 Info: UPI/Starbucks. Bal INR 1,052,460.01",debit,259.61,Starbucks,Food
+504,2026-08-01T09:17:56,AXISBK,"INR 766.97 debited from Axis Bank A/c XX1321 on 01-08-2026 Info: UPI/KFC. Bal INR 1,316,256.13",debit,766.97,KFC,Food
+505,2026-08-01T12:42:11,HDFCBK,"Dear Customer, Rs 1,150.15 spent on your SBI Card XX4187 at RELIANCE FRESH on 01/08/26. Avl limit Rs 829,762.92",debit,1150.15,Reliance Fresh,Groceries
+506,2026-08-01T16:16:45,SBIINB,"ICICI Bank Acct XX1159 debited for Rs 611.91 on 01-Aug-26; Chai Point credited. Bal: Rs 916,962.21",debit,611.91,Chai Point,Food
+507,2026-08-01T20:56:33,SBIINB,"Txn alert: Zepto charged you Rs 878 via card ending 3561. Remaining balance is 982,920.35 rupees.",debit,878.0,Zepto,Groceries
+508,2026-08-01T21:27:11,SBIINB,"ICICI Bank Acct XX3167 debited for Rs 594.51 on 01-Aug-26; Dominos credited. Bal: Rs 788,355.84",debit,594.51,Dominos,Food
+509,2026-08-01T23:44:51,SBIINB,"INR 2,332.61 debited from Axis Bank A/c XX5302 on 01-08-2026 Info: UPI/Reliance Fresh. Bal INR 1,177,200.28",debit,2332.61,Reliance Fresh,Groceries
+510,2026-08-02T00:58:50,ICICIB,"ICICI Bank Acct XX5036 debited for Rs 907.88 on 02-Aug-26; MedPlus credited. Bal: Rs 1,261,111.40",debit,907.88,MedPlus,Health
+511,2026-08-02T01:09:35,ICICIB,"Rs.575.29 debited from A/c XX1272 on 02-08-26 to VPA starbucks@upi (Starbucks). Avl Bal Rs.452,347.72",debit,575.29,Starbucks,Food
+512,2026-08-02T07:32:35,HDFCBK,"Dear Customer, Rs 526.58 spent on your SBI Card XX5896 at NETFLIX on 02/08/26. Avl limit Rs 804,307.01",debit,526.58,Netflix,Entertainment
+513,2026-08-02T08:54:33,ICICIB,"Txn alert: Ola charged you Rs 1708 via card ending 6142. Remaining balance is 925,694.30 rupees.",debit,1708.0,Ola,Transport
+514,2026-08-02T11:32:23,AXISBK,"ICICI Bank Acct XX8539 debited for Rs 614.76 on 02-Aug-26; 1mg credited. Bal: Rs 1,263,632.32",debit,614.76,1mg,Health
+515,2026-08-02T13:04:16,ICICIB,"Dear Customer, Rs 4,052.87 spent on your SBI Card XX4267 at AMAZON on 02/08/26. Avl limit Rs 431,387.74",debit,4052.87,Amazon,Shopping
+516,2026-08-02T15:35:24,ICICIB,"Dear Customer, Rs 385.79 spent on your SBI Card XX1011 at ZOMATO on 02/08/26. Avl limit Rs 770,891.04",debit,385.79,Zomato,Food
+517,2026-08-02T16:17:28,AXISBK,"Rs.1,326.24 debited from A/c XX8144 on 02-08-26 to VPA airtel@upi (Airtel). Avl Bal Rs.1,213,858.50",debit,1326.24,Airtel,Bills
+518,2026-08-02T17:07:59,HDFCBK,"Rs.1,251.55 debited from A/c XX9859 on 02-08-26 to VPA dmart@upi (DMart). Avl Bal Rs.921,738.45",debit,1251.55,DMart,Groceries
+519,2026-08-03T14:41:09,AXISBK,"INR 243.30 debited from Axis Bank A/c XX5012 on 03-08-2026 Info: UPI/Swiggy. Bal INR 409,170.81",debit,243.3,Swiggy,Food
+520,2026-08-03T20:46:25,SBIINB,"ICICI Bank Acct XX8609 debited for Rs 680.32 on 03-Aug-26; Chai Point credited. Bal: Rs 408,490.49",debit,680.32,Chai Point,Food
+521,2026-08-04T01:40:18,ICICIB,"ICICI Bank Acct XX8168 debited for Rs 384.73 on 04-Aug-26; Rapido credited. Bal: Rs 983,814.54",debit,384.73,Rapido,Transport
+522,2026-08-04T02:11:43,SBIINB,"INR 504.50 debited from Axis Bank A/c XX4510 on 04-08-2026 Info: UPI/Hotstar. Bal INR 291,292.31",debit,504.5,Hotstar,Entertainment
+523,2026-08-04T13:30:45,ICICIB,"INR 1,830.50 debited from Axis Bank A/c XX4812 on 04-08-2026 Info: UPI/BESCOM. Bal INR 984,975.87",debit,1830.5,BESCOM,Bills
+524,2026-08-04T16:56:16,AXISBK,"Dear Customer, Rs 221.91 spent on your SBI Card XX4937 at UBER on 04/08/26. Avl limit Rs 289,284.51",debit,221.91,Uber,Transport
+525,2026-08-05T01:35:57,HDFCBK,"INR 2,306.00 credited to Axis Bank A/c XX1621 on 05-08-2026 Info: REFUND/Zomato. Bal INR 771,276.83",credit,2306.0,Zomato,Refund
+526,2026-08-05T03:19:07,ICICIB,"INR 402.88 debited from Axis Bank A/c XX3996 on 05-08-2026 Info: UPI/Jio. Bal INR 922,990.00",debit,402.88,Jio,Bills
+527,2026-08-05T03:30:14,ICICIB,"ICICI Bank Acct XX8083 debited for Rs 4,126.91 on 05-Aug-26; Myntra credited. Bal: Rs 1,213,000.18",debit,4126.91,Myntra,Shopping
+528,2026-08-05T07:14:50,AXISBK,"INR 1,067.62 debited from Axis Bank A/c XX2723 on 05-08-2026 Info: UPI/Amazon. Bal INR 1,299,288.42",debit,1067.62,Amazon,Shopping
+529,2026-08-05T11:14:13,SBIINB,"INR 300.95 debited from Axis Bank A/c XX3947 on 05-08-2026 Info: UPI/Apollo Pharmacy. Bal INR 1,018,335.65",debit,300.95,Apollo Pharmacy,Health
+530,2026-08-05T13:46:50,ICICIB,"INR 1,152.71 debited from Axis Bank A/c XX2093 on 05-08-2026 Info: UPI/IRCTC. Bal INR 1,265,625.00",debit,1152.71,IRCTC,Transport
+531,2026-08-05T18:40:30,VK-PROMO,OTP for your transaction is 483920. Do not share it with anyone.,noise,,,
+532,2026-08-05T21:25:39,ICICIB,"Rs.264.74 debited from A/c XX7189 on 05-08-26 to VPA bigbasket@upi (BigBasket). Avl Bal Rs.1,283,105.76",debit,264.74,BigBasket,Groceries
+533,2026-08-05T22:22:26,ICICIB,"ICICI Bank Acct XX8710 debited for Rs 250.45 on 05-Aug-26; PVR Cinemas credited. Bal: Rs 459,985.44",debit,250.45,PVR Cinemas,Entertainment
+534,2026-08-06T00:23:55,SBIINB,"INR 1,581.09 debited from Axis Bank A/c XX1606 on 06-08-2026 Info: UPI/Uber. Bal INR 310,932.77",debit,1581.09,Uber,Transport
+535,2026-08-06T05:37:47,SBIINB,"INR 925.64 debited from Axis Bank A/c XX2478 on 06-08-2026 Info: UPI/BESCOM. Bal INR 1,263,824.21",debit,925.64,BESCOM,Bills
+536,2026-08-06T17:30:19,SBIINB,"Dear Customer, Rs 321.91 spent on your SBI Card XX4271 at SPOTIFY on 06/08/26. Avl limit Rs 925,372.39",debit,321.91,Spotify,Entertainment
+537,2026-08-06T18:54:48,ICICIB,"INR 1,176.55 debited from Axis Bank A/c XX6530 on 06-08-2026 Info: UPI/Metro Recharge. Bal INR 551,812.68",debit,1176.55,Metro Recharge,Transport
+538,2026-08-07T00:54:01,HDFCBK,"Dear Customer, Rs 1,600.63 spent on your SBI Card XX3927 at ZEPTO on 07/08/26. Avl limit Rs 175,946.31",debit,1600.63,Zepto,Groceries
+539,2026-08-07T06:43:47,AXISBK,"Txn alert: Barbeque Nation charged you Rs 339 via card ending 3276. Remaining balance is 966,810.02 rupees.",debit,339.0,Barbeque Nation,Food
+540,2026-08-07T09:21:40,SBIINB,"INR 1,975.00 credited to Axis Bank A/c XX4617 on 07-08-2026 Info: REFUND/BESCOM. Bal INR 1,020,188.74",credit,1975.0,BESCOM,Refund
+541,2026-08-07T16:18:49,ICICIB,"INR 1,212.70 debited from Axis Bank A/c XX9888 on 07-08-2026 Info: UPI/Tata Power. Bal INR 1,015,529.48",debit,1212.7,Tata Power,Bills
+542,2026-08-07T21:02:51,HDFCBK,"Dear Customer, Rs 712.30 spent on your SBI Card XX2119 at TATA POWER on 07/08/26. Avl limit Rs 1,310,607.75",debit,712.3,Tata Power,Bills
+543,2026-08-08T00:14:55,ICICIB,"Rs.5,204.01 debited from A/c XX2259 on 08-08-26 to VPA myntra@upi (Myntra). Avl Bal Rs.1,184,776.98",debit,5204.01,Myntra,Shopping
+544,2026-08-08T01:35:36,SBIINB,"Dear Customer, Rs 427.15 spent on your SBI Card XX5345 at SPOTIFY on 08/08/26. Avl limit Rs 284,470.65",debit,427.15,Spotify,Entertainment
+545,2026-08-08T03:41:23,ICICIB,"INR 4,531.60 debited from Axis Bank A/c XX2087 on 08-08-2026 Info: UPI/Decathlon. Bal INR 1,248,636.47",debit,4531.6,Decathlon,Shopping
+546,2026-08-08T13:43:41,HDFCBK,"INR 386.55 debited from Axis Bank A/c XX6928 on 08-08-2026 Info: UPI/Zomato. Bal INR 411,668.62",debit,386.55,Zomato,Food
+547,2026-08-08T23:48:31,AXISBK,"INR 1,187.00 credited to Axis Bank A/c XX7961 on 08-08-2026 Info: REFUND/MedPlus. Bal INR 1,208,697.45",credit,1187.0,MedPlus,Refund
+548,2026-08-08T23:55:25,SBIINB,"Dear Customer, Rs 1,788.01 spent on your SBI Card XX9499 at ZEPTO on 08/08/26. Avl limit Rs 567,178.99",debit,1788.01,Zepto,Groceries
+549,2026-08-09T00:36:59,AXISBK,"Dear Customer, Rs 383.21 spent on your SBI Card XX7364 at INDIAN OIL on 09/08/26. Avl limit Rs 614,287.92",debit,383.21,Indian Oil,Transport
+550,2026-08-09T09:08:13,AXISBK,"INR 1,495.03 debited from Axis Bank A/c XX4274 on 09-08-2026 Info: UPI/Reliance Fresh. Bal INR 1,211,505.15",debit,1495.03,Reliance Fresh,Groceries
+551,2026-08-09T18:50:45,HDFCBK,"Hi! We've deducted 294.00 INR from your wallet for Zepto (09 Aug). Balance after: 1,238,135.03",debit,294.0,Zepto,Groceries
+552,2026-08-09T22:10:49,HDFCBK,"Dear Customer, Rs 889.80 spent on your SBI Card XX6491 at ACT FIBERNET on 09/08/26. Avl limit Rs 259,488.15",debit,889.8,ACT Fibernet,Bills
+553,2026-08-10T00:42:21,SBIINB,"INR 733.27 debited from Axis Bank A/c XX3858 on 10-08-2026 Info: UPI/Blinkit. Bal INR 619,979.48",debit,733.27,Blinkit,Groceries
+554,2026-08-10T02:26:22,AXISBK,"Dear Customer, Rs 2,209.06 spent on your SBI Card XX3131 at BLINKIT on 10/08/26. Avl limit Rs 1,245,235.51",debit,2209.06,Blinkit,Groceries
+555,2026-08-10T05:16:02,AXISBK,"Dear Customer, Rs 1,956.45 spent on your SBI Card XX6128 at BLINKIT on 10/08/26. Avl limit Rs 1,223,884.94",debit,1956.45,Blinkit,Groceries
+556,2026-08-10T08:14:04,VK-PROMO,OTP for your transaction is 483920. Do not share it with anyone.,noise,,,
+557,2026-08-10T16:15:57,SBIINB,"ICICI Bank Acct XX8487 debited for Rs 1,680.58 on 10-Aug-26; IRCTC credited. Bal: Rs 453,909.28",debit,1680.58,IRCTC,Transport
+558,2026-08-10T18:06:21,AXISBK,"Rs.4,443.96 debited from A/c XX3226 on 10-08-26 to VPA decathlon@upi (Decathlon). Avl Bal Rs.1,304,394.19",debit,4443.96,Decathlon,Shopping
+559,2026-08-11T00:41:03,AXISBK,"Rs.369.64 debited from A/c XX4415 on 11-08-26 to VPA medplus@upi (MedPlus). Avl Bal Rs.991,311.63",debit,369.64,MedPlus,Health
+560,2026-08-11T13:45:28,HDFCBK,"Dear Customer, Rs 2,709.40 spent on your SBI Card XX1554 at AMAZON on 11/08/26. Avl limit Rs 547,672.28",debit,2709.4,Amazon,Shopping
+561,2026-08-11T19:54:32,AXISBK,"Rs.1,481.25 debited from A/c XX2702 on 11-08-26 to VPA myntra@upi (Myntra). Avl Bal Rs.1,228,245.55",debit,1481.25,Myntra,Shopping
+562,2026-08-11T20:31:06,SBIINB,"INR 1,090.27 debited from Axis Bank A/c XX4603 on 11-08-2026 Info: UPI/Jio. Bal INR 1,000,428.01",debit,1090.27,Jio,Bills
+563,2026-08-11T21:02:18,ICICIB,"Rs.52,000.00 credited to A/c XX8319 on 11-08-26 by ACME CORP SALARY. Avl Bal Rs.522,945.59",credit,52000.0,ACME CORP SALARY,Income
+564,2026-08-11T22:30:18,HDFCBK,"Dear Customer, Rs 473.28 spent on your SBI Card XX5193 at AMAZON on 11/08/26. Avl limit Rs 980,895.42",debit,473.28,Amazon,Shopping
+565,2026-08-12T02:47:49,VK-PROMO,Get 20% cashback on your next recharge! T&C apply. Visit bit.ly/offr,noise,,,
+566,2026-08-12T09:59:36,ICICIB,"INR 774.40 debited from Axis Bank A/c XX1197 on 12-08-2026 Info: UPI/Chai Point. Bal INR 581,767.85",debit,774.4,Chai Point,Food
+567,2026-08-12T19:40:37,AXISBK,"Dear Customer, Rs 1,419.08 spent on your SBI Card XX1795 at RAPIDO on 12/08/26. Avl limit Rs 1,026,393.66",debit,1419.08,Rapido,Transport
+568,2026-08-12T20:47:51,SBIINB,"Dear Customer, Rs 743.42 spent on your SBI Card XX9355 at DMART on 12/08/26. Avl limit Rs 367,750.79",debit,743.42,DMart,Groceries
+569,2026-08-12T21:57:04,ICICIB,"ICICI Bank Acct XX9221 debited for Rs 856.47 on 12-Aug-26; Chai Point credited. Bal: Rs 293,164.76",debit,856.47,Chai Point,Food
+570,2026-08-13T12:09:23,ICICIB,"INR 1,530.05 debited from Axis Bank A/c XX8258 on 13-08-2026 Info: UPI/IRCTC. Bal INR 973,385.58",debit,1530.05,IRCTC,Transport
+571,2026-08-13T16:51:52,AXISBK,"ICICI Bank Acct XX4872 debited for Rs 1,676.76 on 13-Aug-26; 1mg credited. Bal: Rs 1,255,626.88",debit,1676.76,1mg,Health
+572,2026-08-13T17:59:25,SBIINB,"INR 897.88 debited from Axis Bank A/c XX1611 on 13-08-2026 Info: UPI/Netflix. Bal INR 430,489.86",debit,897.88,Netflix,Entertainment
+573,2026-08-13T23:45:33,AXISBK,"Rs.1,594.01 debited from A/c XX6353 on 13-08-26 to VPA actfibernet@upi (ACT Fibernet). Avl Bal Rs.576,930.32",debit,1594.01,ACT Fibernet,Bills
+574,2026-08-14T03:18:35,HDFCBK,"INR 953.32 debited from Axis Bank A/c XX9970 on 14-08-2026 Info: UPI/ACT Fibernet. Bal INR 981,834.34",debit,953.32,ACT Fibernet,Bills
+575,2026-08-14T05:26:15,SBIINB,"Rs.1,016.52 debited from A/c XX5729 on 14-08-26 to VPA indianoil@upi (Indian Oil). Avl Bal Rs.611,537.69",debit,1016.52,Indian Oil,Transport
+576,2026-08-15T13:23:41,HDFCBK,"INR 860.23 debited from Axis Bank A/c XX6876 on 15-08-2026 Info: UPI/Swiggy. Bal INR 280,048.57",debit,860.23,Swiggy,Food
+577,2026-08-16T07:53:11,HDFCBK,"Dear Customer, Rs 240.84 spent on your SBI Card XX1881 at UBER on 16/08/26. Avl limit Rs 958,001.80",debit,240.84,Uber,Transport
+578,2026-08-17T00:59:43,SBIINB,"ICICI Bank Acct XX8904 debited for Rs 1,780.00 on 17-Aug-26; IRCTC credited. Bal: Rs 943,492.18",debit,1780.0,IRCTC,Transport
+579,2026-08-17T01:05:13,HDFCBK,"INR 729.12 debited from Axis Bank A/c XX1881 on 17-08-2026 Info: UPI/Chai Point. Bal INR 1,005,457.55",debit,729.12,Chai Point,Food
+580,2026-08-17T06:12:20,HDFCBK,"Rs.843.36 debited from A/c XX5728 on 17-08-26 to VPA zepto@upi (Zepto). Avl Bal Rs.457,649.90",debit,843.36,Zepto,Groceries
+581,2026-08-17T06:13:10,HDFCBK,"ICICI Bank Acct XX1188 debited for Rs 1,397.36 on 17-Aug-26; IRCTC credited. Bal: Rs 178,349.94",debit,1397.36,IRCTC,Transport
+582,2026-08-17T14:04:48,AXISBK,"Rs.471.78 debited from A/c XX3733 on 17-08-26 to VPA chaipoint@upi (Chai Point). Avl Bal Rs.613,816.14",debit,471.78,Chai Point,Food
+583,2026-08-17T17:37:54,HDFCBK,"Hi! We've deducted 148.00 INR from your wallet for Zomato (17 Aug). Balance after: 1,223,736.94",debit,148.0,Zomato,Food
+584,2026-08-18T07:24:28,ICICIB,"ICICI Bank Acct XX2185 debited for Rs 866.23 on 18-Aug-26; KFC credited. Bal: Rs 930,809.72",debit,866.23,KFC,Food
+585,2026-08-18T15:43:31,HDFCBK,"ICICI Bank Acct XX4478 debited for Rs 4,825.09 on 18-Aug-26; Myntra credited. Bal: Rs 1,013,333.22",debit,4825.09,Myntra,Shopping
+586,2026-08-18T20:34:47,ICICIB,"ICICI Bank Acct XX5631 debited for Rs 1,779.75 on 18-Aug-26; IRCTC credited. Bal: Rs 785,363.23",debit,1779.75,IRCTC,Transport
+587,2026-08-19T04:47:48,ICICIB,"Dear Customer, Rs 426.80 spent on your SBI Card XX7547 at BIGBASKET on 19/08/26. Avl limit Rs 568,967.00",debit,426.8,BigBasket,Groceries
+588,2026-08-19T15:39:48,ICICIB,"Dear Customer, Rs 312.02 spent on your SBI Card XX6971 at DOMINOS on 19/08/26. Avl limit Rs 978,277.58",debit,312.02,Dominos,Food
+589,2026-08-19T18:17:37,SBIINB,"ICICI Bank Acct XX1981 debited for Rs 702.22 on 19-Aug-26; Zomato credited. Bal: Rs 1,274,558.53",debit,702.22,Zomato,Food
+590,2026-08-19T18:24:48,ICICIB,"INR 489.19 debited from Axis Bank A/c XX8951 on 19-08-2026 Info: UPI/Airtel. Bal INR 596,727.25",debit,489.19,Airtel,Bills
+591,2026-08-20T01:26:49,SBIINB,"Dear Customer, Rs 1,330.04 spent on your SBI Card XX3328 at TNEB on 20/08/26. Avl limit Rs 768,970.83",debit,1330.04,TNEB,Bills
+592,2026-08-20T07:03:26,AXISBK,"ICICI Bank Acct XX9037 debited for Rs 191.80 on 20-Aug-26; Hotstar credited. Bal: Rs 1,283,370.50",debit,191.8,Hotstar,Entertainment
+593,2026-08-20T12:31:17,AXISBK,"INR 980.13 debited from Axis Bank A/c XX3931 on 20-08-2026 Info: UPI/Tata Power. Bal INR 975,429.63",debit,980.13,Tata Power,Bills
+594,2026-08-20T19:33:02,HDFCBK,"Rs.479.41 debited from A/c XX7108 on 20-08-26 to VPA practo@upi (Practo). Avl Bal Rs.679,110.48",debit,479.41,Practo,Health
+595,2026-08-20T21:31:43,SBIINB,"INR 354.88 debited from Axis Bank A/c XX9537 on 20-08-2026 Info: UPI/Dominos. Bal INR 579,323.74",debit,354.88,Dominos,Food
+596,2026-08-21T01:02:27,ICICIB,"Rs.556.53 debited from A/c XX2871 on 21-08-26 to VPA bookmyshow@upi (BookMyShow). Avl Bal Rs.610,981.16",debit,556.53,BookMyShow,Entertainment
+597,2026-08-21T01:43:15,ICICIB,"Dear Customer, Rs 3,114.66 spent on your SBI Card XX1845 at MYNTRA on 21/08/26. Avl limit Rs 1,189,980.99",debit,3114.66,Myntra,Shopping
+598,2026-08-21T04:35:44,AXISBK,"Dear Customer, Rs 2,395.60 spent on your SBI Card XX9899 at RELIANCE FRESH on 21/08/26. Avl limit Rs 438,253.31",debit,2395.6,Reliance Fresh,Groceries
+599,2026-08-21T06:52:19,AXISBK,"Rs.591.65 debited from A/c XX6431 on 21-08-26 to VPA medplus@upi (MedPlus). Avl Bal Rs.1,141,095.65",debit,591.65,MedPlus,Health
+600,2026-08-21T07:29:59,AXISBK,"ICICI Bank Acct XX4705 debited for Rs 1,135.29 on 21-Aug-26; Apollo Pharmacy credited. Bal: Rs 380,733.00",debit,1135.29,Apollo Pharmacy,Health
+601,2026-08-21T10:49:03,VK-PROMO,Your credit card statement is ready. Pay by 15th to avoid late fee.,noise,,,
+602,2026-08-21T20:17:04,SBIINB,"INR 350.95 debited from Axis Bank A/c XX9178 on 21-08-2026 Info: UPI/PVR Cinemas. Bal INR 1,275,260.75",debit,350.95,PVR Cinemas,Entertainment
+603,2026-08-21T20:20:00,SBIINB,"INR 1,748.34 debited from Axis Bank A/c XX9821 on 21-08-2026 Info: UPI/Reliance Fresh. Bal INR 908,000.40",debit,1748.34,Reliance Fresh,Groceries
+604,2026-08-21T22:59:52,AXISBK,"Rs.806.50 debited from A/c XX5402 on 21-08-26 to VPA chaipoint@upi (Chai Point). Avl Bal Rs.601,211.21",debit,806.5,Chai Point,Food
+605,2026-08-22T05:57:30,HDFCBK,"ICICI Bank Acct XX1651 debited for Rs 610.48 on 22-Aug-26; Rapido credited. Bal: Rs 285,476.34",debit,610.48,Rapido,Transport
+606,2026-08-22T08:30:43,SBIINB,"Rs.885.14 debited from A/c XX4643 on 22-08-26 to VPA pvrcinemas@upi (PVR Cinemas). Avl Bal Rs.1,245,112.84",debit,885.14,PVR Cinemas,Entertainment
+607,2026-08-22T20:06:33,HDFCBK,"INR 2,155.24 debited from Axis Bank A/c XX1040 on 22-08-2026 Info: UPI/Reliance Fresh. Bal INR 598,193.28",debit,2155.24,Reliance Fresh,Groceries
+608,2026-08-23T03:24:56,SBIINB,"Dear Customer, Rs 1,227.54 spent on your SBI Card XX8871 at AJIO on 23/08/26. Avl limit Rs 449,722.67",debit,1227.54,Ajio,Shopping
+609,2026-08-23T03:31:40,SBIINB,"Rs.508.53 debited from A/c XX1067 on 23-08-26 to VPA chaipoint@upi (Chai Point). Avl Bal Rs.1,221,434.50",debit,508.53,Chai Point,Food
+610,2026-08-23T05:47:09,ICICIB,"Txn alert: Blinkit charged you Rs 1511 via card ending 7841. Remaining balance is 552,989.23 rupees.",debit,1511.0,Blinkit,Groceries
+611,2026-08-23T08:53:05,AXISBK,"INR 573.24 debited from Axis Bank A/c XX2960 on 23-08-2026 Info: UPI/Swiggy. Bal INR 987,735.00",debit,573.24,Swiggy,Food
+612,2026-08-23T15:02:08,ICICIB,"INR 691.23 debited from Axis Bank A/c XX2655 on 23-08-2026 Info: UPI/Zomato. Bal INR 769,769.62",debit,691.23,Zomato,Food
+613,2026-08-23T22:41:17,AXISBK,"Hi! We've deducted 2,408.00 INR from your wallet for Blinkit (23 Aug). Balance after: 1,309,500.24",debit,2408.0,Blinkit,Groceries
+614,2026-08-24T00:13:42,ICICIB,"INR 424.77 debited from Axis Bank A/c XX1364 on 24-08-2026 Info: UPI/Zepto. Bal INR 1,281,444.00",debit,424.77,Zepto,Groceries
+615,2026-08-24T04:15:12,HDFCBK,"Your payment of 448.00 rupees to Barbeque Nation went through today. Account XX6304 now has 330,146.44 left.",debit,448.0,Barbeque Nation,Food
+616,2026-08-24T06:10:37,HDFCBK,"Dear Customer, Rs 385.40 spent on your SBI Card XX5557 at STARBUCKS on 24/08/26. Avl limit Rs 81,170.84",debit,385.4,Starbucks,Food
+617,2026-08-24T11:53:40,VK-PROMO,OTP for your transaction is 483920. Do not share it with anyone.,noise,,,
+618,2026-08-24T12:05:49,SBIINB,"ICICI Bank Acct XX7773 debited for Rs 727.84 on 24-Aug-26; Indian Oil credited. Bal: Rs 1,099,851.97",debit,727.84,Indian Oil,Transport
+619,2026-08-24T12:45:47,VK-PROMO,Your credit card statement is ready. Pay by 15th to avoid late fee.,noise,,,
+620,2026-08-24T16:58:00,AXISBK,"INR 1,787.86 debited from Axis Bank A/c XX8757 on 24-08-2026 Info: UPI/Flipkart. Bal INR 1,245,997.98",debit,1787.86,Flipkart,Shopping
+621,2026-08-24T19:58:40,SBIINB,"Dear Customer, Rs 863.22 spent on your SBI Card XX9939 at METRO RECHARGE on 24/08/26. Avl limit Rs 573,129.14",debit,863.22,Metro Recharge,Transport
+622,2026-08-24T21:23:51,HDFCBK,"ICICI Bank Acct XX2391 debited for Rs 135.38 on 24-Aug-26; Zomato credited. Bal: Rs 1,282,003.45",debit,135.38,Zomato,Food
+623,2026-08-25T04:26:37,SBIINB,"Dear Customer, Rs 668.58 spent on your SBI Card XX8308 at RAPIDO on 25/08/26. Avl limit Rs 791,634.50",debit,668.58,Rapido,Transport
+624,2026-08-25T08:43:06,HDFCBK,"Hi! We've deducted 841.00 INR from your wallet for Blinkit (25 Aug). Balance after: 1,299,417.42",debit,841.0,Blinkit,Groceries
+625,2026-08-25T09:58:42,HDFCBK,"ICICI Bank Acct XX5921 debited for Rs 1,417.41 on 25-Aug-26; Uber credited. Bal: Rs 1,019,071.21",debit,1417.41,Uber,Transport
+626,2026-08-25T17:33:30,SBIINB,"Rs.3,607.32 debited from A/c XX9827 on 25-08-26 to VPA myntra@upi (Myntra). Avl Bal Rs.603,739.91",debit,3607.32,Myntra,Shopping
+627,2026-08-25T17:48:01,ICICIB,"Rs.1,397.51 debited from A/c XX8775 on 25-08-26 to VPA tatapower@upi (Tata Power). Avl Bal Rs.450,950.21",debit,1397.51,Tata Power,Bills
+628,2026-08-25T18:05:08,AXISBK,"ICICI Bank Acct XX7367 debited for Rs 1,619.93 on 25-Aug-26; Blinkit credited. Bal: Rs 614,933.90",debit,1619.93,Blinkit,Groceries
+629,2026-08-26T19:40:51,AXISBK,"INR 676.60 debited from Axis Bank A/c XX9341 on 26-08-2026 Info: UPI/Zomato. Bal INR 455,589.86",debit,676.6,Zomato,Food
+630,2026-08-27T01:34:02,HDFCBK,"ICICI Bank Acct XX5333 debited for Rs 197.11 on 27-Aug-26; Indian Oil credited. Bal: Rs 135,973.73",debit,197.11,Indian Oil,Transport
+631,2026-08-27T05:30:56,AXISBK,"ICICI Bank Acct XX1121 debited for Rs 330.02 on 27-Aug-26; KFC credited. Bal: Rs 1,143,643.53",debit,330.02,KFC,Food
+632,2026-08-27T05:33:55,SBIINB,"INR 4,102.05 debited from Axis Bank A/c XX6356 on 27-08-2026 Info: UPI/Amazon. Bal INR 1,286,480.83",debit,4102.05,Amazon,Shopping
+633,2026-08-27T06:42:40,ICICIB,"Hi! We've deducted 3,230.00 INR from your wallet for Myntra (27 Aug). Balance after: 279,738.69",debit,3230.0,Myntra,Shopping
+634,2026-08-27T10:19:17,SBIINB,Money sent! 657 bucks left acct 4783 -> Swiggy. You have 997859 remaining.,debit,657.0,Swiggy,Food
+635,2026-08-27T13:54:35,HDFCBK,"ICICI Bank Acct XX1745 debited for Rs 5,874.13 on 27-Aug-26; Myntra credited. Bal: Rs 1,229,921.67",debit,5874.13,Myntra,Shopping
+636,2026-08-27T14:48:06,ICICIB,"Rs.2,090.88 debited from A/c XX2417 on 27-08-26 to VPA blinkit@upi (Blinkit). Avl Bal Rs.983,798.35",debit,2090.88,Blinkit,Groceries
+637,2026-08-27T21:09:32,ICICIB,"INR 985.10 debited from Axis Bank A/c XX7232 on 27-08-2026 Info: UPI/Apollo Pharmacy. Bal INR 990,429.38",debit,985.1,Apollo Pharmacy,Health
+638,2026-08-28T01:32:51,SBIINB,"Rs.192.70 debited from A/c XX4920 on 28-08-26 to VPA starbucks@upi (Starbucks). Avl Bal Rs.323,440.48",debit,192.7,Starbucks,Food
+639,2026-08-28T04:09:58,SBIINB,"ICICI Bank Acct XX8454 debited for Rs 271.44 on 28-Aug-26; Barbeque Nation credited. Bal: Rs 1,250,705.02",debit,271.44,Barbeque Nation,Food
+640,2026-08-28T04:26:15,SBIINB,"ICICI Bank Acct XX7267 debited for Rs 862.40 on 28-Aug-26; Ola credited. Bal: Rs 306,276.05",debit,862.4,Ola,Transport
+641,2026-08-28T12:58:20,ICICIB,"INR 512.31 debited from Axis Bank A/c XX7221 on 28-08-2026 Info: UPI/Spotify. Bal INR 863,509.14",debit,512.31,Spotify,Entertainment
+642,2026-08-28T15:53:09,HDFCBK,"INR 993.68 debited from Axis Bank A/c XX2412 on 28-08-2026 Info: UPI/1mg. Bal INR 419,506.87",debit,993.68,1mg,Health
+643,2026-08-28T16:21:31,ICICIB,"Rs.269.68 debited from A/c XX2442 on 28-08-26 to VPA zomato@upi (Zomato). Avl Bal Rs.1,203,741.29",debit,269.68,Zomato,Food
+644,2026-08-29T00:38:27,HDFCBK,"ICICI Bank Acct XX1108 debited for Rs 1,332.38 on 29-Aug-26; Reliance Fresh credited. Bal: Rs 923,392.88",debit,1332.38,Reliance Fresh,Groceries
+645,2026-08-29T01:17:13,ICICIB,"INR 1,174.11 debited from Axis Bank A/c XX9536 on 29-08-2026 Info: UPI/Ola. Bal INR 936,263.33",debit,1174.11,Ola,Transport
+646,2026-08-29T01:17:25,AXISBK,"ICICI Bank Acct XX2740 debited for Rs 174.92 on 29-Aug-26; Swiggy credited. Bal: Rs 1,216,827.42",debit,174.92,Swiggy,Food
+647,2026-08-29T01:56:38,ICICIB,"ICICI Bank Acct XX5026 debited for Rs 195.73 on 29-Aug-26; PVR Cinemas credited. Bal: Rs 773,830.65",debit,195.73,PVR Cinemas,Entertainment
+648,2026-08-29T03:26:35,HDFCBK,"ICICI Bank Acct XX9740 debited for Rs 240.27 on 29-Aug-26; KFC credited. Bal: Rs 408,725.66",debit,240.27,KFC,Food
+649,2026-08-29T06:08:48,AXISBK,"INR 1,618.83 debited from Axis Bank A/c XX9307 on 29-08-2026 Info: UPI/Metro Recharge. Bal INR 361,029.83",debit,1618.83,Metro Recharge,Transport
+650,2026-08-29T06:36:20,ICICIB,"INR 1,797.60 debited from Axis Bank A/c XX1710 on 29-08-2026 Info: UPI/Apollo Pharmacy. Bal INR 327,898.02",debit,1797.6,Apollo Pharmacy,Health
+651,2026-08-29T06:59:35,HDFCBK,"ICICI Bank Acct XX3776 debited for Rs 886.32 on 29-Aug-26; Flipkart credited. Bal: Rs 934,097.01",debit,886.32,Flipkart,Shopping
+652,2026-08-29T12:14:15,ICICIB,"Rs.643.28 debited from A/c XX6826 on 29-08-26 to VPA chaipoint@upi (Chai Point). Avl Bal Rs.1,051,816.73",debit,643.28,Chai Point,Food
+653,2026-08-30T00:22:50,SBIINB,"Dear Customer, Rs 1,947.99 spent on your SBI Card XX6929 at FLIPKART on 30/08/26. Avl limit Rs 1,201,793.30",debit,1947.99,Flipkart,Shopping
+654,2026-08-30T02:36:01,HDFCBK,"Rs.5,722.74 debited from A/c XX2506 on 30-08-26 to VPA flipkart@upi (Flipkart). Avl Bal Rs.1,222,522.81",debit,5722.74,Flipkart,Shopping
+655,2026-08-30T13:49:50,HDFCBK,"INR 1,121.79 debited from Axis Bank A/c XX5395 on 30-08-2026 Info: UPI/BigBasket. Bal INR 866,294.97",debit,1121.79,BigBasket,Groceries
+656,2026-08-30T17:41:02,AXISBK,"ICICI Bank Acct XX9167 debited for Rs 222.19 on 30-Aug-26; KFC credited. Bal: Rs 323,633.18",debit,222.19,KFC,Food
+657,2026-08-31T06:51:29,SBIINB,"ICICI Bank Acct XX2932 debited for Rs 177.34 on 31-Aug-26; 1mg credited. Bal: Rs 1,018,158.31",debit,177.34,1mg,Health
+658,2026-08-31T12:34:21,SBIINB,"ICICI Bank Acct XX5076 debited for Rs 436.23 on 31-Aug-26; DMart credited. Bal: Rs 826,825.21",debit,436.23,DMart,Groceries
+659,2026-08-31T13:58:58,ICICIB,"Your payment of 1,153.00 rupees to Airtel went through today. Account XX9314 now has 1,288,536.58 left.",debit,1153.0,Airtel,Bills
+660,2026-08-31T19:50:54,HDFCBK,"Dear Customer, Rs 1,039.18 spent on your SBI Card XX2591 at ZEPTO on 31/08/26. Avl limit Rs 294,754.71",debit,1039.18,Zepto,Groceries
+661,2026-09-01T02:53:44,SBIINB,"Dear Customer, Rs 1,895.99 spent on your SBI Card XX4022 at BIGBASKET on 01/09/26. Avl limit Rs 618,083.49",debit,1895.99,BigBasket,Groceries
+662,2026-09-01T05:01:31,AXISBK,"Rs.1,430.12 debited from A/c XX7626 on 01-09-26 to VPA bigbasket@upi (BigBasket). Avl Bal Rs.987,318.42",debit,1430.12,BigBasket,Groceries
+663,2026-09-01T07:06:06,ICICIB,"INR 897.08 debited from Axis Bank A/c XX2279 on 01-09-2026 Info: UPI/Apollo Pharmacy. Bal INR 1,141,687.30",debit,897.08,Apollo Pharmacy,Health
+664,2026-09-01T11:30:16,ICICIB,"ICICI Bank Acct XX9516 debited for Rs 805.16 on 01-Sep-26; Hotstar credited. Bal: Rs 1,296,147.20",debit,805.16,Hotstar,Entertainment
+665,2026-09-01T19:33:35,SBIINB,"Rs.735.48 debited from A/c XX5961 on 01-09-26 to VPA starbucks@upi (Starbucks). Avl Bal Rs.570,815.00",debit,735.48,Starbucks,Food
+666,2026-09-01T22:07:40,HDFCBK,"ICICI Bank Acct XX7266 debited for Rs 560.63 on 01-Sep-26; KFC credited. Bal: Rs 1,018,213.74",debit,560.63,KFC,Food
+667,2026-09-02T12:08:06,AXISBK,"Dear Customer, Rs 2,195.60 spent on your SBI Card XX8460 at FLIPKART on 02/09/26. Avl limit Rs 939,816.23",debit,2195.6,Flipkart,Shopping
+668,2026-09-02T13:09:48,SBIINB,"Rs.1,035.98 debited from A/c XX5291 on 02-09-26 to VPA indianoil@upi (Indian Oil). Avl Bal Rs.278,550.05",debit,1035.98,Indian Oil,Transport
+669,2026-09-02T23:56:41,HDFCBK,"Rs.694.45 debited from A/c XX2824 on 02-09-26 to VPA zomato@upi (Zomato). Avl Bal Rs.84,305.55",debit,694.45,Zomato,Food
+670,2026-09-03T09:57:41,HDFCBK,"ICICI Bank Acct XX3340 debited for Rs 248.01 on 03-Sep-26; Barbeque Nation credited. Bal: Rs 594,224.19",debit,248.01,Barbeque Nation,Food
+671,2026-09-03T18:04:12,ICICIB,"INR 1,065.86 debited from Axis Bank A/c XX7244 on 03-09-2026 Info: UPI/Reliance Fresh. Bal INR 566,654.41",debit,1065.86,Reliance Fresh,Groceries
+672,2026-09-03T20:41:42,AXISBK,"ICICI Bank Acct XX4360 debited for Rs 731.55 on 03-Sep-26; PVR Cinemas credited. Bal: Rs 1,294,125.15",debit,731.55,PVR Cinemas,Entertainment
+673,2026-09-04T01:29:08,HDFCBK,"INR 459.41 debited from Axis Bank A/c XX6427 on 04-09-2026 Info: UPI/Practo. Bal INR 541,167.18",debit,459.41,Practo,Health
+674,2026-09-04T04:57:26,AXISBK,Money sent! 1619 bucks left acct 3224 -> Rapido. You have 1009020 remaining.,debit,1619.0,Rapido,Transport
+675,2026-09-04T07:22:09,SBIINB,"Rs.617.70 debited from A/c XX1894 on 04-09-26 to VPA starbucks@upi (Starbucks). Avl Bal Rs.582,542.25",debit,617.7,Starbucks,Food
+676,2026-09-04T12:22:31,AXISBK,"INR 1,459.28 debited from Axis Bank A/c XX5842 on 04-09-2026 Info: UPI/Practo. Bal INR 1,278,095.26",debit,1459.28,Practo,Health
+677,2026-09-04T17:13:43,VK-PROMO,Get 20% cashback on your next recharge! T&C apply. Visit bit.ly/offr,noise,,,
+678,2026-09-04T17:42:46,SBIINB,"Dear Customer, Rs 1,756.46 spent on your SBI Card XX1257 at INDIAN OIL on 04/09/26. Avl limit Rs 1,145,540.48",debit,1756.46,Indian Oil,Transport
+679,2026-09-04T21:40:30,HDFCBK,"Your payment of 1,793.00 rupees to MedPlus went through today. Account XX7689 now has 283,541.70 left.",debit,1793.0,MedPlus,Health
+680,2026-09-04T23:10:20,SBIINB,"INR 509.25 debited from Axis Bank A/c XX5566 on 04-09-2026 Info: UPI/Zomato. Bal INR 430,566.29",debit,509.25,Zomato,Food
+681,2026-09-05T00:27:29,ICICIB,"INR 865.60 debited from Axis Bank A/c XX2315 on 05-09-2026 Info: UPI/PVR Cinemas. Bal INR 308,907.63",debit,865.6,PVR Cinemas,Entertainment
+682,2026-09-05T06:29:08,AXISBK,"ICICI Bank Acct XX4453 debited for Rs 545.55 on 05-Sep-26; Barbeque Nation credited. Bal: Rs 409,414.11",debit,545.55,Barbeque Nation,Food
+683,2026-09-05T17:41:22,HDFCBK,"Txn alert: Rapido charged you Rs 282 via card ending 6697. Remaining balance is 570,652.64 rupees.",debit,282.0,Rapido,Transport
+684,2026-09-05T18:20:51,ICICIB,"INR 537.50 debited from Axis Bank A/c XX7201 on 05-09-2026 Info: UPI/Netflix. Bal INR 967,893.51",debit,537.5,Netflix,Entertainment
+685,2026-09-06T02:46:57,VK-PROMO,Get 20% cashback on your next recharge! T&C apply. Visit bit.ly/offr,noise,,,
+686,2026-09-06T04:00:48,HDFCBK,"INR 3,524.91 debited from Axis Bank A/c XX9051 on 06-09-2026 Info: UPI/Myntra. Bal INR 977,370.51",debit,3524.91,Myntra,Shopping
+687,2026-09-06T05:59:12,ICICIB,"Rs.459.32 debited from A/c XX8423 on 06-09-26 to VPA practo@upi (Practo). Avl Bal Rs.1,220,080.56",debit,459.32,Practo,Health
+688,2026-09-06T09:31:26,HDFCBK,"Dear Customer, Rs 1,125.66 spent on your SBI Card XX3248 at METRO RECHARGE on 06/09/26. Avl limit Rs 1,003,043.13",debit,1125.66,Metro Recharge,Transport
+689,2026-09-06T17:37:40,HDFCBK,"Rs.156.27 debited from A/c XX3883 on 06-09-26 to VPA uber@upi (Uber). Avl Bal Rs.1,269,817.70",debit,156.27,Uber,Transport
+690,2026-09-06T20:29:15,VK-PROMO,Your credit card statement is ready. Pay by 15th to avoid late fee.,noise,,,
+691,2026-09-07T02:36:33,ICICIB,Money sent! 549 bucks left acct 5612 -> KFC. You have 750376 remaining.,debit,549.0,KFC,Food
+692,2026-09-07T08:48:49,SBIINB,"Dear Customer, Rs 768.45 spent on your SBI Card XX6517 at ZOMATO on 07/09/26. Avl limit Rs 409,532.17",debit,768.45,Zomato,Food
+693,2026-09-07T09:00:12,HDFCBK,"Rs.55,000.00 credited to A/c XX2771 on 07-09-26 by ACME CORP SALARY. Avl Bal Rs.875,880.02",credit,55000.0,ACME CORP SALARY,Income
+694,2026-09-07T09:14:55,HDFCBK,Money sent! 347 bucks left acct 5122 -> BigBasket. You have 958242 remaining.,debit,347.0,BigBasket,Groceries
+695,2026-09-07T15:36:55,SBIINB,"ICICI Bank Acct XX2697 debited for Rs 266.59 on 07-Sep-26; Hotstar credited. Bal: Rs 282,968.69",debit,266.59,Hotstar,Entertainment
+696,2026-09-07T20:11:40,ICICIB,"Rs.60,000.00 credited to A/c XX2402 on 07-09-26 by ACME CORP SALARY. Avl Bal Rs.450,723.09",credit,60000.0,ACME CORP SALARY,Income
+697,2026-09-07T21:17:15,ICICIB,Money sent! 1522 bucks left acct 7397 -> Blinkit. You have 1215184 remaining.,debit,1522.0,Blinkit,Groceries
+698,2026-09-08T08:05:00,AXISBK,"Dear Customer, Rs 522.83 spent on your SBI Card XX3293 at DOMINOS on 08/09/26. Avl limit Rs 1,287,318.18",debit,522.83,Dominos,Food
+699,2026-09-08T15:50:05,ICICIB,"ICICI Bank Acct XX4387 debited for Rs 167.84 on 08-Sep-26; Apollo Pharmacy credited. Bal: Rs 968,995.73",debit,167.84,Apollo Pharmacy,Health
+700,2026-09-08T19:54:15,SBIINB,"Rs.250.88 debited from A/c XX2874 on 08-09-26 to VPA dominos@upi (Dominos). Avl Bal Rs.294,969.12",debit,250.88,Dominos,Food
+701,2026-09-09T03:39:53,ICICIB,"Your payment of 867.00 rupees to Swiggy went through today. Account XX2927 now has 1,053,783.41 left.",debit,867.0,Swiggy,Food
+702,2026-09-09T11:29:02,VK-PROMO,OTP for your transaction is 483920. Do not share it with anyone.,noise,,,
+703,2026-09-09T11:36:27,AXISBK,"INR 1,247.22 debited from Axis Bank A/c XX5295 on 09-09-2026 Info: UPI/Apollo Pharmacy. Bal INR 290,827.27",debit,1247.22,Apollo Pharmacy,Health
+704,2026-09-09T18:12:08,ICICIB,"Rs.1,402.28 debited from A/c XX9747 on 09-09-26 to VPA bigbasket@upi (BigBasket). Avl Bal Rs.1,014,127.20",debit,1402.28,BigBasket,Groceries
+705,2026-09-10T00:39:04,AXISBK,"ICICI Bank Acct XX4501 debited for Rs 1,220.05 on 10-Sep-26; Practo credited. Bal: Rs 260,377.95",debit,1220.05,Practo,Health
+706,2026-09-10T06:38:35,ICICIB,"ICICI Bank Acct XX4767 debited for Rs 222.36 on 10-Sep-26; Zepto credited. Bal: Rs 927,846.75",debit,222.36,Zepto,Groceries
+707,2026-09-10T06:42:44,SBIINB,"ICICI Bank Acct XX3598 debited for Rs 755.11 on 10-Sep-26; Netflix credited. Bal: Rs 1,304,557.78",debit,755.11,Netflix,Entertainment
+708,2026-09-10T15:53:33,ICICIB,"Rs.60,000.00 credited to A/c XX1857 on 10-09-26 by ACME CORP SALARY. Avl Bal Rs.419,391.01",credit,60000.0,ACME CORP SALARY,Income
+709,2026-09-10T16:58:49,VK-PROMO,Your credit card statement is ready. Pay by 15th to avoid late fee.,noise,,,
+710,2026-09-11T04:27:41,HDFCBK,"Dear Customer, Rs 614.26 spent on your SBI Card XX8548 at STARBUCKS on 11/09/26. Avl limit Rs 928,069.11",debit,614.26,Starbucks,Food
+711,2026-09-11T08:13:48,SBIINB,"Rs.870.49 debited from A/c XX9870 on 11-09-26 to VPA bigbasket@upi (BigBasket). Avl Bal Rs.1,233,417.19",debit,870.49,BigBasket,Groceries
+712,2026-09-11T12:49:47,SBIINB,"Rs.1,542.41 debited from A/c XX5105 on 11-09-26 to VPA myntra@upi (Myntra). Avl Bal Rs.1,011,852.07",debit,1542.41,Myntra,Shopping
+713,2026-09-12T04:59:10,ICICIB,"Rs.1,159.36 debited from A/c XX4228 on 12-09-26 to VPA medplus@upi (MedPlus). Avl Bal Rs.268,194.65",debit,1159.36,MedPlus,Health
+714,2026-09-12T05:53:45,ICICIB,"ICICI Bank Acct XX2426 debited for Rs 717.62 on 12-Sep-26; KFC credited. Bal: Rs 1,055,185.59",debit,717.62,KFC,Food
+715,2026-09-12T10:31:55,ICICIB,"Your payment of 451.00 rupees to Swiggy went through today. Account XX4712 now has 1,260,428.51 left.",debit,451.0,Swiggy,Food
+716,2026-09-12T12:12:25,ICICIB,"ICICI Bank Acct XX3539 debited for Rs 191.29 on 12-Sep-26; Starbucks credited. Bal: Rs 987,543.71",debit,191.29,Starbucks,Food
+717,2026-09-12T18:32:13,ICICIB,"INR 3,843.17 debited from Axis Bank A/c XX8272 on 12-09-2026 Info: UPI/Myntra. Bal INR 434,143.53",debit,3843.17,Myntra,Shopping
+718,2026-09-12T20:45:04,ICICIB,"Rs.535.82 debited from A/c XX9011 on 12-09-26 to VPA metrorecharge@upi (Metro Recharge). Avl Bal Rs.440,648.91",debit,535.82,Metro Recharge,Transport
+719,2026-09-12T22:01:38,HDFCBK,"ICICI Bank Acct XX4892 debited for Rs 134.40 on 12-Sep-26; MedPlus credited. Bal: Rs 797,745.90",debit,134.4,MedPlus,Health
+720,2026-09-12T22:43:10,ICICIB,"Rs.52,000.00 credited to A/c XX7471 on 12-09-26 by ACME CORP SALARY. Avl Bal Rs.1,315,632.32",credit,52000.0,ACME CORP SALARY,Income
+721,2026-09-12T22:48:48,ICICIB,"Rs.2,277.26 debited from A/c XX4926 on 12-09-26 to VPA reliancefresh@upi (Reliance Fresh). Avl Bal Rs.1,257,303.64",debit,2277.26,Reliance Fresh,Groceries
+722,2026-09-13T00:31:46,SBIINB,"ICICI Bank Acct XX6940 debited for Rs 542.34 on 13-Sep-26; Hotstar credited. Bal: Rs 1,261,667.83",debit,542.34,Hotstar,Entertainment
+723,2026-09-13T04:06:15,SBIINB,Money sent! 5343 bucks left acct 3845 -> Decathlon. You have 1021050 remaining.,debit,5343.0,Decathlon,Shopping
+724,2026-09-13T14:11:03,SBIINB,Money sent! 279 bucks left acct 9047 -> PVR Cinemas. You have 424307 remaining.,debit,279.0,PVR Cinemas,Entertainment
+725,2026-09-13T15:10:06,AXISBK,"INR 2,126.35 debited from Axis Bank A/c XX8254 on 13-09-2026 Info: UPI/BESCOM. Bal INR 928,683.37",debit,2126.35,BESCOM,Bills
+726,2026-09-13T15:24:59,ICICIB,"Rs.343.35 debited from A/c XX2959 on 13-09-26 to VPA irctc@upi (IRCTC). Avl Bal Rs.1,265,281.65",debit,343.35,IRCTC,Transport
+727,2026-09-13T19:10:23,ICICIB,"Rs.52,000.00 credited to A/c XX5981 on 13-09-26 by ACME CORP SALARY. Avl Bal Rs.1,193,095.65",credit,52000.0,ACME CORP SALARY,Income
+728,2026-09-13T19:54:50,HDFCBK,"Dear Customer, Rs 737.00 spent on your SBI Card XX1448 at STARBUCKS on 13/09/26. Avl limit Rs 1,247,899.47",debit,737.0,Starbucks,Food
+729,2026-09-13T20:44:55,SBIINB,"Rs.856.01 debited from A/c XX8840 on 13-09-26 to VPA chaipoint@upi (Chai Point). Avl Bal Rs.445,281.73",debit,856.01,Chai Point,Food
+730,2026-09-13T23:02:47,HDFCBK,"INR 2,235.99 debited from Axis Bank A/c XX7391 on 13-09-2026 Info: UPI/BigBasket. Bal INR 1,210,110.32",debit,2235.99,BigBasket,Groceries
+731,2026-09-13T23:55:50,AXISBK,"Dear Customer, Rs 134.82 spent on your SBI Card XX3273 at SWIGGY on 13/09/26. Avl limit Rs 395,972.81",debit,134.82,Swiggy,Food
+732,2026-09-14T05:21:24,ICICIB,"INR 220.13 debited from Axis Bank A/c XX4700 on 14-09-2026 Info: UPI/Netflix. Bal INR 544,825.80",debit,220.13,Netflix,Entertainment
+733,2026-09-14T07:09:29,SBIINB,"ICICI Bank Acct XX9835 debited for Rs 1,200.45 on 14-Sep-26; Zepto credited. Bal: Rs 952,331.94",debit,1200.45,Zepto,Groceries
+734,2026-09-14T09:10:19,SBIINB,"Rs.693.89 debited from A/c XX9887 on 14-09-26 to VPA dominos@upi (Dominos). Avl Bal Rs.1,238,429.03",debit,693.89,Dominos,Food
+735,2026-09-14T10:03:19,AXISBK,"Rs.284.39 debited from A/c XX9490 on 14-09-26 to VPA barbequenation@upi (Barbeque Nation). Avl Bal Rs.921,454.06",debit,284.39,Barbeque Nation,Food
+736,2026-09-15T01:51:09,HDFCBK,"Your payment of 397.00 rupees to Barbeque Nation went through today. Account XX9796 now has 569,393.80 left.",debit,397.0,Barbeque Nation,Food
+737,2026-09-15T06:07:20,HDFCBK,"Txn alert: Starbucks charged you Rs 514 via card ending 7997. Remaining balance is 974,915.63 rupees.",debit,514.0,Starbucks,Food
+738,2026-09-15T16:07:22,HDFCBK,"INR 430.19 debited from Axis Bank A/c XX3320 on 15-09-2026 Info: UPI/Netflix. Bal INR 770,460.85",debit,430.19,Netflix,Entertainment
+739,2026-09-15T18:46:43,HDFCBK,"ICICI Bank Acct XX6152 debited for Rs 409.84 on 15-Sep-26; Zomato credited. Bal: Rs 1,058,665.29",debit,409.84,Zomato,Food
+740,2026-09-15T21:09:03,SBIINB,"ICICI Bank Acct XX3262 debited for Rs 993.31 on 15-Sep-26; 1mg credited. Bal: Rs 446,412.16",debit,993.31,1mg,Health
+741,2026-09-16T00:05:07,AXISBK,"Rs.1,756.92 debited from A/c XX1826 on 16-09-26 to VPA apollopharmacy@upi (Apollo Pharmacy). Avl Bal Rs.1,301,302.64",debit,1756.92,Apollo Pharmacy,Health
+742,2026-09-16T01:39:10,AXISBK,"Dear Customer, Rs 1,615.48 spent on your SBI Card XX5648 at TNEB on 16/09/26. Avl limit Rs 1,205,124.63",debit,1615.48,TNEB,Bills
+743,2026-09-16T07:03:21,HDFCBK,"Txn alert: MedPlus charged you Rs 384 via card ending 3248. Remaining balance is 630,912.59 rupees.",debit,384.0,MedPlus,Health
+744,2026-09-16T07:52:08,HDFCBK,"Dear Customer, Rs 715.81 spent on your SBI Card XX2965 at BARBEQUE NATION on 16/09/26. Avl limit Rs 1,221,807.00",debit,715.81,Barbeque Nation,Food
+745,2026-09-16T12:18:55,AXISBK,"Rs.242.74 debited from A/c XX8949 on 16-09-26 to VPA spotify@upi (Spotify). Avl Bal Rs.1,223,313.20",debit,242.74,Spotify,Entertainment
+746,2026-09-16T14:30:17,ICICIB,Money sent! 254 bucks left acct 7843 -> Dominos. You have 370343 remaining.,debit,254.0,Dominos,Food
+747,2026-09-16T16:01:32,ICICIB,"INR 633.21 debited from Axis Bank A/c XX9714 on 16-09-2026 Info: UPI/BigBasket. Bal INR 1,234,877.22",debit,633.21,BigBasket,Groceries
+748,2026-09-16T23:22:07,HDFCBK,"Dear Customer, Rs 1,153.71 spent on your SBI Card XX9452 at BESCOM on 16/09/26. Avl limit Rs 398,165.64",debit,1153.71,BESCOM,Bills
+749,2026-09-17T01:16:15,ICICIB,"Dear Customer, Rs 737.81 spent on your SBI Card XX3852 at ZOMATO on 17/09/26. Avl limit Rs 421,958.92",debit,737.81,Zomato,Food
+750,2026-09-17T01:17:06,ICICIB,"Txn alert: Barbeque Nation charged you Rs 660 via card ending 9770. Remaining balance is 1,229,094.60 rupees.",debit,660.0,Barbeque Nation,Food
+751,2026-09-17T03:05:18,ICICIB,"INR 378.62 debited from Axis Bank A/c XX8145 on 17-09-2026 Info: UPI/Barbeque Nation. Bal INR 977,898.96",debit,378.62,Barbeque Nation,Food
+752,2026-09-17T05:36:41,AXISBK,"INR 339.00 debited from Axis Bank A/c XX5511 on 17-09-2026 Info: UPI/PVR Cinemas. Bal INR 788,016.84",debit,339.0,PVR Cinemas,Entertainment
+753,2026-09-17T12:57:06,VK-PROMO,Your credit card statement is ready. Pay by 15th to avoid late fee.,noise,,,
+754,2026-09-17T20:23:55,HDFCBK,"INR 1,548.00 credited to Axis Bank A/c XX8414 on 17-09-2026 Info: REFUND/Swiggy. Bal INR 1,031,294.60",credit,1548.0,Swiggy,Refund
+755,2026-09-18T00:28:25,HDFCBK,"Rs.773.22 debited from A/c XX6536 on 18-09-26 to VPA barbequenation@upi (Barbeque Nation). Avl Bal Rs.1,029,551.29",debit,773.22,Barbeque Nation,Food
+756,2026-09-18T04:45:22,ICICIB,"Dear Customer, Rs 886.97 spent on your SBI Card XX2552 at RAPIDO on 18/09/26. Avl limit Rs 1,277,684.86",debit,886.97,Rapido,Transport
+757,2026-09-18T05:08:58,HDFCBK,"Dear Customer, Rs 2,663.51 spent on your SBI Card XX6640 at DECATHLON on 18/09/26. Avl limit Rs 1,152,766.20",debit,2663.51,Decathlon,Shopping
+758,2026-09-18T07:44:04,AXISBK,"Rs.124.32 debited from A/c XX7291 on 18-09-26 to VPA barbequenation@upi (Barbeque Nation). Avl Bal Rs.258,511.41",debit,124.32,Barbeque Nation,Food
+759,2026-09-18T08:39:33,ICICIB,"Dear Customer, Rs 3,595.72 spent on your SBI Card XX3352 at FLIPKART on 18/09/26. Avl limit Rs 390,723.09",debit,3595.72,Flipkart,Shopping
+760,2026-09-18T14:13:37,AXISBK,"INR 884.69 debited from Axis Bank A/c XX4907 on 18-09-2026 Info: UPI/ACT Fibernet. Bal INR 1,209,225.63",debit,884.69,ACT Fibernet,Bills
+761,2026-09-18T14:17:52,ICICIB,"Dear Customer, Rs 1,475.15 spent on your SBI Card XX5920 at RELIANCE FRESH on 18/09/26. Avl limit Rs 266,719.50",debit,1475.15,Reliance Fresh,Groceries
+762,2026-09-18T16:38:04,AXISBK,"INR 340.57 debited from Axis Bank A/c XX2856 on 18-09-2026 Info: UPI/Rapido. Bal INR 965,731.79",debit,340.57,Rapido,Transport
+763,2026-09-18T17:22:14,HDFCBK,"INR 5,353.49 debited from Axis Bank A/c XX1020 on 18-09-2026 Info: UPI/Flipkart. Bal INR 758,510.43",debit,5353.49,Flipkart,Shopping
+764,2026-09-18T20:57:22,HDFCBK,"ICICI Bank Acct XX8170 debited for Rs 5,829.70 on 18-Sep-26; Flipkart credited. Bal: Rs 403,702.47",debit,5829.7,Flipkart,Shopping
+765,2026-09-18T21:58:55,ICICIB,"Rs.737.12 debited from A/c XX8287 on 18-09-26 to VPA bescom@upi (BESCOM). Avl Bal Rs.1,200,040.46",debit,737.12,BESCOM,Bills
+766,2026-09-19T02:46:38,SBIINB,"Rs.5,215.79 debited from A/c XX4490 on 19-09-26 to VPA ajio@upi (Ajio). Avl Bal Rs.589,008.40",debit,5215.79,Ajio,Shopping
+767,2026-09-19T06:43:46,AXISBK,"Rs.571.08 debited from A/c XX1356 on 19-09-26 to VPA zomato@upi (Zomato). Avl Bal Rs.572,943.25",debit,571.08,Zomato,Food
+768,2026-09-19T15:36:52,ICICIB,"ICICI Bank Acct XX3999 debited for Rs 700.48 on 19-Sep-26; Zomato credited. Bal: Rs 832,195.30",debit,700.48,Zomato,Food
+769,2026-09-19T19:24:03,SBIINB,"Rs.631.70 debited from A/c XX3740 on 19-09-26 to VPA netflix@upi (Netflix). Avl Bal Rs.1,180,270.31",debit,631.7,Netflix,Entertainment
+770,2026-09-20T00:26:40,HDFCBK,"ICICI Bank Acct XX7955 debited for Rs 1,027.31 on 20-Sep-26; Practo credited. Bal: Rs 439,837.32",debit,1027.31,Practo,Health
+771,2026-09-20T00:33:52,SBIINB,"Rs.52,000.00 credited to A/c XX1134 on 20-09-26 by ACME CORP SALARY. Avl Bal Rs.991,598.23",credit,52000.0,ACME CORP SALARY,Income
+772,2026-09-20T02:02:52,HDFCBK,"Dear Customer, Rs 3,641.84 spent on your SBI Card XX2235 at DECATHLON on 20/09/26. Avl limit Rs 973,079.94",debit,3641.84,Decathlon,Shopping
+773,2026-09-20T02:25:59,AXISBK,"ICICI Bank Acct XX6992 debited for Rs 1,492.18 on 20-Sep-26; Zepto credited. Bal: Rs 458,493.26",debit,1492.18,Zepto,Groceries
+774,2026-09-20T06:21:13,AXISBK,"ICICI Bank Acct XX5786 debited for Rs 328.47 on 20-Sep-26; Uber credited. Bal: Rs 1,300,143.17",debit,328.47,Uber,Transport
+775,2026-09-20T17:07:05,HDFCBK,"Rs.662.10 debited from A/c XX7112 on 20-09-26 to VPA tatapower@upi (Tata Power). Avl Bal Rs.827,261.44",debit,662.1,Tata Power,Bills
+776,2026-09-21T01:25:21,ICICIB,"Dear Customer, Rs 196.64 spent on your SBI Card XX9579 at CHAI POINT on 21/09/26. Avl limit Rs 1,056,056.29",debit,196.64,Chai Point,Food
+777,2026-09-21T04:54:27,HDFCBK,"Rs.776.60 debited from A/c XX4161 on 21-09-26 to VPA dmart@upi (DMart). Avl Bal Rs.984,199.27",debit,776.6,DMart,Groceries
+778,2026-09-21T09:55:38,ICICIB,"Rs.821.24 debited from A/c XX2264 on 21-09-26 to VPA chaipoint@upi (Chai Point). Avl Bal Rs.1,020,488.62",debit,821.24,Chai Point,Food
+779,2026-09-21T12:45:45,SBIINB,"Dear Customer, Rs 1,039.54 spent on your SBI Card XX9044 at BLINKIT on 21/09/26. Avl limit Rs 573,992.36",debit,1039.54,Blinkit,Groceries
+780,2026-09-21T14:51:32,VK-PROMO,OTP for your transaction is 483920. Do not share it with anyone.,noise,,,
+781,2026-09-21T22:23:54,ICICIB,"ICICI Bank Acct XX7765 debited for Rs 768.30 on 21-Sep-26; Netflix credited. Bal: Rs 1,253,168.07",debit,768.3,Netflix,Entertainment
+782,2026-09-21T23:02:02,HDFCBK,"INR 1,320.83 debited from Axis Bank A/c XX5764 on 21-09-2026 Info: UPI/Rapido. Bal INR 1,314,050.30",debit,1320.83,Rapido,Transport
+783,2026-09-22T00:26:24,SBIINB,"ICICI Bank Acct XX4437 debited for Rs 660.17 on 22-Sep-26; Hotstar credited. Bal: Rs 1,237,013.86",debit,660.17,Hotstar,Entertainment
+784,2026-09-22T09:42:00,HDFCBK,"INR 229.92 debited from Axis Bank A/c XX8972 on 22-09-2026 Info: UPI/Rapido. Bal INR 1,099,023.95",debit,229.92,Rapido,Transport
+785,2026-09-22T11:02:36,ICICIB,"ICICI Bank Acct XX7383 debited for Rs 466.89 on 22-Sep-26; Dominos credited. Bal: Rs 588,089.65",debit,466.89,Dominos,Food
+786,2026-09-22T19:18:37,SBIINB,"Dear Customer, Rs 2,470.69 spent on your SBI Card XX2827 at AJIO on 22/09/26. Avl limit Rs 1,182,306.29",debit,2470.69,Ajio,Shopping
+787,2026-09-22T19:46:09,AXISBK,"INR 1,684.35 debited from Axis Bank A/c XX7809 on 22-09-2026 Info: UPI/TNEB. Bal INR 1,272,752.41",debit,1684.35,TNEB,Bills
+788,2026-09-23T10:40:05,HDFCBK,"Rs.2,418.39 debited from A/c XX9534 on 23-09-26 to VPA flipkart@upi (Flipkart). Avl Bal Rs.988,893.24",debit,2418.39,Flipkart,Shopping
+789,2026-09-23T11:54:01,ICICIB,"Dear Customer, Rs 1,118.62 spent on your SBI Card XX9830 at ZEPTO on 23/09/26. Avl limit Rs 130,238.38",debit,1118.62,Zepto,Groceries
+790,2026-09-23T15:03:07,AXISBK,"Dear Customer, Rs 450.82 spent on your SBI Card XX2041 at ZEPTO on 23/09/26. Avl limit Rs 329,695.62",debit,450.82,Zepto,Groceries
+791,2026-09-23T16:18:39,ICICIB,"Dear Customer, Rs 299.82 spent on your SBI Card XX6419 at DOMINOS on 23/09/26. Avl limit Rs 287,563.57",debit,299.82,Dominos,Food
+792,2026-09-23T17:07:58,SBIINB,"ICICI Bank Acct XX9691 debited for Rs 1,051.12 on 23-Sep-26; DMart credited. Bal: Rs 379,199.53",debit,1051.12,DMart,Groceries
+793,2026-09-23T19:13:07,HDFCBK,"INR 873.87 debited from Axis Bank A/c XX6549 on 23-09-2026 Info: UPI/Chai Point. Bal INR 292,290.89",debit,873.87,Chai Point,Food
+794,2026-09-23T20:11:00,AXISBK,"INR 1,957.90 debited from Axis Bank A/c XX2480 on 23-09-2026 Info: UPI/ACT Fibernet. Bal INR 306,111.41",debit,1957.9,ACT Fibernet,Bills
+795,2026-09-23T20:42:34,SBIINB,"ICICI Bank Acct XX8846 debited for Rs 5,524.71 on 23-Sep-26; Ajio credited. Bal: Rs 557,417.60",debit,5524.71,Ajio,Shopping
+796,2026-09-23T20:45:48,HDFCBK,"Dear Customer, Rs 368.47 spent on your SBI Card XX3519 at BIGBASKET on 23/09/26. Avl limit Rs 989,186.49",debit,368.47,BigBasket,Groceries
+797,2026-09-24T01:26:44,AXISBK,"Dear Customer, Rs 217.53 spent on your SBI Card XX9535 at SWIGGY on 24/09/26. Avl limit Rs 958,589.64",debit,217.53,Swiggy,Food
+798,2026-09-24T10:12:40,HDFCBK,"Rs.454.87 debited from A/c XX5403 on 24-09-26 to VPA chaipoint@upi (Chai Point). Avl Bal Rs.630,457.72",debit,454.87,Chai Point,Food
+799,2026-09-24T19:56:32,HDFCBK,"Dear Customer, Rs 224.54 spent on your SBI Card XX2188 at APOLLO PHARMACY on 24/09/26. Avl limit Rs 284,897.80",debit,224.54,Apollo Pharmacy,Health
+800,2026-09-24T22:23:49,SBIINB,"Dear Customer, Rs 2,279.14 spent on your SBI Card XX8355 at BLINKIT on 24/09/26. Avl limit Rs 401,423.33",debit,2279.14,Blinkit,Groceries
+801,2026-09-24T23:37:47,AXISBK,"ICICI Bank Acct XX9691 debited for Rs 236.04 on 24-Sep-26; Netflix credited. Bal: Rs 997,771.50",debit,236.04,Netflix,Entertainment
+802,2026-09-25T00:29:22,HDFCBK,"Hi! We've deducted 540.00 INR from your wallet for Blinkit (25 Sep). Balance after: 1,019,648.74",debit,540.0,Blinkit,Groceries
+803,2026-09-25T06:58:53,SBIINB,Money sent! 306 bucks left acct 1508 -> Zomato. You have 295220 remaining.,debit,306.0,Zomato,Food
+804,2026-09-25T08:27:32,HDFCBK,"ICICI Bank Acct XX2581 debited for Rs 264.13 on 25-Sep-26; Zomato credited. Bal: Rs 1,312,018.80",debit,264.13,Zomato,Food
+805,2026-09-25T11:43:12,AXISBK,"INR 1,353.96 debited from Axis Bank A/c XX8251 on 25-09-2026 Info: UPI/Ola. Bal INR 255,193.45",debit,1353.96,Ola,Transport
+806,2026-09-25T15:01:54,HDFCBK,"ICICI Bank Acct XX1745 debited for Rs 1,429.19 on 25-Sep-26; IRCTC credited. Bal: Rs 985,889.23",debit,1429.19,IRCTC,Transport
+807,2026-09-25T16:37:37,ICICIB,"ICICI Bank Acct XX7557 debited for Rs 5,930.13 on 25-Sep-26; Ajio credited. Bal: Rs 1,293,487.29",debit,5930.13,Ajio,Shopping
+808,2026-09-25T21:30:33,SBIINB,"Rs.5,289.56 debited from A/c XX9806 on 25-09-26 to VPA decathlon@upi (Decathlon). Avl Bal Rs.470,945.59",debit,5289.56,Decathlon,Shopping
+809,2026-09-26T04:51:58,ICICIB,"Your payment of 790.00 rupees to Ola went through today. Account XX7164 now has 669,867.91 left.",debit,790.0,Ola,Transport
+810,2026-09-26T07:48:24,HDFCBK,"Dear Customer, Rs 737.34 spent on your SBI Card XX1983 at KFC on 26/09/26. Avl limit Rs 986,806.37",debit,737.34,KFC,Food
+811,2026-09-26T09:52:33,SBIINB,"Dear Customer, Rs 629.86 spent on your SBI Card XX8231 at CHAI POINT on 26/09/26. Avl limit Rs 610,351.30",debit,629.86,Chai Point,Food
+812,2026-09-26T11:58:05,SBIINB,"Hi! We've deducted 635.00 INR from your wallet for Starbucks (26 Sep). Balance after: 1,212,346.31",debit,635.0,Starbucks,Food
+813,2026-09-26T12:39:46,SBIINB,Money sent! 347 bucks left acct 9727 -> Rapido. You have 172578 remaining.,debit,347.0,Rapido,Transport
+814,2026-09-26T19:19:50,AXISBK,"Dear Customer, Rs 1,054.12 spent on your SBI Card XX3209 at METRO RECHARGE on 26/09/26. Avl limit Rs 1,018,083.20",debit,1054.12,Metro Recharge,Transport
+815,2026-09-27T05:21:26,ICICIB,"ICICI Bank Acct XX8054 debited for Rs 712.61 on 27-Sep-26; Ola credited. Bal: Rs 972,672.97",debit,712.61,Ola,Transport
+816,2026-09-27T06:33:52,SBIINB,"INR 883.91 debited from Axis Bank A/c XX7818 on 27-09-2026 Info: UPI/Blinkit. Bal INR 333,629.80",debit,883.91,Blinkit,Groceries
+817,2026-09-27T07:42:38,SBIINB,"ICICI Bank Acct XX2548 debited for Rs 353.59 on 27-Sep-26; BookMyShow credited. Bal: Rs 1,263,812.68",debit,353.59,BookMyShow,Entertainment
+818,2026-09-27T20:06:28,ICICIB,"Dear Customer, Rs 702.67 spent on your SBI Card XX3248 at STARBUCKS on 27/09/26. Avl limit Rs 371,273.55",debit,702.67,Starbucks,Food
+819,2026-09-27T23:49:05,AXISBK,"Rs.658.11 debited from A/c XX5078 on 27-09-26 to VPA bigbasket@upi (BigBasket). Avl Bal Rs.991,681.27",debit,658.11,BigBasket,Groceries
+820,2026-09-28T05:28:24,ICICIB,"INR 1,776.50 debited from Axis Bank A/c XX7995 on 28-09-2026 Info: UPI/BESCOM. Bal INR 1,218,859.02",debit,1776.5,BESCOM,Bills
+821,2026-09-28T05:32:32,ICICIB,"Rs.603.22 debited from A/c XX1764 on 28-09-26 to VPA hotstar@upi (Hotstar). Avl Bal Rs.1,303,059.56",debit,603.22,Hotstar,Entertainment
+822,2026-09-28T10:01:46,AXISBK,"ICICI Bank Acct XX4401 debited for Rs 190.53 on 28-Sep-26; Swiggy credited. Bal: Rs 726,848.61",debit,190.53,Swiggy,Food
+823,2026-09-28T14:43:14,ICICIB,"Dear Customer, Rs 1,618.63 spent on your SBI Card XX7208 at AMAZON on 28/09/26. Avl limit Rs 1,157,405.32",debit,1618.63,Amazon,Shopping
+824,2026-09-28T18:27:26,AXISBK,"Rs.1,738.55 debited from A/c XX8381 on 28-09-26 to VPA practo@upi (Practo). Avl Bal Rs.1,027,812.74",debit,1738.55,Practo,Health
+825,2026-09-28T23:57:48,ICICIB,"Rs.961.64 debited from A/c XX5573 on 28-09-26 to VPA zepto@upi (Zepto). Avl Bal Rs.271,263.43",debit,961.64,Zepto,Groceries
+826,2026-09-29T01:31:16,AXISBK,"ICICI Bank Acct XX5934 debited for Rs 1,424.21 on 29-Sep-26; Uber credited. Bal: Rs 1,001,518.28",debit,1424.21,Uber,Transport
+827,2026-09-29T03:14:43,ICICIB,"Dear Customer, Rs 1,452.44 spent on your SBI Card XX6257 at AMAZON on 29/09/26. Avl limit Rs 795,140.90",debit,1452.44,Amazon,Shopping
+828,2026-09-29T04:00:28,SBIINB,"Dear Customer, Rs 2,900.93 spent on your SBI Card XX7522 at FLIPKART on 29/09/26. Avl limit Rs 940,591.25",debit,2900.93,Flipkart,Shopping
+829,2026-09-29T06:34:13,HDFCBK,"ICICI Bank Acct XX8322 debited for Rs 2,196.99 on 29-Sep-26; DMart credited. Bal: Rs 905,803.41",debit,2196.99,DMart,Groceries
+830,2026-09-29T10:09:23,AXISBK,"INR 1,864.75 debited from Axis Bank A/c XX5637 on 29-09-2026 Info: UPI/Myntra. Bal INR 555,552.85",debit,1864.75,Myntra,Shopping
+831,2026-09-29T10:42:19,SBIINB,"INR 1,558.22 debited from Axis Bank A/c XX4882 on 29-09-2026 Info: UPI/IRCTC. Bal INR 608,313.78",debit,1558.22,IRCTC,Transport
+832,2026-09-29T16:18:58,HDFCBK,"Hi! We've deducted 1,581.00 INR from your wallet for Airtel (29 Sep). Balance after: 377,618.53",debit,1581.0,Airtel,Bills
+833,2026-09-29T18:11:15,HDFCBK,"Rs.120.68 debited from A/c XX8305 on 29-09-26 to VPA barbequenation@upi (Barbeque Nation). Avl Bal Rs.1,216,706.74",debit,120.68,Barbeque Nation,Food
+834,2026-09-29T20:09:57,HDFCBK,"Rs.259.94 debited from A/c XX3584 on 29-09-26 to VPA swiggy@upi (Swiggy). Avl Bal Rs.1,206,740.11",debit,259.94,Swiggy,Food
+835,2026-09-29T20:46:22,ICICIB,Money sent! 569 bucks left acct 3683 -> Dominos. You have 294400 remaining.,debit,569.0,Dominos,Food
+836,2026-09-29T21:33:04,SBIINB,"INR 290.63 debited from Axis Bank A/c XX5308 on 29-09-2026 Info: UPI/DMart. Bal INR 873,590.51",debit,290.63,DMart,Groceries
+837,2026-09-29T23:42:07,SBIINB,"Txn alert: 1mg charged you Rs 185 via card ending 7965. Remaining balance is 258,326.41 rupees.",debit,185.0,1mg,Health
+838,2026-09-30T02:07:44,AXISBK,"Rs.1,178.65 debited from A/c XX2324 on 30-09-26 to VPA medplus@upi (MedPlus). Avl Bal Rs.828,275.06",debit,1178.65,MedPlus,Health
+839,2026-09-30T02:15:42,ICICIB,"Hi! We've deducted 4,588.00 INR from your wallet for Flipkart (30 Sep). Balance after: 583,159.95",debit,4588.0,Flipkart,Shopping
+840,2026-09-30T05:32:20,ICICIB,"Rs.1,390.81 debited from A/c XX7544 on 30-09-26 to VPA dmart@upi (DMart). Avl Bal Rs.932,706.20",debit,1390.81,DMart,Groceries
+841,2026-09-30T06:46:11,SBIINB,"Hi! We've deducted 1,135.00 INR from your wallet for Reliance Fresh (30 Sep). Balance after: 727,039.14",debit,1135.0,Reliance Fresh,Groceries
+842,2026-09-30T07:36:18,SBIINB,"Dear Customer, Rs 881.44 spent on your SBI Card XX7658 at ZOMATO on 30/09/26. Avl limit Rs 276,220.57",debit,881.44,Zomato,Food
+843,2026-09-30T13:02:39,VK-PROMO,Your credit card statement is ready. Pay by 15th to avoid late fee.,noise,,,
+844,2026-09-30T23:35:56,AXISBK,Money sent! 811 bucks left acct 8381 -> Indian Oil. You have 588972 remaining.,debit,811.0,Indian Oil,Transport
+845,2026-10-01T01:39:13,HDFCBK,"Rs.1,476.91 debited from A/c XX7782 on 01-10-26 to VPA reliancefresh@upi (Reliance Fresh). Avl Bal Rs.1,007,543.87",debit,1476.91,Reliance Fresh,Groceries
+846,2026-10-01T07:55:00,ICICIB,"Dear Customer, Rs 448.80 spent on your SBI Card XX8972 at NETFLIX on 01/10/26. Avl limit Rs 916,513.41",debit,448.8,Netflix,Entertainment
+847,2026-10-01T11:51:02,AXISBK,"Rs.60,000.00 credited to A/c XX3985 on 01-10-26 by ACME CORP SALARY. Avl Bal Rs.1,268,061.42",credit,60000.0,ACME CORP SALARY,Income
+848,2026-10-01T12:56:49,HDFCBK,"ICICI Bank Acct XX9316 debited for Rs 733.17 on 01-Oct-26; Metro Recharge credited. Bal: Rs 449,989.92",debit,733.17,Metro Recharge,Transport
+849,2026-10-01T15:35:01,HDFCBK,"Dear Customer, Rs 435.76 spent on your SBI Card XX4362 at RAPIDO on 01/10/26. Avl limit Rs 331,612.81",debit,435.76,Rapido,Transport
+850,2026-10-01T20:09:45,SBIINB,"Rs.1,590.46 debited from A/c XX9116 on 01-10-26 to VPA medplus@upi (MedPlus). Avl Bal Rs.428,899.40",debit,1590.46,MedPlus,Health
+851,2026-10-02T02:21:28,ICICIB,"INR 797.02 debited from Axis Bank A/c XX7520 on 02-10-2026 Info: UPI/Indian Oil. Bal INR 580,842.46",debit,797.02,Indian Oil,Transport
+852,2026-10-02T03:33:19,SBIINB,"INR 1,036.00 credited to Axis Bank A/c XX3784 on 02-10-2026 Info: REFUND/BookMyShow. Bal INR 1,247,785.84",credit,1036.0,BookMyShow,Refund
+853,2026-10-02T03:35:44,ICICIB,"INR 1,394.63 debited from Axis Bank A/c XX7246 on 02-10-2026 Info: UPI/ACT Fibernet. Bal INR 952,402.63",debit,1394.63,ACT Fibernet,Bills
+854,2026-10-02T07:24:19,HDFCBK,"Dear Customer, Rs 1,458.37 spent on your SBI Card XX9094 at INDIAN OIL on 02/10/26. Avl limit Rs 420,500.55",debit,1458.37,Indian Oil,Transport
+855,2026-10-02T07:59:17,ICICIB,"Rs.52,000.00 credited to A/c XX2284 on 02-10-26 by ACME CORP SALARY. Avl Bal Rs.589,783.94",credit,52000.0,ACME CORP SALARY,Income
+856,2026-10-02T09:14:39,SBIINB,"Hi! We've deducted 770.00 INR from your wallet for PVR Cinemas (02 Oct). Balance after: 425,908.92",debit,770.0,PVR Cinemas,Entertainment
+857,2026-10-02T14:15:13,ICICIB,"Txn alert: MedPlus charged you Rs 480 via card ending 8982. Remaining balance is 769,289.62 rupees.",debit,480.0,MedPlus,Health
+858,2026-10-02T18:23:46,SBIINB,"ICICI Bank Acct XX8635 debited for Rs 515.30 on 02-Oct-26; Rapido credited. Bal: Rs 1,285,965.53",debit,515.3,Rapido,Transport
+859,2026-10-03T01:18:33,HDFCBK,"INR 437.95 debited from Axis Bank A/c XX5127 on 03-10-2026 Info: UPI/Dominos. Bal INR 988,748.54",debit,437.95,Dominos,Food
+860,2026-10-03T09:04:25,VK-PROMO,OTP for your transaction is 483920. Do not share it with anyone.,noise,,,
+861,2026-10-03T09:30:05,SBIINB,"Dear Customer, Rs 1,734.23 spent on your SBI Card XX8738 at BIGBASKET on 03/10/26. Avl limit Rs 1,307,766.01",debit,1734.23,BigBasket,Groceries
+862,2026-10-04T07:01:53,SBIINB,"Hi! We've deducted 794.00 INR from your wallet for Ola (04 Oct). Balance after: 292,179.27",debit,794.0,Ola,Transport
+863,2026-10-04T11:31:51,ICICIB,"INR 2,108.61 debited from Axis Bank A/c XX5635 on 04-10-2026 Info: UPI/Tata Power. Bal INR 1,217,971.95",debit,2108.61,Tata Power,Bills
+864,2026-10-04T23:19:11,AXISBK,"Dear Customer, Rs 868.14 spent on your SBI Card XX4863 at CHAI POINT on 04/10/26. Avl limit Rs 917,574.12",debit,868.14,Chai Point,Food
+865,2026-10-05T03:47:07,AXISBK,"ICICI Bank Acct XX6168 debited for Rs 803.57 on 05-Oct-26; KFC credited. Bal: Rs 133,240.33",debit,803.57,KFC,Food
+866,2026-10-05T07:29:38,AXISBK,Money sent! 877 bucks left acct 4865 -> Zomato. You have 1262947 remaining.,debit,877.0,Zomato,Food
+867,2026-10-05T09:00:49,HDFCBK,"ICICI Bank Acct XX3937 debited for Rs 393.96 on 05-Oct-26; Ola credited. Bal: Rs 545,523.95",debit,393.96,Ola,Transport
+868,2026-10-05T15:12:31,SBIINB,"INR 1,884.00 credited to Axis Bank A/c XX7669 on 05-10-2026 Info: REFUND/Decathlon. Bal INR 293,176.31",credit,1884.0,Decathlon,Refund
+869,2026-10-05T20:36:00,ICICIB,"Dear Customer, Rs 270.23 spent on your SBI Card XX8728 at PRACTO on 05/10/26. Avl limit Rs 771,562.00",debit,270.23,Practo,Health
+870,2026-10-05T23:36:18,HDFCBK,"INR 241.90 debited from Axis Bank A/c XX3110 on 05-10-2026 Info: UPI/BookMyShow. Bal INR 775,915.73",debit,241.9,BookMyShow,Entertainment
+871,2026-10-06T00:27:27,HDFCBK,"Rs.806.50 debited from A/c XX9856 on 06-10-26 to VPA starbucks@upi (Starbucks). Avl Bal Rs.1,285,159.03",debit,806.5,Starbucks,Food
+872,2026-10-06T17:41:09,HDFCBK,"Rs.1,179.79 debited from A/c XX3862 on 06-10-26 to VPA reliancefresh@upi (Reliance Fresh). Avl Bal Rs.869,657.26",debit,1179.79,Reliance Fresh,Groceries
+873,2026-10-07T03:10:27,ICICIB,"Dear Customer, Rs 478.02 spent on your SBI Card XX6807 at STARBUCKS on 07/10/26. Avl limit Rs 545,045.93",debit,478.02,Starbucks,Food
+874,2026-10-07T03:56:42,ICICIB,"INR 1,664.43 debited from Axis Bank A/c XX3233 on 07-10-2026 Info: UPI/Metro Recharge. Bal INR 949,782.56",debit,1664.43,Metro Recharge,Transport
+875,2026-10-07T04:04:03,AXISBK,"Rs.843.61 debited from A/c XX9897 on 07-10-26 to VPA jio@upi (Jio). Avl Bal Rs.443,588.09",debit,843.61,Jio,Bills
+876,2026-10-07T10:59:20,SBIINB,"Rs.801.81 debited from A/c XX4271 on 07-10-26 to VPA starbucks@upi (Starbucks). Avl Bal Rs.399,319.35",debit,801.81,Starbucks,Food
+877,2026-10-07T14:04:21,ICICIB,"INR 535.54 debited from Axis Bank A/c XX2752 on 07-10-2026 Info: UPI/Dominos. Bal INR 1,100,579.81",debit,535.54,Dominos,Food
+878,2026-10-07T18:02:41,AXISBK,"Dear Customer, Rs 3,607.20 spent on your SBI Card XX9561 at AJIO on 07/10/26. Avl limit Rs 804,833.59",debit,3607.2,Ajio,Shopping
+879,2026-10-08T04:02:15,ICICIB,"INR 899.18 debited from Axis Bank A/c XX1042 on 08-10-2026 Info: UPI/Hotstar. Bal INR 316,948.64",debit,899.18,Hotstar,Entertainment
+880,2026-10-08T07:50:24,HDFCBK,"Rs.1,530.50 debited from A/c XX6049 on 08-10-26 to VPA apollopharmacy@upi (Apollo Pharmacy). Avl Bal Rs.1,259,580.90",debit,1530.5,Apollo Pharmacy,Health
+881,2026-10-08T10:55:16,HDFCBK,"ICICI Bank Acct XX7046 debited for Rs 692.75 on 08-Oct-26; Swiggy credited. Bal: Rs 976,677.76",debit,692.75,Swiggy,Food
+882,2026-10-08T11:18:21,AXISBK,"Rs.936.72 debited from A/c XX7143 on 08-10-26 to VPA dmart@upi (DMart). Avl Bal Rs.994,299.09",debit,936.72,DMart,Groceries
+883,2026-10-08T17:02:22,SBIINB,"ICICI Bank Acct XX2208 debited for Rs 3,008.67 on 08-Oct-26; Ajio credited. Bal: Rs 416,498.20",debit,3008.67,Ajio,Shopping
+884,2026-10-08T17:08:15,SBIINB,"Rs.851.18 debited from A/c XX4762 on 08-10-26 to VPA zomato@upi (Zomato). Avl Bal Rs.568,794.13",debit,851.18,Zomato,Food
+885,2026-10-08T18:18:06,HDFCBK,"Txn alert: Zomato charged you Rs 831 via card ending 1687. Remaining balance is 1,300,471.64 rupees.",debit,831.0,Zomato,Food
+886,2026-10-08T20:31:57,SBIINB,"ICICI Bank Acct XX5636 debited for Rs 266.18 on 08-Oct-26; DMart credited. Bal: Rs 1,239,597.12",debit,266.18,DMart,Groceries
+887,2026-10-09T07:14:27,SBIINB,"ICICI Bank Acct XX1660 debited for Rs 1,835.66 on 09-Oct-26; BigBasket credited. Bal: Rs 725,012.95",debit,1835.66,BigBasket,Groceries
+888,2026-10-09T08:22:49,HDFCBK,"INR 1,332.00 credited to Axis Bank A/c XX3330 on 09-10-2026 Info: REFUND/MedPlus. Bal INR 333,481.04",credit,1332.0,MedPlus,Refund
+889,2026-10-09T18:22:01,SBIINB,"INR 786.50 debited from Axis Bank A/c XX9972 on 09-10-2026 Info: UPI/Dominos. Bal INR 522,159.09",debit,786.5,Dominos,Food
+890,2026-10-09T21:18:21,SBIINB,"Rs.722.99 debited from A/c XX6925 on 09-10-26 to VPA zomato@upi (Zomato). Avl Bal Rs.135,250.74",debit,722.99,Zomato,Food
+891,2026-10-10T00:00:12,ICICIB,"Dear Customer, Rs 401.86 spent on your SBI Card XX4695 at RAPIDO on 10/10/26. Avl limit Rs 1,005,055.69",debit,401.86,Rapido,Transport
+892,2026-10-10T03:07:20,HDFCBK,"Dear Customer, Rs 677.43 spent on your SBI Card XX2718 at TNEB on 10/10/26. Avl limit Rs 873,881.14",debit,677.43,TNEB,Bills
+893,2026-10-10T03:20:20,AXISBK,"Rs.124.53 debited from A/c XX8861 on 10-10-26 to VPA barbequenation@upi (Barbeque Nation). Avl Bal Rs.1,220,539.88",debit,124.53,Barbeque Nation,Food
+894,2026-10-10T04:57:30,HDFCBK,"Rs.810.01 debited from A/c XX8167 on 10-10-26 to VPA starbucks@upi (Starbucks). Avl Bal Rs.397,355.63",debit,810.01,Starbucks,Food
+895,2026-10-10T09:31:18,HDFCBK,"Rs.579.32 debited from A/c XX6928 on 10-10-26 to VPA starbucks@upi (Starbucks). Avl Bal Rs.369,764.21",debit,579.32,Starbucks,Food
+896,2026-10-10T09:36:01,SBIINB,"Rs.2,307.18 debited from A/c XX3877 on 10-10-26 to VPA blinkit@upi (Blinkit). Avl Bal Rs.1,010,639.78",debit,2307.18,Blinkit,Groceries
+897,2026-10-10T13:18:38,SBIINB,"Dear Customer, Rs 1,628.05 spent on your SBI Card XX5689 at DMART on 10/10/26. Avl limit Rs 295,793.89",debit,1628.05,DMart,Groceries
+898,2026-10-10T22:05:43,AXISBK,"Dear Customer, Rs 391.66 spent on your SBI Card XX8905 at INDIAN OIL on 10/10/26. Avl limit Rs 318,698.51",debit,391.66,Indian Oil,Transport
+899,2026-10-10T22:33:02,HDFCBK,"INR 1,007.33 debited from Axis Bank A/c XX1056 on 10-10-2026 Info: UPI/Metro Recharge. Bal INR 569,645.31",debit,1007.33,Metro Recharge,Transport
+900,2026-10-10T23:12:36,AXISBK,"Txn alert: Reliance Fresh charged you Rs 480 via card ending 3449. Remaining balance is 395,492.81 rupees.",debit,480.0,Reliance Fresh,Groceries
+901,2026-10-11T00:27:50,SBIINB,"Rs.1,674.77 debited from A/c XX9095 on 11-10-26 to VPA airtel@upi (Airtel). Avl Bal Rs.871,726.32",debit,1674.77,Airtel,Bills
+902,2026-10-11T02:28:53,SBIINB,"Rs.4,020.74 debited from A/c XX2702 on 11-10-26 to VPA ajio@upi (Ajio). Avl Bal Rs.989,554.96",debit,4020.74,Ajio,Shopping
+903,2026-10-11T05:36:08,SBIINB,"INR 647.13 debited from Axis Bank A/c XX6833 on 11-10-2026 Info: UPI/Swiggy. Bal INR 924,725.26",debit,647.13,Swiggy,Food
+904,2026-10-11T08:35:47,VK-PROMO,Get 20% cashback on your next recharge! T&C apply. Visit bit.ly/offr,noise,,,
+905,2026-10-11T11:44:58,HDFCBK,"Dear Customer, Rs 2,163.79 spent on your SBI Card XX5237 at DMART on 11/10/26. Avl limit Rs 789,470.71",debit,2163.79,DMart,Groceries
+906,2026-10-11T20:27:30,HDFCBK,"ICICI Bank Acct XX3384 debited for Rs 870.90 on 11-Oct-26; PVR Cinemas credited. Bal: Rs 998,656.90",debit,870.9,PVR Cinemas,Entertainment
+907,2026-10-12T01:39:36,ICICIB,"Rs.55,000.00 credited to A/c XX3967 on 12-10-26 by ACME CORP SALARY. Avl Bal Rs.832,895.78",credit,55000.0,ACME CORP SALARY,Income
+908,2026-10-12T05:51:04,AXISBK,"Rs.835.50 debited from A/c XX5073 on 12-10-26 to VPA swiggy@upi (Swiggy). Avl Bal Rs.1,207,510.45",debit,835.5,Swiggy,Food
+909,2026-10-12T07:02:22,SBIINB,"Rs.811.34 debited from A/c XX5597 on 12-10-26 to VPA barbequenation@upi (Barbeque Nation). Avl Bal Rs.976,721.78",debit,811.34,Barbeque Nation,Food
+910,2026-10-12T10:28:27,HDFCBK,"INR 1,234.00 credited to Axis Bank A/c XX1674 on 12-10-2026 Info: REFUND/MedPlus. Bal INR 409,959.66",credit,1234.0,MedPlus,Refund
+911,2026-10-12T14:11:30,AXISBK,"Your payment of 328.00 rupees to Practo went through today. Account XX6902 now has 1,147,296.94 left.",debit,328.0,Practo,Health
+912,2026-10-12T17:53:37,AXISBK,"INR 625.45 debited from Axis Bank A/c XX8133 on 12-10-2026 Info: UPI/Netflix. Bal INR 1,273,933.08",debit,625.45,Netflix,Entertainment
+913,2026-10-12T18:26:24,ICICIB,"INR 319.17 debited from Axis Bank A/c XX8074 on 12-10-2026 Info: UPI/Swiggy. Bal INR 1,231,881.11",debit,319.17,Swiggy,Food
+914,2026-10-12T18:57:19,HDFCBK,"Dear Customer, Rs 1,240.40 spent on your SBI Card XX3611 at RAPIDO on 12/10/26. Avl limit Rs 864,021.45",debit,1240.4,Rapido,Transport
+915,2026-10-12T23:24:06,SBIINB,"ICICI Bank Acct XX5949 debited for Rs 327.90 on 12-Oct-26; Netflix credited. Bal: Rs 302,921.39",debit,327.9,Netflix,Entertainment
+916,2026-10-13T01:27:17,HDFCBK,"ICICI Bank Acct XX6992 debited for Rs 216.40 on 13-Oct-26; KFC credited. Bal: Rs 292,074.49",debit,216.4,KFC,Food
+917,2026-10-13T02:20:12,ICICIB,"Hi! We've deducted 313.00 INR from your wallet for MedPlus (13 Oct). Balance after: 408,965.93",debit,313.0,MedPlus,Health
+918,2026-10-13T07:55:39,HDFCBK,"Rs.351.35 debited from A/c XX7079 on 13-10-26 to VPA netflix@upi (Netflix). Avl Bal Rs.564,845.13",debit,351.35,Netflix,Entertainment
+919,2026-10-13T18:43:49,HDFCBK,"Rs.930.84 debited from A/c XX8298 on 13-10-26 to VPA blinkit@upi (Blinkit). Avl Bal Rs.1,275,278.24",debit,930.84,Blinkit,Groceries
+920,2026-10-13T22:39:13,HDFCBK,"ICICI Bank Acct XX2983 debited for Rs 358.60 on 13-Oct-26; Reliance Fresh credited. Bal: Rs 293,815.09",debit,358.6,Reliance Fresh,Groceries
+921,2026-10-14T02:13:33,AXISBK,"INR 608.74 debited from Axis Bank A/c XX9261 on 14-10-2026 Info: UPI/BESCOM. Bal INR 426,678.92",debit,608.74,BESCOM,Bills
+922,2026-10-14T03:32:37,HDFCBK,"Dear Customer, Rs 2,661.14 spent on your SBI Card XX4044 at FLIPKART on 14/10/26. Avl limit Rs 286,086.82",debit,2661.14,Flipkart,Shopping
+923,2026-10-14T04:58:58,AXISBK,"Dear Customer, Rs 1,984.18 spent on your SBI Card XX8627 at JIO on 14/10/26. Avl limit Rs 1,246,749.84",debit,1984.18,Jio,Bills
+924,2026-10-14T08:57:43,HDFCBK,"ICICI Bank Acct XX5819 debited for Rs 61.47 on 14-Oct-26; Uber credited. Bal: Rs 1,152,704.73",debit,61.47,Uber,Transport
+925,2026-10-14T18:43:50,SBIINB,"Rs.52,000.00 credited to A/c XX8408 on 14-10-26 by ACME CORP SALARY. Avl Bal Rs.776,868.71",credit,52000.0,ACME CORP SALARY,Income
+926,2026-10-14T22:04:10,HDFCBK,"ICICI Bank Acct XX4814 debited for Rs 574.10 on 14-Oct-26; Reliance Fresh credited. Bal: Rs 134,676.64",debit,574.1,Reliance Fresh,Groceries
+927,2026-10-15T04:39:38,VK-PROMO,Get 20% cashback on your next recharge! T&C apply. Visit bit.ly/offr,noise,,,
+928,2026-10-15T06:25:39,SBIINB,"Rs.520.36 debited from A/c XX4626 on 15-10-26 to VPA starbucks@upi (Starbucks). Avl Bal Rs.788,950.35",debit,520.36,Starbucks,Food
+929,2026-10-15T21:28:34,SBIINB,"Rs.690.00 debited from A/c XX7919 on 15-10-26 to VPA swiggy@upi (Swiggy). Avl Bal Rs.595,226.63",debit,690.0,Swiggy,Food
+930,2026-10-15T21:36:33,AXISBK,"Dear Customer, Rs 561.41 spent on your SBI Card XX6328 at BOOKMYSHOW on 15/10/26. Avl limit Rs 953,532.39",debit,561.41,BookMyShow,Entertainment
+931,2026-10-15T21:40:25,AXISBK,"ICICI Bank Acct XX2158 debited for Rs 882.16 on 15-Oct-26; BigBasket credited. Bal: Rs 1,239,122.92",debit,882.16,BigBasket,Groceries
+932,2026-10-16T02:50:30,ICICIB,"Dear Customer, Rs 420.21 spent on your SBI Card XX5536 at MEDPLUS on 16/10/26. Avl limit Rs 784,943.02",debit,420.21,MedPlus,Health
+933,2026-10-16T03:55:12,HDFCBK,"Rs.1,527.15 debited from A/c XX8827 on 16-10-26 to VPA bigbasket@upi (BigBasket). Avl Bal Rs.274,513.71",debit,1527.15,BigBasket,Groceries
+934,2026-10-16T12:56:11,HDFCBK,"Hi! We've deducted 585.00 INR from your wallet for BigBasket (16 Oct). Balance after: 988,308.24",debit,585.0,BigBasket,Groceries
+935,2026-10-16T14:39:26,ICICIB,"ICICI Bank Acct XX2143 debited for Rs 850.69 on 16-Oct-26; BookMyShow credited. Bal: Rs 317,847.82",debit,850.69,BookMyShow,Entertainment
+936,2026-10-16T15:17:43,SBIINB,"ICICI Bank Acct XX7850 debited for Rs 1,687.38 on 16-Oct-26; MedPlus credited. Bal: Rs 461,319.26",debit,1687.38,MedPlus,Health
+937,2026-10-16T18:46:31,HDFCBK,"ICICI Bank Acct XX9431 debited for Rs 154.32 on 16-Oct-26; Indian Oil credited. Bal: Rs 323,855.37",debit,154.32,Indian Oil,Transport
+938,2026-10-16T20:24:23,AXISBK,"INR 1,954.61 debited from Axis Bank A/c XX3434 on 16-10-2026 Info: UPI/Zepto. Bal INR 314,994.03",debit,1954.61,Zepto,Groceries
+939,2026-10-16T21:37:33,HDFCBK,"INR 871.79 debited from Axis Bank A/c XX6882 on 16-10-2026 Info: UPI/Starbucks. Bal INR 612,944.35",debit,871.79,Starbucks,Food
+940,2026-10-16T22:54:44,ICICIB,Money sent! 1910 bucks left acct 6438 -> Blinkit. You have 441678 remaining.,debit,1910.0,Blinkit,Groceries
+941,2026-10-17T03:27:13,HDFCBK,"Your payment of 1,036.00 rupees to Indian Oil went through today. Account XX9709 now has 1,006,249.17 left.",debit,1036.0,Indian Oil,Transport
+942,2026-10-17T17:51:14,AXISBK,"INR 525.00 credited to Axis Bank A/c XX3347 on 17-10-2026 Info: REFUND/Zomato. Bal INR 380,250.65",credit,525.0,Zomato,Refund
+943,2026-10-18T02:19:16,ICICIB,"ICICI Bank Acct XX5603 debited for Rs 1,609.74 on 18-Oct-26; Reliance Fresh credited. Bal: Rs 1,225,841.39",debit,1609.74,Reliance Fresh,Groceries
+944,2026-10-18T05:35:58,HDFCBK,"Dear Customer, Rs 838.32 spent on your SBI Card XX9864 at BARBEQUE NATION on 18/10/26. Avl limit Rs 308,069.31",debit,838.32,Barbeque Nation,Food
+945,2026-10-18T11:21:59,SBIINB,"INR 1,032.40 debited from Axis Bank A/c XX2192 on 18-10-2026 Info: UPI/Metro Recharge. Bal INR 563,812.73",debit,1032.4,Metro Recharge,Transport
+946,2026-10-18T18:38:13,HDFCBK,"ICICI Bank Acct XX4288 debited for Rs 1,820.66 on 18-Oct-26; Reliance Fresh credited. Bal: Rs 792,611.79",debit,1820.66,Reliance Fresh,Groceries
+947,2026-10-19T00:16:24,VK-PROMO,OTP for your transaction is 483920. Do not share it with anyone.,noise,,,
+948,2026-10-19T06:37:25,HDFCBK,"INR 154.00 credited to Axis Bank A/c XX9706 on 19-10-2026 Info: REFUND/Apollo Pharmacy. Bal INR 954,251.85",credit,154.0,Apollo Pharmacy,Refund
+949,2026-10-19T10:08:54,HDFCBK,"Txn alert: Ajio charged you Rs 5257 via card ending 5644. Remaining balance is 958,200.79 rupees.",debit,5257.0,Ajio,Shopping
+950,2026-10-19T10:55:58,HDFCBK,"INR 357.90 debited from Axis Bank A/c XX7343 on 19-10-2026 Info: UPI/Practo. Bal INR 1,004,168.79",debit,357.9,Practo,Health
+951,2026-10-19T14:36:51,HDFCBK,"INR 853.59 debited from Axis Bank A/c XX7656 on 19-10-2026 Info: UPI/Chai Point. Bal INR 1,253,936.37",debit,853.59,Chai Point,Food
+952,2026-10-19T23:41:50,HDFCBK,"Txn alert: 1mg charged you Rs 1464 via card ending 7755. Remaining balance is 274,756.57 rupees.",debit,1464.0,1mg,Health
+953,2026-10-20T01:20:56,ICICIB,"Dear Customer, Rs 735.21 spent on your SBI Card XX7204 at STARBUCKS on 20/10/26. Avl limit Rs 757,775.22",debit,735.21,Starbucks,Food
+954,2026-10-20T03:06:23,SBIINB,"ICICI Bank Acct XX5945 debited for Rs 640.94 on 20-Oct-26; Netflix credited. Bal: Rs 595,808.50",debit,640.94,Netflix,Entertainment
+955,2026-10-20T03:12:00,ICICIB,"Dear Customer, Rs 145.12 spent on your SBI Card XX9967 at OLA on 20/10/26. Avl limit Rs 972,548.82",debit,145.12,Ola,Transport
+956,2026-10-20T04:58:25,HDFCBK,"Rs.4,422.90 debited from A/c XX8449 on 20-10-26 to VPA flipkart@upi (Flipkart). Avl Bal Rs.978,204.43",debit,4422.9,Flipkart,Shopping
+957,2026-10-20T06:45:47,ICICIB,"INR 169.41 debited from Axis Bank A/c XX1306 on 20-10-2026 Info: UPI/Barbeque Nation. Bal INR 982,234.33",debit,169.41,Barbeque Nation,Food
+958,2026-10-20T15:00:06,AXISBK,"Rs.1,321.15 debited from A/c XX3689 on 20-10-26 to VPA blinkit@upi (Blinkit). Avl Bal Rs.1,283,562.30",debit,1321.15,Blinkit,Groceries
+959,2026-10-20T18:19:38,HDFCBK,"ICICI Bank Acct XX7797 debited for Rs 583.21 on 20-Oct-26; Myntra credited. Bal: Rs 281,794.50",debit,583.21,Myntra,Shopping
+960,2026-10-21T02:56:18,SBIINB,"INR 1,096.96 debited from Axis Bank A/c XX1003 on 21-10-2026 Info: UPI/Reliance Fresh. Bal INR 1,156,308.36",debit,1096.96,Reliance Fresh,Groceries
+961,2026-10-21T03:25:59,HDFCBK,"Rs.770.09 debited from A/c XX6384 on 21-10-26 to VPA apollopharmacy@upi (Apollo Pharmacy). Avl Bal Rs.1,220,664.41",debit,770.09,Apollo Pharmacy,Health
+962,2026-10-21T11:41:43,HDFCBK,"INR 862.15 debited from Axis Bank A/c XX8755 on 21-10-2026 Info: UPI/MedPlus. Bal INR 1,312,372.10",debit,862.15,MedPlus,Health
+963,2026-10-21T19:25:04,HDFCBK,"Your payment of 1,119.00 rupees to 1mg went through today. Account XX3406 now has 963,457.79 left.",debit,1119.0,1mg,Health
+964,2026-10-22T19:40:12,SBIINB,"ICICI Bank Acct XX2816 debited for Rs 1,171.48 on 22-Oct-26; Uber credited. Bal: Rs 1,220,635.52",debit,1171.48,Uber,Transport
+965,2026-10-22T22:25:33,SBIINB,"INR 671.67 debited from Axis Bank A/c XX2646 on 22-10-2026 Info: UPI/Indian Oil. Bal INR 588,336.73",debit,671.67,Indian Oil,Transport
+966,2026-10-23T00:10:41,AXISBK,"INR 454.59 debited from Axis Bank A/c XX8069 on 23-10-2026 Info: UPI/KFC. Bal INR 953,797.26",debit,454.59,KFC,Food
+967,2026-10-23T02:47:30,HDFCBK,"Dear Customer, Rs 369.62 spent on your SBI Card XX7208 at NETFLIX on 23/10/26. Avl limit Rs 1,025,162.20",debit,369.62,Netflix,Entertainment
+968,2026-10-23T12:50:43,AXISBK,"ICICI Bank Acct XX1930 debited for Rs 4,070.24 on 23-Oct-26; Amazon credited. Bal: Rs 780,872.78",debit,4070.24,Amazon,Shopping
+969,2026-10-23T14:51:24,ICICIB,"Dear Customer, Rs 1,794.95 spent on your SBI Card XX4170 at RELIANCE FRESH on 23/10/26. Avl limit Rs 978,589.60",debit,1794.95,Reliance Fresh,Groceries
+970,2026-10-24T12:34:39,SBIINB,"Rs.889.27 debited from A/c XX5192 on 24-10-26 to VPA medplus@upi (MedPlus). Avl Bal Rs.870,837.05",debit,889.27,MedPlus,Health
+971,2026-10-24T15:10:25,HDFCBK,"Dear Customer, Rs 152.66 spent on your SBI Card XX1832 at NETFLIX on 24/10/26. Avl limit Rs 279,586.03",debit,152.66,Netflix,Entertainment
+972,2026-10-24T15:33:47,ICICIB,"Rs.60,000.00 credited to A/c XX1514 on 24-10-26 by ACME CORP SALARY. Avl Bal Rs.291,796.81",credit,60000.0,ACME CORP SALARY,Income
+973,2026-10-24T16:31:57,SBIINB,"Your payment of 317.00 rupees to Chai Point went through today. Account XX9397 now has 981,517.34 left.",debit,317.0,Chai Point,Food
+974,2026-10-24T19:40:50,ICICIB,"Dear Customer, Rs 1,211.64 spent on your SBI Card XX1600 at 1MG on 24/10/26. Avl limit Rs 971,868.30",debit,1211.64,1mg,Health
+975,2026-10-25T00:03:22,AXISBK,"Rs.744.49 debited from A/c XX4651 on 25-10-26 to VPA pvrcinemas@upi (PVR Cinemas). Avl Bal Rs.967,149.02",debit,744.49,PVR Cinemas,Entertainment
+976,2026-10-25T05:40:10,AXISBK,"Your payment of 440.00 rupees to BookMyShow went through today. Account XX6915 now has 1,274,838.24 left.",debit,440.0,BookMyShow,Entertainment
+977,2026-10-25T07:53:20,AXISBK,"INR 884.95 debited from Axis Bank A/c XX6688 on 25-10-2026 Info: UPI/TNEB. Bal INR 951,446.99",debit,884.95,TNEB,Bills
+978,2026-10-25T08:15:24,SBIINB,"ICICI Bank Acct XX3378 debited for Rs 265.99 on 25-Oct-26; Metro Recharge credited. Bal: Rs 999,527.80",debit,265.99,Metro Recharge,Transport
+979,2026-10-25T08:28:47,ICICIB,"ICICI Bank Acct XX4084 debited for Rs 843.91 on 25-Oct-26; Uber credited. Bal: Rs 360,185.92",debit,843.91,Uber,Transport
+980,2026-10-25T09:19:22,HDFCBK,"INR 1,290.50 debited from Axis Bank A/c XX6638 on 25-10-2026 Info: UPI/Practo. Bal INR 1,294,856.70",debit,1290.5,Practo,Health
+981,2026-10-25T14:34:09,AXISBK,"Rs.189.42 debited from A/c XX4402 on 25-10-26 to VPA barbequenation@upi (Barbeque Nation). Avl Bal Rs.873,401.09",debit,189.42,Barbeque Nation,Food
+982,2026-10-26T02:14:36,AXISBK,"Hi! We've deducted 1,441.00 INR from your wallet for MedPlus (26 Oct). Balance after: 1,049,359.87",debit,1441.0,MedPlus,Health
+983,2026-10-26T04:54:19,AXISBK,"Dear Customer, Rs 536.45 spent on your SBI Card XX7671 at NETFLIX on 26/10/26. Avl limit Rs 794,604.45",debit,536.45,Netflix,Entertainment
+984,2026-10-26T05:24:59,ICICIB,"ICICI Bank Acct XX2929 debited for Rs 5,979.64 on 26-Oct-26; Flipkart credited. Bal: Rs 424,586.65",debit,5979.64,Flipkart,Shopping
+985,2026-10-26T09:27:42,AXISBK,"Txn alert: Rapido charged you Rs 1374 via card ending 5478. Remaining balance is 1,269,601.41 rupees.",debit,1374.0,Rapido,Transport
+986,2026-10-26T17:12:31,SBIINB,"INR 2,428.83 debited from Axis Bank A/c XX5557 on 26-10-2026 Info: UPI/Blinkit. Bal INR 324,853.56",debit,2428.83,Blinkit,Groceries
+987,2026-10-26T22:17:03,AXISBK,"Your payment of 579.00 rupees to KFC went through today. Account XX1202 now has 798,688.72 left.",debit,579.0,KFC,Food
+988,2026-10-26T23:43:12,AXISBK,"Hi! We've deducted 1,779.00 INR from your wallet for Rapido (26 Oct). Balance after: 256,547.41",debit,1779.0,Rapido,Transport
+989,2026-10-27T05:22:16,SBIINB,"Dear Customer, Rs 262.77 spent on your SBI Card XX2388 at SWIGGY on 27/10/26. Avl limit Rs 614,671.13",debit,262.77,Swiggy,Food
+990,2026-10-27T05:49:43,VK-PROMO,Your credit card statement is ready. Pay by 15th to avoid late fee.,noise,,,
+991,2026-10-27T07:40:38,ICICIB,"ICICI Bank Acct XX2477 debited for Rs 665.69 on 27-Oct-26; Rapido credited. Bal: Rs 932,040.51",debit,665.69,Rapido,Transport
+992,2026-10-27T09:22:28,HDFCBK,"INR 107.16 debited from Axis Bank A/c XX3091 on 27-10-2026 Info: UPI/Metro Recharge. Bal INR 246,303.06",debit,107.16,Metro Recharge,Transport
+993,2026-10-28T00:29:06,SBIINB,"INR 548.00 credited to Axis Bank A/c XX8629 on 28-10-2026 Info: REFUND/Netflix. Bal INR 1,052,364.73",credit,548.0,Netflix,Refund
+994,2026-10-28T02:00:55,HDFCBK,"Rs.784.43 debited from A/c XX4747 on 28-10-26 to VPA barbequenation@upi (Barbeque Nation). Avl Bal Rs.1,244,044.35",debit,784.43,Barbeque Nation,Food
+995,2026-10-28T05:44:15,SBIINB,"ICICI Bank Acct XX5334 debited for Rs 319.24 on 28-Oct-26; Metro Recharge credited. Bal: Rs 332,149.04",debit,319.24,Metro Recharge,Transport
+996,2026-10-28T09:57:14,HDFCBK,"Rs.879.92 debited from A/c XX2180 on 28-10-26 to VPA uber@upi (Uber). Avl Bal Rs.1,209,893.99",debit,879.92,Uber,Transport
+997,2026-10-28T10:09:58,SBIINB,"Txn alert: KFC charged you Rs 211 via card ending 9804. Remaining balance is 1,200,777.58 rupees.",debit,211.0,KFC,Food
+998,2026-10-28T10:28:39,HDFCBK,"ICICI Bank Acct XX2730 debited for Rs 808.42 on 28-Oct-26; BookMyShow credited. Bal: Rs 797,880.30",debit,808.42,BookMyShow,Entertainment
+999,2026-10-28T12:50:24,AXISBK,"Your payment of 4,644.00 rupees to Flipkart went through today. Account XX5421 now has 991,885.15 left.",debit,4644.0,Flipkart,Shopping
+1000,2026-10-28T15:40:05,ICICIB,"Dear Customer, Rs 855.97 spent on your SBI Card XX7438 at SWIGGY on 28/10/26. Avl limit Rs 728,174.14",debit,855.97,Swiggy,Food
